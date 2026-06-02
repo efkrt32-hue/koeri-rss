@@ -4,8 +4,22 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Tue, 02 Jun 2026 21:00:04 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 02 Jun 2026 23:06:56 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.7 - KARAAGAC-PAZARCIK (KAHRAMANMARAS) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.03-00:24:10-37.5938-37.3202-1.7</guid>
+      <description>Tarih: 2026.06.03 00:24:10 | Derinlik: 6.1 km | Konum: 37.5938, 37.3202</description>
+    </item>
+
+    <item>
+      <title>M1.4 - HARUNUSAGI-AKCADAG (MALATYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.02-23:58:39-38.2612-37.7250-1.4</guid>
+      <description>Tarih: 2026.06.02 23:58:39 | Derinlik: 11.8 km | Konum: 38.2612, 37.7250</description>
+    </item>
+
     <item>
       <title>M2.0 - CARDAK (DENIZLI) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -340,20 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.06.02-00:34:05-39.9958-35.4947-1.9</guid>
       <description>Tarih: 2026.06.02 00:34:05 | Derinlik: 6.7 km | Konum: 39.9958, 35.4947</description>
-    </item>
-
-    <item>
-      <title>M2.2 - GUNBATUR-KELKIT (GUMUSHANE) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.01-23:54:04-39.9332-39.6387-2.2</guid>
-      <description>Tarih: 2026.06.01 23:54:04 | Derinlik: 9.1 km | Konum: 39.9332, 39.6387</description>
-    </item>
-
-    <item>
-      <title>M2.1 - NUH-SINANPASA (AFYONKARAHISAR) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.01-23:51:40-38.5785-30.3115-2.1</guid>
-      <description>Tarih: 2026.06.01 23:51:40 | Derinlik: 8.3 km | Konum: 38.5785, 30.3115</description>
     </item>
 
 </channel>
