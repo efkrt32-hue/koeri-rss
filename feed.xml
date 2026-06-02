@@ -4,8 +4,29 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Tue, 02 Jun 2026 20:21:34 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 02 Jun 2026 21:00:04 +0000</lastBuildDate>
   
+    <item>
+      <title>M2.0 - CARDAK (DENIZLI) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.02-23:32:09-37.8400-29.6418-2.0</guid>
+      <description>Tarih: 2026.06.02 23:32:09 | Derinlik: 10.2 km | Konum: 37.8400, 29.6418</description>
+    </item>
+
+    <item>
+      <title>M2.1 - CARDAK (DENIZLI) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.02-23:21:25-37.8388-29.6993-2.1</guid>
+      <description>Tarih: 2026.06.02 23:21:25 | Derinlik: 12.7 km | Konum: 37.8388, 29.6993</description>
+    </item>
+
+    <item>
+      <title>M1.4 - SEYITUSAGI-YESILYURT (MALATYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.02-23:20:19-38.2825-38.1670-1.4</guid>
+      <description>Tarih: 2026.06.02 23:20:19 | Derinlik: 8.0 km | Konum: 38.2825, 38.1670</description>
+    </item>
+
     <item>
       <title>M1.9 - ATLIDERE-FETHIYE (MUGLA) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -333,27 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.06.01-23:51:40-38.5785-30.3115-2.1</guid>
       <description>Tarih: 2026.06.01 23:51:40 | Derinlik: 8.3 km | Konum: 38.5785, 30.3115</description>
-    </item>
-
-    <item>
-      <title>M2.6 - GIRIT ADASI (AKDENIZ) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.01-23:50:38-35.3627-26.6122-2.6</guid>
-      <description>Tarih: 2026.06.01 23:50:38 | Derinlik: 1.0 km | Konum: 35.3627, 26.6122</description>
-    </item>
-
-    <item>
-      <title>M1.9 - KURUCAOVA-(KAHRAMANMARAS) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.01-23:31:21-37.9357-36.5513-1.9</guid>
-      <description>Tarih: 2026.06.01 23:31:21 | Derinlik: 5.0 km | Konum: 37.9357, 36.5513</description>
-    </item>
-
-    <item>
-      <title>M2.1 - SEKEROBA-TURKOGLU (KAHRAMANMARAS) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.01-22:25:42-37.2698-36.7880-2.1</guid>
-      <description>Tarih: 2026.06.01 22:25:42 | Derinlik: 9.5 km | Konum: 37.2698, 36.7880</description>
     </item>
 
 </channel>
