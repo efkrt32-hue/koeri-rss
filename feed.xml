@@ -4,8 +4,43 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sat, 06 Jun 2026 04:33:22 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 06 Jun 2026 07:36:01 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.8 - IRLIGANLI-(DENIZLI) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.06-09:18:31-37.8783-29.2153-1.8</guid>
+      <description>Tarih: 2026.06.06 09:18:31 | Derinlik: 7.0 km | Konum: 37.8783, 29.2153</description>
+    </item>
+
+    <item>
+      <title>M2.1 - EGE DENIZI İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.06-09:11:42-36.6760-25.7263-2.1</guid>
+      <description>Tarih: 2026.06.06 09:11:42 | Derinlik: 8.6 km | Konum: 36.6760, 25.7263</description>
+    </item>
+
+    <item>
+      <title>M2.0 - IRLIGANLI-(DENIZLI) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.06-09:07:29-37.8818-29.1930-2.0</guid>
+      <description>Tarih: 2026.06.06 09:07:29 | Derinlik: 7.8 km | Konum: 37.8818, 29.1930</description>
+    </item>
+
+    <item>
+      <title>M1.8 - ORNEKKOY-ULA (MUGLA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.06-08:42:30-37.0193-28.5147-1.8</guid>
+      <description>Tarih: 2026.06.06 08:42:30 | Derinlik: 9.4 km | Konum: 37.0193, 28.5147</description>
+    </item>
+
+    <item>
+      <title>M2.4 - GOLPINAR-GOKSUN (KAHRAMANMARAS) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.06-08:22:05-37.9515-36.5233-2.4</guid>
+      <description>Tarih: 2026.06.06 08:22:05 | Derinlik: 2.0 km | Konum: 37.9515, 36.5233</description>
+    </item>
+
     <item>
       <title>M1.4 - CARDAK (DENIZLI) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -42,7 +77,7 @@
     </item>
 
     <item>
-      <title>M2.0 - TASUCU-SILIFKE (MERSIN) REVIZE01 (2026.06.06 05:18:04)</title>
+      <title>M2.0 - TASUCU-SILIFKE (MERSIN) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.06.06-05:18:04-36.2695-33.9282-2.0</guid>
       <description>Tarih: 2026.06.06 05:18:04 | Derinlik: 8.4 km | Konum: 36.2695, 33.9282</description>
@@ -319,41 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.06.05-18:36:44-37.7652-36.0603-1.5</guid>
       <description>Tarih: 2026.06.05 18:36:44 | Derinlik: 5.1 km | Konum: 37.7652, 36.0603</description>
-    </item>
-
-    <item>
-      <title>M1.9 - EGE DENIZI İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.05-17:56:41-39.4637-25.3287-1.9</guid>
-      <description>Tarih: 2026.06.05 17:56:41 | Derinlik: 1.7 km | Konum: 39.4637, 25.3287</description>
-    </item>
-
-    <item>
-      <title>M2.0 - KIZILAGIL-(BOLU) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.05-17:51:16-40.7815-31.5333-2.0</guid>
-      <description>Tarih: 2026.06.05 17:51:16 | Derinlik: 8.7 km | Konum: 40.7815, 31.5333</description>
-    </item>
-
-    <item>
-      <title>M1.7 - KAZANDERE-GOKSUN (KAHRAMANMARAS) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.05-17:29:35-37.9483-36.2848-1.7</guid>
-      <description>Tarih: 2026.06.05 17:29:35 | Derinlik: 14.3 km | Konum: 37.9483, 36.2848</description>
-    </item>
-
-    <item>
-      <title>M1.8 - EGE DENIZI İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.05-17:16:57-36.6363-25.7462-1.8</guid>
-      <description>Tarih: 2026.06.05 17:16:57 | Derinlik: 6.3 km | Konum: 36.6363, 25.7462</description>
-    </item>
-
-    <item>
-      <title>M1.5 - SINDIRGI (BALIKESIR) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.05-17:14:58-39.2432-28.1807-1.5</guid>
-      <description>Tarih: 2026.06.05 17:14:58 | Derinlik: 5.1 km | Konum: 39.2432, 28.1807</description>
     </item>
 
 </channel>
