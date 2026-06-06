@@ -4,8 +4,29 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sat, 06 Jun 2026 12:44:51 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 06 Jun 2026 14:21:09 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.5 - YUREGIL-SINDIRGI (BALIKESIR) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.06-16:40:16-39.1203-28.2972-1.5</guid>
+      <description>Tarih: 2026.06.06 16:40:16 | Derinlik: 11.1 km | Konum: 39.1203, 28.2972</description>
+    </item>
+
+    <item>
+      <title>M2.0 - KARABAYIR-CAMELI (DENIZLI) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.06-16:22:38-36.8937-29.1302-2.0</guid>
+      <description>Tarih: 2026.06.06 16:22:38 | Derinlik: 7.3 km | Konum: 36.8937, 29.1302</description>
+    </item>
+
+    <item>
+      <title>M1.6 - CEVIRME-AKCADAG (MALATYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.06-15:49:44-38.2323-37.7458-1.6</guid>
+      <description>Tarih: 2026.06.06 15:49:44 | Derinlik: 16.1 km | Konum: 38.2323, 37.7458</description>
+    </item>
+
     <item>
       <title>M1.8 - YAZILI-YENISEHIR (BURSA) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -333,27 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.06.05-23:49:33-39.2230-29.0130-1.6</guid>
       <description>Tarih: 2026.06.05 23:49:33 | Derinlik: 12.0 km | Konum: 39.2230, 29.0130</description>
-    </item>
-
-    <item>
-      <title>M2.0 - KATRANDAGI-EMET (KUTAHYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.05-23:46:10-39.2435-29.0263-2.0</guid>
-      <description>Tarih: 2026.06.05 23:46:10 | Derinlik: 3.9 km | Konum: 39.2435, 29.0263</description>
-    </item>
-
-    <item>
-      <title>M1.9 - ORTAKLI-AFSIN (KAHRAMANMARAS) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.05-23:45:32-38.1452-37.0237-1.9</guid>
-      <description>Tarih: 2026.06.05 23:45:32 | Derinlik: 5.7 km | Konum: 38.1452, 37.0237</description>
-    </item>
-
-    <item>
-      <title>M1.5 - CANAKCI-KALE (MALATYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.05-22:47:55-38.3538-38.7863-1.5</guid>
-      <description>Tarih: 2026.06.05 22:47:55 | Derinlik: 5.2 km | Konum: 38.3538, 38.7863</description>
     </item>
 
 </channel>
