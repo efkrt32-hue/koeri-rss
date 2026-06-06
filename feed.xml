@@ -4,8 +4,22 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sat, 06 Jun 2026 09:38:01 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 06 Jun 2026 11:11:04 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.0 - AKDERE-SILIFKE (MERSIN) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.06-12:53:39-36.2712-33.7205-1.0</guid>
+      <description>Tarih: 2026.06.06 12:53:39 | Derinlik: 8.5 km | Konum: 36.2712, 33.7205</description>
+    </item>
+
+    <item>
+      <title>M1.2 - ARKUM-SILIFKE (MERSIN) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.06-12:32:37-36.3510-34.0702-1.2</guid>
+      <description>Tarih: 2026.06.06 12:32:37 | Derinlik: 13.5 km | Konum: 36.3510, 34.0702</description>
+    </item>
+
     <item>
       <title>M1.3 - GOKOVA KORFEZI (EGE DENIZI) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -340,20 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.06.05-21:33:37-37.8302-29.6833-2.3</guid>
       <description>Tarih: 2026.06.05 21:33:37 | Derinlik: 8.0 km | Konum: 37.8302, 29.6833</description>
-    </item>
-
-    <item>
-      <title>M1.4 - ATLIDERE-FETHIYE (MUGLA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.05-21:15:55-36.6775-29.3413-1.4</guid>
-      <description>Tarih: 2026.06.05 21:15:55 | Derinlik: 5.9 km | Konum: 36.6775, 29.3413</description>
-    </item>
-
-    <item>
-      <title>M2.1 - TAHTAKEMER-TOMARZA (KAYSERI) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.05-20:42:19-38.2853-35.9310-2.1</guid>
-      <description>Tarih: 2026.06.05 20:42:19 | Derinlik: 5.8 km | Konum: 38.2853, 35.9310</description>
     </item>
 
 </channel>
