@@ -4,8 +4,29 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sat, 06 Jun 2026 21:59:35 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 06 Jun 2026 23:13:38 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.7 - BEGRE-DOGANSEHIR (MALATYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.07-01:42:24-38.0660-37.6343-1.7</guid>
+      <description>Tarih: 2026.06.07 01:42:24 | Derinlik: 5.3 km | Konum: 38.0660, 37.6343</description>
+    </item>
+
+    <item>
+      <title>M2.3 - KARAHASANUSAGI-ELBISTAN (KAHRAMANMARAS) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.07-01:34:42-38.1233-37.5410-2.3</guid>
+      <description>Tarih: 2026.06.07 01:34:42 | Derinlik: 5.0 km | Konum: 38.1233, 37.5410</description>
+    </item>
+
+    <item>
+      <title>M2.4 - EGE DENIZI İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.07-01:01:31-39.3630-25.4858-2.4</guid>
+      <description>Tarih: 2026.06.07 01:01:31 | Derinlik: 5.2 km | Konum: 39.3630, 25.4858</description>
+    </item>
+
     <item>
       <title>M2.4 - EGE DENIZI İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -333,27 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.06.06-05:18:04-36.2695-33.9282-2.0</guid>
       <description>Tarih: 2026.06.06 05:18:04 | Derinlik: 8.4 km | Konum: 36.2695, 33.9282</description>
-    </item>
-
-    <item>
-      <title>M1.9 - AKDENIZ İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.06-05:11:21-36.1445-28.9345-1.9</guid>
-      <description>Tarih: 2026.06.06 05:11:21 | Derinlik: 7.8 km | Konum: 36.1445, 28.9345</description>
-    </item>
-
-    <item>
-      <title>M1.6 - BENTKOY-KALE (MALATYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.06-04:58:12-38.3537-38.7088-1.6</guid>
-      <description>Tarih: 2026.06.06 04:58:12 | Derinlik: 15.4 km | Konum: 38.3537, 38.7088</description>
-    </item>
-
-    <item>
-      <title>M2.4 - AKCIFT-(VAN) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.06-04:37:55-38.8497-43.5873-2.4</guid>
-      <description>Tarih: 2026.06.06 04:37:55 | Derinlik: 11.9 km | Konum: 38.8497, 43.5873</description>
     </item>
 
 </channel>
