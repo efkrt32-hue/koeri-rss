@@ -4,8 +4,29 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sun, 07 Jun 2026 20:44:37 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 07 Jun 2026 21:53:40 +0000</lastBuildDate>
   
+    <item>
+      <title>M2.4 - SAKIZ ADASI (EGE DENIZI) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.08-00:40:07-38.6220-26.1528-2.4</guid>
+      <description>Tarih: 2026.06.08 00:40:07 | Derinlik: 10.4 km | Konum: 38.6220, 26.1528</description>
+    </item>
+
+    <item>
+      <title>M2.1 - AKDENIZ İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.08-00:30:06-35.8192-29.2742-2.1</guid>
+      <description>Tarih: 2026.06.08 00:30:06 | Derinlik: 7.6 km | Konum: 35.8192, 29.2742</description>
+    </item>
+
+    <item>
+      <title>M1.7 - KIZILAGIL-(BOLU) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.07-23:46:24-40.7823-31.5378-1.7</guid>
+      <description>Tarih: 2026.06.07 23:46:24 | Derinlik: 8.6 km | Konum: 40.7823, 31.5378</description>
+    </item>
+
     <item>
       <title>M1.3 - FINDIKLIKOYAK-GOKSUN (KAHRAMANMARAS) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -333,27 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.06.07-12:08:22-38.7292-38.1377-1.6</guid>
       <description>Tarih: 2026.06.07 12:08:22 | Derinlik: 10.3 km | Konum: 38.7292, 38.1377</description>
-    </item>
-
-    <item>
-      <title>M1.7 - CAKIROGLU-TURKOGLU (KAHRAMANMARAS) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.07-11:53:35-37.3358-36.6857-1.7</guid>
-      <description>Tarih: 2026.06.07 11:53:35 | Derinlik: 15.5 km | Konum: 37.3358, 36.6857</description>
-    </item>
-
-    <item>
-      <title>M1.8 - ELBISTAN (KAHRAMANMARAS) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.07-11:34:08-38.2010-37.2208-1.8</guid>
-      <description>Tarih: 2026.06.07 11:34:08 | Derinlik: 8.1 km | Konum: 38.2010, 37.2208</description>
-    </item>
-
-    <item>
-      <title>M2.3 - KOSEYAHYA-ELBISTAN (KAHRAMANMARAS) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.07-11:24:10-38.1965-37.4397-2.3</guid>
-      <description>Tarih: 2026.06.07 11:24:10 | Derinlik: 22.3 km | Konum: 38.1965, 37.4397</description>
     </item>
 
 </channel>
