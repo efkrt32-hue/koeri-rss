@@ -4,8 +4,57 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Mon, 08 Jun 2026 09:57:27 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 08 Jun 2026 14:18:11 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.5 - SINDIRGI (BALIKESIR) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.08-15:45:50-39.2522-28.1752-1.5</guid>
+      <description>Tarih: 2026.06.08 15:45:50 | Derinlik: 16.8 km | Konum: 39.2522, 28.1752</description>
+    </item>
+
+    <item>
+      <title>M1.5 - TOKAT-HISARCIK (KUTAHYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.08-14:32:40-39.1865-29.0933-1.5</guid>
+      <description>Tarih: 2026.06.08 14:32:40 | Derinlik: 10.5 km | Konum: 39.1865, 29.0933</description>
+    </item>
+
+    <item>
+      <title>M2.1 - AGILYAZI-DARENDE (MALATYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.08-14:30:26-38.6993-37.5595-2.1</guid>
+      <description>Tarih: 2026.06.08 14:30:26 | Derinlik: 6.7 km | Konum: 38.6993, 37.5595</description>
+    </item>
+
+    <item>
+      <title>M2.3 - DAVUTOGLAN-NALLIHAN (ANKARA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.08-14:08:21-40.1277-31.5532-2.3</guid>
+      <description>Tarih: 2026.06.08 14:08:21 | Derinlik: 17.5 km | Konum: 40.1277, 31.5532</description>
+    </item>
+
+    <item>
+      <title>M1.7 - AKPINAR-EKINOZU (KAHRAMANMARAS) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.08-13:50:51-38.1007-37.1977-1.7</guid>
+      <description>Tarih: 2026.06.08 13:50:51 | Derinlik: 3.0 km | Konum: 38.1007, 37.1977</description>
+    </item>
+
+    <item>
+      <title>M1.1 - SILIFKE ACIKLARI-MERSIN (AKDENIZ) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.08-13:29:50-36.0513-33.8887-1.1</guid>
+      <description>Tarih: 2026.06.08 13:29:50 | Derinlik: 5.0 km | Konum: 36.0513, 33.8887</description>
+    </item>
+
+    <item>
+      <title>M1.2 - CINALI-KESKIN (KIRIKKALE) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.08-13:12:30-39.6192-33.6283-1.2</guid>
+      <description>Tarih: 2026.06.08 13:12:30 | Derinlik: 21.8 km | Konum: 39.6192, 33.6283</description>
+    </item>
+
     <item>
       <title>M1.2 - AKDERE-SILIFKE (MERSIN) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -18,6 +67,13 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.06.08-12:32:30-39.0063-28.2753-1.3</guid>
       <description>Tarih: 2026.06.08 12:32:30 | Derinlik: 2.8 km | Konum: 39.0063, 28.2753</description>
+    </item>
+
+    <item>
+      <title>M1.5 - HASANCELEBI-HEKIMHAN (MALATYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.08-12:23:10-38.9705-37.8530-1.5</guid>
+      <description>Tarih: 2026.06.08 12:23:10 | Derinlik: 8.9 km | Konum: 38.9705, 37.8530</description>
     </item>
 
     <item>
@@ -298,62 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.06.08-01:22:32-36.5922-28.8973-1.3</guid>
       <description>Tarih: 2026.06.08 01:22:32 | Derinlik: 6.7 km | Konum: 36.5922, 28.8973</description>
-    </item>
-
-    <item>
-      <title>M2.4 - SAKIZ ADASI (EGE DENIZI) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.08-00:40:07-38.6220-26.1528-2.4</guid>
-      <description>Tarih: 2026.06.08 00:40:07 | Derinlik: 10.4 km | Konum: 38.6220, 26.1528</description>
-    </item>
-
-    <item>
-      <title>M2.1 - AKDENIZ İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.08-00:30:06-35.8192-29.2742-2.1</guid>
-      <description>Tarih: 2026.06.08 00:30:06 | Derinlik: 7.6 km | Konum: 35.8192, 29.2742</description>
-    </item>
-
-    <item>
-      <title>M1.7 - KIZILAGIL-(BOLU) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.07-23:46:24-40.7823-31.5378-1.7</guid>
-      <description>Tarih: 2026.06.07 23:46:24 | Derinlik: 8.6 km | Konum: 40.7823, 31.5378</description>
-    </item>
-
-    <item>
-      <title>M1.3 - FINDIKLIKOYAK-GOKSUN (KAHRAMANMARAS) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.07-22:59:54-37.9248-36.4378-1.3</guid>
-      <description>Tarih: 2026.06.07 22:59:54 | Derinlik: 7.4 km | Konum: 37.9248, 36.4378</description>
-    </item>
-
-    <item>
-      <title>M1.2 - YEMISLI-SIMAV (KUTAHYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.07-22:59:50-39.2437-29.0035-1.2</guid>
-      <description>Tarih: 2026.06.07 22:59:50 | Derinlik: 17.8 km | Konum: 39.2437, 29.0035</description>
-    </item>
-
-    <item>
-      <title>M1.7 - YEMISLI-SIMAV (KUTAHYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.07-22:55:45-39.2310-29.0215-1.7</guid>
-      <description>Tarih: 2026.06.07 22:55:45 | Derinlik: 10.5 km | Konum: 39.2310, 29.0215</description>
-    </item>
-
-    <item>
-      <title>M2.4 - KIZILAGIL-(BOLU) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.07-22:28:37-40.7928-31.5353-2.4</guid>
-      <description>Tarih: 2026.06.07 22:28:37 | Derinlik: 9.3 km | Konum: 40.7928, 31.5353</description>
-    </item>
-
-    <item>
-      <title>M2.6 - KARLIK-ISKILIP (CORUM) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.07-22:20:24-40.6413-34.4933-2.6</guid>
-      <description>Tarih: 2026.06.07 22:20:24 | Derinlik: 6.0 km | Konum: 40.6413, 34.4933</description>
     </item>
 
 </channel>
