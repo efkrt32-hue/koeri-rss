@@ -4,8 +4,22 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Tue, 09 Jun 2026 21:07:17 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 09 Jun 2026 22:49:14 +0000</lastBuildDate>
   
+    <item>
+      <title>M2.5 - KOZOREN-(BALIKESIR) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.10-00:17:44-39.5552-27.7677-2.5</guid>
+      <description>Tarih: 2026.06.10 00:17:44 | Derinlik: 12.8 km | Konum: 39.5552, 27.7677</description>
+    </item>
+
+    <item>
+      <title>M1.9 - KABAKLAR-EMET (KUTAHYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.10-00:10:53-39.2810-29.1183-1.9</guid>
+      <description>Tarih: 2026.06.10 00:10:53 | Derinlik: 5.1 km | Konum: 39.2810, 29.1183</description>
+    </item>
+
     <item>
       <title>M2.3 - YUNANISTAN İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -340,20 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.06.09-10:58:02-37.9648-35.5177-2.0</guid>
       <description>Tarih: 2026.06.09 10:58:02 | Derinlik: 3.5 km | Konum: 37.9648, 35.5177</description>
-    </item>
-
-    <item>
-      <title>M1.9 - NASA-SIMAV (KUTAHYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.09-10:55:43-39.1607-28.9845-1.9</guid>
-      <description>Tarih: 2026.06.09 10:55:43 | Derinlik: 19.5 km | Konum: 39.1607, 28.9845</description>
-    </item>
-
-    <item>
-      <title>M0.8 - KARAAGIL-HISARCIK (KUTAHYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.09-10:51:03-39.2088-29.0777-0.8</guid>
-      <description>Tarih: 2026.06.09 10:51:03 | Derinlik: 2.2 km | Konum: 39.2088, 29.0777</description>
     </item>
 
 </channel>
