@@ -4,8 +4,22 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Fri, 12 Jun 2026 22:09:19 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 12 Jun 2026 23:52:25 +0000</lastBuildDate>
   
+    <item>
+      <title>M2.4 - AYVACIK-SAIMBEYLI (ADANA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.13-02:30:48-37.7868-36.1377-2.4</guid>
+      <description>Tarih: 2026.06.13 02:30:48 | Derinlik: 6.4 km | Konum: 37.7868, 36.1377</description>
+    </item>
+
+    <item>
+      <title>M1.6 - HARUNUSAGI-AKCADAG (MALATYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.13-02:24:06-38.2493-37.7287-1.6</guid>
+      <description>Tarih: 2026.06.13 02:24:06 | Derinlik: 6.8 km | Konum: 38.2493, 37.7287</description>
+    </item>
+
     <item>
       <title>M1.4 - ATAKOY-NURDAGI (GAZIANTEP) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -340,20 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.06.12-08:40:52-39.2068-29.0817-1.0</guid>
       <description>Tarih: 2026.06.12 08:40:52 | Derinlik: 2.1 km | Konum: 39.2068, 29.0817</description>
-    </item>
-
-    <item>
-      <title>M1.4 - KATRANDAGI-EMET (KUTAHYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.12-08:36:05-39.2370-29.0773-1.4</guid>
-      <description>Tarih: 2026.06.12 08:36:05 | Derinlik: 2.2 km | Konum: 39.2370, 29.0773</description>
-    </item>
-
-    <item>
-      <title>M1.9 - KATRANDAGI-EMET (KUTAHYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.12-07:26:06-39.2495-29.0297-1.9</guid>
-      <description>Tarih: 2026.06.12 07:26:06 | Derinlik: 9.6 km | Konum: 39.2495, 29.0297</description>
     </item>
 
 </channel>
