@@ -4,8 +4,29 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sat, 13 Jun 2026 10:08:45 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 13 Jun 2026 12:03:09 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.7 - YEMISLI-SIMAV (KUTAHYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.13-13:01:30-39.2498-28.9857-1.7</guid>
+      <description>Tarih: 2026.06.13 13:01:30 | Derinlik: 9.7 km | Konum: 39.2498, 28.9857</description>
+    </item>
+
+    <item>
+      <title>M2.0 - IZMIR KORFEZI (EGE DENIZI) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.13-12:57:09-38.6290-26.6520-2.0</guid>
+      <description>Tarih: 2026.06.13 12:57:09 | Derinlik: 14.9 km | Konum: 38.6290, 26.6520</description>
+    </item>
+
+    <item>
+      <title>M2.0 - IZMIR KORFEZI (EGE DENIZI) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.13-12:37:22-38.6278-26.6535-2.0</guid>
+      <description>Tarih: 2026.06.13 12:37:22 | Derinlik: 15.3 km | Konum: 38.6278, 26.6535</description>
+    </item>
+
     <item>
       <title>M3.7 - IZMIR KORFEZI (EGE DENIZI) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -333,27 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.06.12-21:02:05-38.2745-38.2365-1.4</guid>
       <description>Tarih: 2026.06.12 21:02:05 | Derinlik: 3.3 km | Konum: 38.2745, 38.2365</description>
-    </item>
-
-    <item>
-      <title>M1.9 - TATLAR-NURHAK (KAHRAMANMARAS) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.12-20:21:38-38.0622-37.5248-1.9</guid>
-      <description>Tarih: 2026.06.12 20:21:38 | Derinlik: 18.5 km | Konum: 38.0622, 37.5248</description>
-    </item>
-
-    <item>
-      <title>M2.3 - SORKUNLU-AZIZIYE (ERZURUM) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.12-20:00:42-40.0973-40.9495-2.3</guid>
-      <description>Tarih: 2026.06.12 20:00:42 | Derinlik: 10.3 km | Konum: 40.0973, 40.9495</description>
-    </item>
-
-    <item>
-      <title>M2.7 - ALAATTINKOY-SIVRICE (ELAZIG) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.12-19:56:38-38.3902-39.2902-2.7</guid>
-      <description>Tarih: 2026.06.12 19:56:38 | Derinlik: 5.6 km | Konum: 38.3902, 39.2902</description>
     </item>
 
 </channel>
