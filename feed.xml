@@ -4,8 +4,15 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sat, 13 Jun 2026 21:44:57 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 13 Jun 2026 22:49:39 +0000</lastBuildDate>
   
+    <item>
+      <title>M2.0 - UZUNHUSEYIN-KALE (MALATYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.14-01:12:20-38.3268-38.8872-2.0</guid>
+      <description>Tarih: 2026.06.14 01:12:20 | Derinlik: 2.8 km | Konum: 38.3268, 38.8872</description>
+    </item>
+
     <item>
       <title>M1.9 - CILEME-MENDERES (IZMIR) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -347,13 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.06.13-04:07:38-37.9935-36.1768-1.1</guid>
       <description>Tarih: 2026.06.13 04:07:38 | Derinlik: 3.0 km | Konum: 37.9935, 36.1768</description>
-    </item>
-
-    <item>
-      <title>M1.4 - YEMISLI-SIMAV (KUTAHYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.13-03:52:47-39.2573-28.9890-1.4</guid>
-      <description>Tarih: 2026.06.13 03:52:47 | Derinlik: 8.6 km | Konum: 39.2573, 28.9890</description>
     </item>
 
 </channel>
