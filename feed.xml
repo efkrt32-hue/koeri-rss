@@ -4,8 +4,15 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sat, 13 Jun 2026 14:21:57 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 13 Jun 2026 15:56:42 +0000</lastBuildDate>
   
+    <item>
+      <title>M2.0 - CEVIRME-AKCADAG (MALATYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.13-17:03:24-38.2822-37.7760-2.0</guid>
+      <description>Tarih: 2026.06.13 17:03:24 | Derinlik: 6.7 km | Konum: 38.2822, 37.7760</description>
+    </item>
+
     <item>
       <title>M3.6 - CICEKLI-ULA (MUGLA) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -347,13 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.06.13-00:01:29-38.7517-36.5607-1.5</guid>
       <description>Tarih: 2026.06.13 00:01:29 | Derinlik: 5.6 km | Konum: 38.7517, 36.5607</description>
-    </item>
-
-    <item>
-      <title>M3.1 - MOLLADAVUT-KARACOBAN (ERZURUM) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.12-23:27:43-39.2193-41.9298-3.1</guid>
-      <description>Tarih: 2026.06.12 23:27:43 | Derinlik: 3.0 km | Konum: 39.2193, 41.9298</description>
     </item>
 
 </channel>
