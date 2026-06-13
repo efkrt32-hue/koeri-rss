@@ -4,8 +4,29 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sat, 13 Jun 2026 20:23:10 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 13 Jun 2026 21:44:57 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.9 - CILEME-MENDERES (IZMIR) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.14-00:20:43-38.1213-27.1975-1.9</guid>
+      <description>Tarih: 2026.06.14 00:20:43 | Derinlik: 5.5 km | Konum: 38.1213, 27.1975</description>
+    </item>
+
+    <item>
+      <title>M1.7 - KUCUKDAGDERE-SINDIRGI (BALIKESIR) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.13-23:26:40-39.1630-28.3278-1.7</guid>
+      <description>Tarih: 2026.06.13 23:26:40 | Derinlik: 10.6 km | Konum: 39.1630, 28.3278</description>
+    </item>
+
+    <item>
+      <title>M1.6 - GOLCUK-SINDIRGI (BALIKESIR) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.13-22:56:05-39.3255-27.9950-1.6</guid>
+      <description>Tarih: 2026.06.13 22:56:05 | Derinlik: 12.4 km | Konum: 39.3255, 27.9950</description>
+    </item>
+
     <item>
       <title>M1.4 - YURUCEKLER-BIGADIC (BALIKESIR) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -333,27 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.06.13-03:52:47-39.2573-28.9890-1.4</guid>
       <description>Tarih: 2026.06.13 03:52:47 | Derinlik: 8.6 km | Konum: 39.2573, 28.9890</description>
-    </item>
-
-    <item>
-      <title>M1.5 - ASAGIBORANDERE-PINARBASI (KAYSERI) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.13-03:40:17-38.7825-36.5250-1.5</guid>
-      <description>Tarih: 2026.06.13 03:40:17 | Derinlik: 2.2 km | Konum: 38.7825, 36.5250</description>
-    </item>
-
-    <item>
-      <title>M2.6 - MARMARA DENIZI İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.13-03:25:11-40.7250-28.6535-2.6</guid>
-      <description>Tarih: 2026.06.13 03:25:11 | Derinlik: 19.7 km | Konum: 40.7250, 28.6535</description>
-    </item>
-
-    <item>
-      <title>M1.1 - KIZILGUR-SINDIRGI (BALIKESIR) REVIZE01 (2026.06.13 03:11:28)</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.13-03:11:21-39.2463-28.0145-1.1</guid>
-      <description>Tarih: 2026.06.13 03:11:21 | Derinlik: 10.9 km | Konum: 39.2463, 28.0145</description>
     </item>
 
 </channel>
