@@ -4,8 +4,22 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sun, 14 Jun 2026 13:10:24 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 14 Jun 2026 15:18:45 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.8 - TASDAMLAR-CELIKHAN (ADIYAMAN) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.14-17:46:06-38.0888-38.3402-1.8</guid>
+      <description>Tarih: 2026.06.14 17:46:06 | Derinlik: 6.6 km | Konum: 38.0888, 38.3402</description>
+    </item>
+
+    <item>
+      <title>M2.0 - KARABOGURTLEN-ULA (MUGLA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.14-17:15:36-37.0542-28.5053-2.0</guid>
+      <description>Tarih: 2026.06.14 17:15:36 | Derinlik: 8.4 km | Konum: 37.0542, 28.5053</description>
+    </item>
+
     <item>
       <title>M1.5 - YENIKOY-(TEKIRDAG) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -340,20 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.06.14-02:33:47-38.4765-27.3558-1.7</guid>
       <description>Tarih: 2026.06.14 02:33:47 | Derinlik: 5.1 km | Konum: 38.4765, 27.3558</description>
-    </item>
-
-    <item>
-      <title>M1.5 - TATLAR-NURHAK (KAHRAMANMARAS) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.14-02:21:46-38.0597-37.5445-1.5</guid>
-      <description>Tarih: 2026.06.14 02:21:46 | Derinlik: 9.5 km | Konum: 38.0597, 37.5445</description>
-    </item>
-
-    <item>
-      <title>M1.4 - KUSADASI KORFEZI (EGE DENIZI) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.14-01:54:04-37.9902-27.1120-1.4</guid>
-      <description>Tarih: 2026.06.14 01:54:04 | Derinlik: 5.3 km | Konum: 37.9902, 27.1120</description>
     </item>
 
 </channel>
