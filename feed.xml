@@ -4,8 +4,22 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sun, 14 Jun 2026 11:19:41 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 14 Jun 2026 13:10:24 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.5 - YENIKOY-(TEKIRDAG) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.14-14:39:01-40.7870-27.4302-1.5</guid>
+      <description>Tarih: 2026.06.14 14:39:01 | Derinlik: 14.0 km | Konum: 40.7870, 27.4302</description>
+    </item>
+
+    <item>
+      <title>M2.0 - MADENKOY-ULUKISLA (NIGDE) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.14-14:16:19-37.3843-34.6417-2.0</guid>
+      <description>Tarih: 2026.06.14 14:16:19 | Derinlik: 8.2 km | Konum: 37.3843, 34.6417</description>
+    </item>
+
     <item>
       <title>M1.3 - SELVI-BIGA (CANAKKALE) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -340,20 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.06.14-01:54:04-37.9902-27.1120-1.4</guid>
       <description>Tarih: 2026.06.14 01:54:04 | Derinlik: 5.3 km | Konum: 37.9902, 27.1120</description>
-    </item>
-
-    <item>
-      <title>M1.6 - GUNEYKOY-SIVRICE (ELAZIG) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.14-01:52:09-38.4887-39.3212-1.6</guid>
-      <description>Tarih: 2026.06.14 01:52:09 | Derinlik: 5.9 km | Konum: 38.4887, 39.3212</description>
-    </item>
-
-    <item>
-      <title>M1.0 - GUNALTI-ELBISTAN (KAHRAMANMARAS) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.14-01:43:25-38.2138-37.6520-1.0</guid>
-      <description>Tarih: 2026.06.14 01:43:25 | Derinlik: 6.0 km | Konum: 38.2138, 37.6520</description>
     </item>
 
 </channel>
