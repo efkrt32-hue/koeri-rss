@@ -4,8 +4,29 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sun, 14 Jun 2026 19:58:14 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 14 Jun 2026 21:24:04 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.4 - KATRANDAGI-EMET (KUTAHYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.14-23:37:34-39.2283-29.0360-1.4</guid>
+      <description>Tarih: 2026.06.14 23:37:34 | Derinlik: 5.2 km | Konum: 39.2283, 29.0360</description>
+    </item>
+
+    <item>
+      <title>M1.4 - KATRANDAGI-EMET (KUTAHYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.14-23:36:26-39.2233-29.0418-1.4</guid>
+      <description>Tarih: 2026.06.14 23:36:26 | Derinlik: 3.0 km | Konum: 39.2233, 29.0418</description>
+    </item>
+
+    <item>
+      <title>M1.2 - EGE DENIZI İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.14-23:27:20-39.7773-25.4588-1.2</guid>
+      <description>Tarih: 2026.06.14 23:27:20 | Derinlik: 13.6 km | Konum: 39.7773, 25.4588</description>
+    </item>
+
     <item>
       <title>M2.4 - ILYASLAR-BIGADIC (BALIKESIR) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -39,6 +60,13 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.06.14-22:19:15-37.7605-29.7090-1.2</guid>
       <description>Tarih: 2026.06.14 22:19:15 | Derinlik: 4.6 km | Konum: 37.7605, 29.7090</description>
+    </item>
+
+    <item>
+      <title>M1.4 - AKCA-KALE (MALATYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.14-22:10:59-38.3445-38.8708-1.4</guid>
+      <description>Tarih: 2026.06.14 22:10:59 | Derinlik: 11.1 km | Konum: 38.3445, 38.8708</description>
     </item>
 
     <item>
@@ -326,34 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.06.14-06:42:46-40.3228-24.1208-1.5</guid>
       <description>Tarih: 2026.06.14 06:42:46 | Derinlik: 5.4 km | Konum: 40.3228, 24.1208</description>
-    </item>
-
-    <item>
-      <title>M1.9 - YAVA-YATAGAN (MUGLA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.14-06:36:26-37.3763-28.0982-1.9</guid>
-      <description>Tarih: 2026.06.14 06:36:26 | Derinlik: 5.0 km | Konum: 37.3763, 28.0982</description>
-    </item>
-
-    <item>
-      <title>M1.5 - HACET-KIRKAGAC (MANISA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.14-06:27:56-39.2450-27.9658-1.5</guid>
-      <description>Tarih: 2026.06.14 06:27:56 | Derinlik: 12.1 km | Konum: 39.2450, 27.9658</description>
-    </item>
-
-    <item>
-      <title>M1.9 - GIRIT ADASI (AKDENIZ) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.14-06:27:21-35.0205-25.2265-1.9</guid>
-      <description>Tarih: 2026.06.14 06:27:21 | Derinlik: 27.4 km | Konum: 35.0205, 25.2265</description>
-    </item>
-
-    <item>
-      <title>M2.9 - HACET-KIRKAGAC (MANISA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.14-06:26:07-39.2397-27.9648-2.9</guid>
-      <description>Tarih: 2026.06.14 06:26:07 | Derinlik: 10.3 km | Konum: 39.2397, 27.9648</description>
     </item>
 
 </channel>
