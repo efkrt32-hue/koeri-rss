@@ -4,13 +4,48 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Tue, 16 Jun 2026 21:47:22 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 16 Jun 2026 23:14:50 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.5 - YUKARIBURANDERE-PINARBASI (KAYSERI) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.17-01:49:16-38.7658-36.5698-1.5</guid>
+      <description>Tarih: 2026.06.17 01:49:16 | Derinlik: 11.8 km | Konum: 38.7658, 36.5698</description>
+    </item>
+
+    <item>
+      <title>M1.2 - MARMARA DENIZI İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.17-01:45:06-40.7927-27.7970-1.2</guid>
+      <description>Tarih: 2026.06.17 01:45:06 | Derinlik: 9.4 km | Konum: 40.7927, 27.7970</description>
+    </item>
+
+    <item>
+      <title>M1.2 - FATIH-(MALATYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.17-01:27:02-38.3415-38.1513-1.2</guid>
+      <description>Tarih: 2026.06.17 01:27:02 | Derinlik: 4.9 km | Konum: 38.3415, 38.1513</description>
+    </item>
+
+    <item>
+      <title>M1.2 - EKINLIK-MARMARA (BALIKESIR) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.17-01:15:02-40.5870-27.4977-1.2</guid>
+      <description>Tarih: 2026.06.17 01:15:02 | Derinlik: 9.2 km | Konum: 40.5870, 27.4977</description>
+    </item>
+
     <item>
       <title>M2.1 - MARMARA (BALIKESIR) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.06.17-00:37:05-40.5910-27.5027-2.1</guid>
       <description>Tarih: 2026.06.17 00:37:05 | Derinlik: 7.0 km | Konum: 40.5910, 27.5027</description>
+    </item>
+
+    <item>
+      <title>M1.1 - KIRECLI-TORTUM (ERZURUM) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.17-00:09:45-40.2967-41.5992-1.1</guid>
+      <description>Tarih: 2026.06.17 00:09:45 | Derinlik: 17.8 km | Konum: 40.2967, 41.5992</description>
     </item>
 
     <item>
@@ -319,41 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.06.16-15:08:00-38.3153-30.4437-2.3</guid>
       <description>Tarih: 2026.06.16 15:08:00 | Derinlik: 5.0 km | Konum: 38.3153, 30.4437</description>
-    </item>
-
-    <item>
-      <title>M1.9 - ASAGIBORANDERE-PINARBASI (KAYSERI) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.16-14:34:18-38.7720-36.5213-1.9</guid>
-      <description>Tarih: 2026.06.16 14:34:18 | Derinlik: 14.5 km | Konum: 38.7720, 36.5213</description>
-    </item>
-
-    <item>
-      <title>M1.4 - YEMISLI-SIMAV (KUTAHYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.16-14:24:25-39.2428-28.9728-1.4</guid>
-      <description>Tarih: 2026.06.16 14:24:25 | Derinlik: 17.1 km | Konum: 39.2428, 28.9728</description>
-    </item>
-
-    <item>
-      <title>M1.5 - YUKARIBURANDERE-PINARBASI (KAYSERI) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.16-14:04:10-38.7593-36.5223-1.5</guid>
-      <description>Tarih: 2026.06.16 14:04:10 | Derinlik: 9.1 km | Konum: 38.7593, 36.5223</description>
-    </item>
-
-    <item>
-      <title>M1.2 - MAMAK (ANKARA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.16-13:43:56-39.8567-33.0217-1.2</guid>
-      <description>Tarih: 2026.06.16 13:43:56 | Derinlik: 0.0 km | Konum: 39.8567, 33.0217</description>
-    </item>
-
-    <item>
-      <title>M2.3 - KUCAK-PATNOS (AGRI) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.16-13:35:48-38.9803-42.8548-2.3</guid>
-      <description>Tarih: 2026.06.16 13:35:48 | Derinlik: 7.4 km | Konum: 38.9803, 42.8548</description>
     </item>
 
 </channel>
