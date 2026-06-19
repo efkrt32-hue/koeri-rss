@@ -4,8 +4,15 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Fri, 19 Jun 2026 16:25:11 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 19 Jun 2026 18:18:29 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.6 - HOSKOY-SARKOY (TEKIRDAG) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.19-19:00:28-40.7237-27.3162-1.6</guid>
+      <description>Tarih: 2026.06.19 19:00:28 | Derinlik: 11.1 km | Konum: 40.7237, 27.3162</description>
+    </item>
+
     <item>
       <title>M1.9 - EKINLIK-OLUR (ERZURUM) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -347,13 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.06.19-01:41:40-38.1852-38.1502-1.5</guid>
       <description>Tarih: 2026.06.19 01:41:40 | Derinlik: 7.9 km | Konum: 38.1852, 38.1502</description>
-    </item>
-
-    <item>
-      <title>M1.7 - MARMARA DENIZI İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.19-01:15:06-40.6493-28.4240-1.7</guid>
-      <description>Tarih: 2026.06.19 01:15:06 | Derinlik: 23.0 km | Konum: 40.6493, 28.4240</description>
     </item>
 
 </channel>
