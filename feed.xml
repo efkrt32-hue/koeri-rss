@@ -4,8 +4,57 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Fri, 19 Jun 2026 22:36:32 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 19 Jun 2026 23:47:19 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.9 - KUCAK-PATNOS (AGRI) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.20-02:17:05-38.9788-42.8558-1.9</guid>
+      <description>Tarih: 2026.06.20 02:17:05 | Derinlik: 5.3 km | Konum: 38.9788, 42.8558</description>
+    </item>
+
+    <item>
+      <title>M1.9 - KUCAK-PATNOS (AGRI) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.20-01:42:07-38.9837-42.8538-1.9</guid>
+      <description>Tarih: 2026.06.20 01:42:07 | Derinlik: 5.1 km | Konum: 38.9837, 42.8538</description>
+    </item>
+
+    <item>
+      <title>M1.6 - DIZGINKALE-PATNOS (AGRI) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.20-01:36:14-38.9748-42.8038-1.6</guid>
+      <description>Tarih: 2026.06.20 01:36:14 | Derinlik: 5.0 km | Konum: 38.9748, 42.8038</description>
+    </item>
+
+    <item>
+      <title>M1.3 - CEVIRME-AKCADAG (MALATYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.20-01:27:57-38.2402-37.7407-1.3</guid>
+      <description>Tarih: 2026.06.20 01:27:57 | Derinlik: 13.2 km | Konum: 38.2402, 37.7407</description>
+    </item>
+
+    <item>
+      <title>M3.0 - ULUPINAR-YAHYALI (KAYSERI) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.20-01:25:46-37.8292-35.3087-3.0</guid>
+      <description>Tarih: 2026.06.20 01:25:46 | Derinlik: 4.5 km | Konum: 37.8292, 35.3087</description>
+    </item>
+
+    <item>
+      <title>M1.3 - YAYLABAYIR-SINDIRGI (BALIKESIR) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.20-01:20:19-39.1502-28.3927-1.3</guid>
+      <description>Tarih: 2026.06.20 01:20:19 | Derinlik: 22.4 km | Konum: 39.1502, 28.3927</description>
+    </item>
+
+    <item>
+      <title>M1.3 - HARUNUSAGI-AKCADAG (MALATYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.20-01:17:34-38.2570-37.7233-1.3</guid>
+      <description>Tarih: 2026.06.20 01:17:34 | Derinlik: 11.0 km | Konum: 38.2570, 37.7233</description>
+    </item>
+
     <item>
       <title>M1.8 - KARSIYAKA-PUTURGE (MALATYA) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -18,6 +67,13 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.06.20-00:52:04-39.3158-39.9237-2.3</guid>
       <description>Tarih: 2026.06.20 00:52:04 | Derinlik: 5.3 km | Konum: 39.3158, 39.9237</description>
+    </item>
+
+    <item>
+      <title>M1.8 - CEVIRME-AKCADAG (MALATYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.20-00:47:53-38.2283-37.7657-1.8</guid>
+      <description>Tarih: 2026.06.20 00:47:53 | Derinlik: 9.1 km | Konum: 38.2283, 37.7657</description>
     </item>
 
     <item>
@@ -298,62 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.06.19-09:40:28-37.0760-28.4247-1.7</guid>
       <description>Tarih: 2026.06.19 09:40:28 | Derinlik: 11.9 km | Konum: 37.0760, 28.4247</description>
-    </item>
-
-    <item>
-      <title>M2.3 - YUKARIKIRIKLAR-BERGAMA (IZMIR) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.19-09:20:06-39.1960-27.2185-2.3</guid>
-      <description>Tarih: 2026.06.19 09:20:06 | Derinlik: 8.0 km | Konum: 39.1960, 27.2185</description>
-    </item>
-
-    <item>
-      <title>M2.0 - KAYALIDERE-SIMAV (KUTAHYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.19-09:14:24-39.2512-28.9017-2.0</guid>
-      <description>Tarih: 2026.06.19 09:14:24 | Derinlik: 11.3 km | Konum: 39.2512, 28.9017</description>
-    </item>
-
-    <item>
-      <title>M2.1 - YUKARIBURANDERE-PINARBASI (KAYSERI) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.19-07:54:48-38.7717-36.5525-2.1</guid>
-      <description>Tarih: 2026.06.19 07:54:48 | Derinlik: 4.8 km | Konum: 38.7717, 36.5525</description>
-    </item>
-
-    <item>
-      <title>M2.0 - YUKARIBURANDERE-PINARBASI (KAYSERI) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.19-07:48:23-38.7647-36.5343-2.0</guid>
-      <description>Tarih: 2026.06.19 07:48:23 | Derinlik: 7.9 km | Konum: 38.7647, 36.5343</description>
-    </item>
-
-    <item>
-      <title>M1.6 - YUKARIKARAGOZ-PINARBASI (KAYSERI) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.19-07:31:21-38.7337-36.4962-1.6</guid>
-      <description>Tarih: 2026.06.19 07:31:21 | Derinlik: 7.7 km | Konum: 38.7337, 36.4962</description>
-    </item>
-
-    <item>
-      <title>M2.5 - DOGANYOL (MALATYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.19-07:06:54-38.2915-39.0503-2.5</guid>
-      <description>Tarih: 2026.06.19 07:06:54 | Derinlik: 16.2 km | Konum: 38.2915, 39.0503</description>
-    </item>
-
-    <item>
-      <title>M1.3 - YUKARIKARAGOZ-PINARBASI (KAYSERI) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.19-06:16:27-38.7438-36.5217-1.3</guid>
-      <description>Tarih: 2026.06.19 06:16:27 | Derinlik: 5.4 km | Konum: 38.7438, 36.5217</description>
-    </item>
-
-    <item>
-      <title>M1.1 - YUKARIBURANDERE-PINARBASI (KAYSERI) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.19-04:30:43-38.7702-36.5350-1.1</guid>
-      <description>Tarih: 2026.06.19 04:30:43 | Derinlik: 10.9 km | Konum: 38.7702, 36.5350</description>
     </item>
 
 </channel>
