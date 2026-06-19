@@ -4,8 +4,22 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Thu, 18 Jun 2026 22:22:54 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 19 Jun 2026 00:09:01 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.5 - ATALAR-YESILYURT (MALATYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.19-01:41:40-38.1852-38.1502-1.5</guid>
+      <description>Tarih: 2026.06.19 01:41:40 | Derinlik: 7.9 km | Konum: 38.1852, 38.1502</description>
+    </item>
+
+    <item>
+      <title>M1.7 - MARMARA DENIZI İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.19-01:15:06-40.6493-28.4240-1.7</guid>
+      <description>Tarih: 2026.06.19 01:15:06 | Derinlik: 23.0 km | Konum: 40.6493, 28.4240</description>
+    </item>
+
     <item>
       <title>M1.9 - CUKURKOY-ISKILIP (CORUM) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -340,20 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.06.17-23:45:27-38.7835-36.4507-1.1</guid>
       <description>Tarih: 2026.06.17 23:45:27 | Derinlik: 13.0 km | Konum: 38.7835, 36.4507</description>
-    </item>
-
-    <item>
-      <title>M1.6 - YUKARIBURANDERE-PINARBASI (KAYSERI) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.17-23:40:57-38.7672-36.5653-1.6</guid>
-      <description>Tarih: 2026.06.17 23:40:57 | Derinlik: 7.4 km | Konum: 38.7672, 36.5653</description>
-    </item>
-
-    <item>
-      <title>M1.4 - KARABOGAZ-PINARBASI (KAYSERI) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.17-22:52:46-38.7847-36.4500-1.4</guid>
-      <description>Tarih: 2026.06.17 22:52:46 | Derinlik: 9.2 km | Konum: 38.7847, 36.4500</description>
     </item>
 
 </channel>
