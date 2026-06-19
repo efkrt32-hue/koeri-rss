@@ -4,8 +4,22 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Fri, 19 Jun 2026 21:35:56 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 19 Jun 2026 22:36:32 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.8 - KARSIYAKA-PUTURGE (MALATYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.20-00:57:53-38.2692-38.7890-1.8</guid>
+      <description>Tarih: 2026.06.20 00:57:53 | Derinlik: 5.8 km | Konum: 38.2692, 38.7890</description>
+    </item>
+
+    <item>
+      <title>M2.3 - YAYIKAGIL-NAZIMIYE (TUNCELI) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.20-00:52:04-39.3158-39.9237-2.3</guid>
+      <description>Tarih: 2026.06.20 00:52:04 | Derinlik: 5.3 km | Konum: 39.3158, 39.9237</description>
+    </item>
+
     <item>
       <title>M1.4 - CAGSAK-SARIZ (KAYSERI) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -340,20 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.06.19-04:30:43-38.7702-36.5350-1.1</guid>
       <description>Tarih: 2026.06.19 04:30:43 | Derinlik: 10.9 km | Konum: 38.7702, 36.5350</description>
-    </item>
-
-    <item>
-      <title>M1.7 - YAGMURLU-GOKSUN (KAHRAMANMARAS) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.19-04:20:39-38.0713-36.5740-1.7</guid>
-      <description>Tarih: 2026.06.19 04:20:39 | Derinlik: 4.0 km | Konum: 38.0713, 36.5740</description>
-    </item>
-
-    <item>
-      <title>M2.1 - TEMURAGA-GOKSUN (KAHRAMANMARAS) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.19-03:41:16-38.0627-36.5710-2.1</guid>
-      <description>Tarih: 2026.06.19 03:41:16 | Derinlik: 4.8 km | Konum: 38.0627, 36.5710</description>
     </item>
 
 </channel>
