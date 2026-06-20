@@ -4,8 +4,43 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sat, 20 Jun 2026 20:23:47 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 20 Jun 2026 21:47:27 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.6 - AKIN-SEREFLIKOCHISAR (ANKARA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.21-00:22:49-39.0767-33.2940-1.6</guid>
+      <description>Tarih: 2026.06.21 00:22:49 | Derinlik: 6.5 km | Konum: 39.0767, 33.2940</description>
+    </item>
+
+    <item>
+      <title>M1.4 - CEVIRME-AKCADAG (MALATYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.21-00:15:19-38.2900-37.7460-1.4</guid>
+      <description>Tarih: 2026.06.21 00:15:19 | Derinlik: 10.6 km | Konum: 38.2900, 37.7460</description>
+    </item>
+
+    <item>
+      <title>M1.8 - YAYLAKOY-KARABURUN (IZMIR) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.20-23:28:30-38.5782-26.4852-1.8</guid>
+      <description>Tarih: 2026.06.20 23:28:30 | Derinlik: 5.0 km | Konum: 38.5782, 26.4852</description>
+    </item>
+
+    <item>
+      <title>M1.5 - MESEICI-BULANIK (MUS) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.20-23:18:16-39.1570-41.9062-1.5</guid>
+      <description>Tarih: 2026.06.20 23:18:16 | Derinlik: 14.7 km | Konum: 39.1570, 41.9062</description>
+    </item>
+
+    <item>
+      <title>M1.8 - AKCAKAYNAK-BULANIK (MUS) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.20-23:15:06-39.1570-41.9333-1.8</guid>
+      <description>Tarih: 2026.06.20 23:15:06 | Derinlik: 7.9 km | Konum: 39.1570, 41.9333</description>
+    </item>
+
     <item>
       <title>M3.5 - ONIKI ADALAR (EGE DENIZI) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -25,6 +60,27 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.06.20-22:53:02-38.3087-35.9243-1.2</guid>
       <description>Tarih: 2026.06.20 22:53:02 | Derinlik: 13.2 km | Konum: 38.3087, 35.9243</description>
+    </item>
+
+    <item>
+      <title>M1.1 - CICEKLIDERE-SUMBAS (OSMANIYE) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.20-22:42:49-37.5845-36.0155-1.1</guid>
+      <description>Tarih: 2026.06.20 22:42:49 | Derinlik: 20.6 km | Konum: 37.5845, 36.0155</description>
+    </item>
+
+    <item>
+      <title>M1.1 - ARMUTALAN-ELBISTAN (KAHRAMANMARAS) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.20-22:35:14-38.1037-37.6930-1.1</guid>
+      <description>Tarih: 2026.06.20 22:35:14 | Derinlik: 22.9 km | Konum: 38.1037, 37.6930</description>
+    </item>
+
+    <item>
+      <title>M1.2 - KARAGOZ-(MALATYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.20-22:19:01-38.2625-38.3553-1.2</guid>
+      <description>Tarih: 2026.06.20 22:19:01 | Derinlik: 5.0 km | Konum: 38.2625, 38.3553</description>
     </item>
 
     <item>
@@ -298,62 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.06.20-12:36:29-36.2957-28.9567-1.8</guid>
       <description>Tarih: 2026.06.20 12:36:29 | Derinlik: 10.3 km | Konum: 36.2957, 28.9567</description>
-    </item>
-
-    <item>
-      <title>M4.6 - GIRIT ADASI (AKDENIZ) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.20-12:31:13-35.0143-24.2290-4.6</guid>
-      <description>Tarih: 2026.06.20 12:31:13 | Derinlik: 15.8 km | Konum: 35.0143, 24.2290</description>
-    </item>
-
-    <item>
-      <title>M3.2 - YUNANISTAN İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.20-12:23:21-38.7533-23.4185-3.2</guid>
-      <description>Tarih: 2026.06.20 12:23:21 | Derinlik: 19.0 km | Konum: 38.7533, 23.4185</description>
-    </item>
-
-    <item>
-      <title>M1.4 - CIFTLIKLER-CEYHAN (ADANA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.20-12:20:00-36.9790-35.8615-1.4</guid>
-      <description>Tarih: 2026.06.20 12:20:00 | Derinlik: 7.3 km | Konum: 36.9790, 35.8615</description>
-    </item>
-
-    <item>
-      <title>M1.8 - DEREKOY-HEKIMHAN (MALATYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.20-12:07:18-38.9033-37.8565-1.8</guid>
-      <description>Tarih: 2026.06.20 12:07:18 | Derinlik: 5.0 km | Konum: 38.9033, 37.8565</description>
-    </item>
-
-    <item>
-      <title>M1.4 - CEVIRME-AKCADAG (MALATYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.20-12:04:28-38.2633-37.7588-1.4</guid>
-      <description>Tarih: 2026.06.20 12:04:28 | Derinlik: 21.7 km | Konum: 38.2633, 37.7588</description>
-    </item>
-
-    <item>
-      <title>M1.1 - YEMISLI-SIMAV (KUTAHYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.20-11:25:11-39.2213-28.9560-1.1</guid>
-      <description>Tarih: 2026.06.20 11:25:11 | Derinlik: 14.2 km | Konum: 39.2213, 28.9560</description>
-    </item>
-
-    <item>
-      <title>M2.5 - HASANLI-(HATAY) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.20-11:04:44-36.2733-36.1897-2.5</guid>
-      <description>Tarih: 2026.06.20 11:04:44 | Derinlik: 3.2 km | Konum: 36.2733, 36.1897</description>
-    </item>
-
-    <item>
-      <title>M1.5 - KIRGIL-EMET (KUTAHYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.20-10:44:28-39.2755-29.2963-1.5</guid>
-      <description>Tarih: 2026.06.20 10:44:28 | Derinlik: 0.0 km | Konum: 39.2755, 29.2963</description>
     </item>
 
 </channel>
