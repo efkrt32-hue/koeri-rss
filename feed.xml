@@ -4,8 +4,29 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Mon, 22 Jun 2026 23:12:01 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 23 Jun 2026 01:25:08 +0000</lastBuildDate>
   
+    <item>
+      <title>M2.7 - AKUSAGI-KALE (MALATYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.23-03:29:50-38.3377-38.8215-2.7</guid>
+      <description>Tarih: 2026.06.23 03:29:50 | Derinlik: 2.2 km | Konum: 38.3377, 38.8215</description>
+    </item>
+
+    <item>
+      <title>M2.7 - SARIKIZ-MERAM (KONYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.23-02:21:34-37.6927-32.3507-2.7</guid>
+      <description>Tarih: 2026.06.23 02:21:34 | Derinlik: 2.5 km | Konum: 37.6927, 32.3507</description>
+    </item>
+
+    <item>
+      <title>M2.2 - AKOLUK-FEKE (ADANA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.23-01:31:32-37.7768-36.0738-2.2</guid>
+      <description>Tarih: 2026.06.23 01:31:32 | Derinlik: 5.0 km | Konum: 37.7768, 36.0738</description>
+    </item>
+
     <item>
       <title>M3.2 - SENKOY-YEDISU (BINGOL) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -333,27 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.06.22-03:38:36-37.2465-28.9697-1.0</guid>
       <description>Tarih: 2026.06.22 03:38:36 | Derinlik: 17.5 km | Konum: 37.2465, 28.9697</description>
-    </item>
-
-    <item>
-      <title>M1.2 - KARACAM-KOYCEGIZ (MUGLA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.22-03:35:06-37.0227-28.9865-1.2</guid>
-      <description>Tarih: 2026.06.22 03:35:06 | Derinlik: 21.8 km | Konum: 37.0227, 28.9865</description>
-    </item>
-
-    <item>
-      <title>M1.4 - KADIIBRAHIM-AKCADAG (MALATYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.22-03:23:31-38.5068-37.9992-1.4</guid>
-      <description>Tarih: 2026.06.22 03:23:31 | Derinlik: 8.1 km | Konum: 38.5068, 37.9992</description>
-    </item>
-
-    <item>
-      <title>M1.8 - KUSADASI KORFEZI (EGE DENIZI) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.22-03:17:16-37.8843-26.9337-1.8</guid>
-      <description>Tarih: 2026.06.22 03:17:16 | Derinlik: 5.0 km | Konum: 37.8843, 26.9337</description>
     </item>
 
 </channel>
