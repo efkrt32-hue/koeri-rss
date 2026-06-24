@@ -4,8 +4,22 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Wed, 24 Jun 2026 21:48:53 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 24 Jun 2026 22:57:48 +0000</lastBuildDate>
   
+    <item>
+      <title>M2.4 - MUGLA (MUGLA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.25-01:28:46-37.2058-28.3987-2.4</guid>
+      <description>Tarih: 2026.06.25 01:28:46 | Derinlik: 9.7 km | Konum: 37.2058, 28.3987</description>
+    </item>
+
+    <item>
+      <title>M1.9 - YENIYAPAN-GOKSUN (KAHRAMANMARAS) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.25-01:09:09-38.1387-36.6178-1.9</guid>
+      <description>Tarih: 2026.06.25 01:09:09 | Derinlik: 5.0 km | Konum: 38.1387, 36.6178</description>
+    </item>
+
     <item>
       <title>M1.5 - GUZELKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -340,20 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.06.24-02:34:47-38.7675-23.4275-2.3</guid>
       <description>Tarih: 2026.06.24 02:34:47 | Derinlik: 14.5 km | Konum: 38.7675, 23.4275</description>
-    </item>
-
-    <item>
-      <title>M1.8 - ORTATEPE-ILIC (ERZINCAN) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.24-02:33:11-39.3905-38.4668-1.8</guid>
-      <description>Tarih: 2026.06.24 02:33:11 | Derinlik: 6.0 km | Konum: 39.3905, 38.4668</description>
-    </item>
-
-    <item>
-      <title>M1.2 - YENILER-SIMAV (KUTAHYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.24-02:05:39-39.2557-28.9632-1.2</guid>
-      <description>Tarih: 2026.06.24 02:05:39 | Derinlik: 16.2 km | Konum: 39.2557, 28.9632</description>
     </item>
 
 </channel>
