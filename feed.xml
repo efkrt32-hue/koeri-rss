@@ -4,13 +4,48 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Wed, 24 Jun 2026 16:13:37 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 24 Jun 2026 18:12:46 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.9 - IKIZKUYU-NURDAGI (GAZIANTEP) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.24-20:39:00-37.1500-36.9978-1.9</guid>
+      <description>Tarih: 2026.06.24 20:39:00 | Derinlik: 7.5 km | Konum: 37.1500, 36.9978</description>
+    </item>
+
+    <item>
+      <title>M2.3 - AGCASAR-NURHAK (KAHRAMANMARAS) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.24-20:12:37-38.0867-37.4028-2.3</guid>
+      <description>Tarih: 2026.06.24 20:12:37 | Derinlik: 4.8 km | Konum: 38.0867, 37.4028</description>
+    </item>
+
+    <item>
+      <title>M2.1 - GEMLIK KORFEZI (MARMARA DENIZI) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.24-19:33:55-40.4170-29.0038-2.1</guid>
+      <description>Tarih: 2026.06.24 19:33:55 | Derinlik: 8.3 km | Konum: 40.4170, 29.0038</description>
+    </item>
+
+    <item>
+      <title>M1.4 - BOZBEL-DALAMAN (MUGLA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.24-19:23:56-36.9328-29.0003-1.4</guid>
+      <description>Tarih: 2026.06.24 19:23:56 | Derinlik: 22.7 km | Konum: 36.9328, 29.0003</description>
+    </item>
+
     <item>
       <title>M1.8 - BAYINDIR-YESILOVA (BURDUR) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.06.24-18:35:14-37.6645-29.7735-1.8</guid>
       <description>Tarih: 2026.06.24 18:35:14 | Derinlik: 16.2 km | Konum: 37.6645, 29.7735</description>
+    </item>
+
+    <item>
+      <title>M2.0 - CESME ACIKLARI-IZMIR (EGE DENIZI) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.24-17:53:38-38.1102-26.3075-2.0</guid>
+      <description>Tarih: 2026.06.24 17:53:38 | Derinlik: 8.6 km | Konum: 38.1102, 26.3075</description>
     </item>
 
     <item>
@@ -319,41 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.06.24-01:00:56-38.7600-23.3247-2.6</guid>
       <description>Tarih: 2026.06.24 01:00:56 | Derinlik: 10.2 km | Konum: 38.7600, 23.3247</description>
-    </item>
-
-    <item>
-      <title>M1.6 - AKDENIZ İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.24-01:00:44-35.7285-28.3905-1.6</guid>
-      <description>Tarih: 2026.06.24 01:00:44 | Derinlik: 11.6 km | Konum: 35.7285, 28.3905</description>
-    </item>
-
-    <item>
-      <title>M3.3 - YUNANISTAN İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.24-00:54:50-38.7620-23.5010-3.3</guid>
-      <description>Tarih: 2026.06.24 00:54:50 | Derinlik: 6.0 km | Konum: 38.7620, 23.5010</description>
-    </item>
-
-    <item>
-      <title>M1.0 - KARAKOCA-SIMAV (KUTAHYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.24-00:01:39-39.2613-28.9632-1.0</guid>
-      <description>Tarih: 2026.06.24 00:01:39 | Derinlik: 8.7 km | Konum: 39.2613, 28.9632</description>
-    </item>
-
-    <item>
-      <title>M1.6 - YAYLACIK-SINDIRGI (BALIKESIR) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.23-23:51:39-39.2112-28.1855-1.6</guid>
-      <description>Tarih: 2026.06.23 23:51:39 | Derinlik: 10.3 km | Konum: 39.2112, 28.1855</description>
-    </item>
-
-    <item>
-      <title>M2.0 - CEVIRME-AKCADAG (MALATYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.23-23:29:37-38.2525-37.7592-2.0</guid>
-      <description>Tarih: 2026.06.23 23:29:37 | Derinlik: 12.7 km | Konum: 38.2525, 37.7592</description>
     </item>
 
 </channel>
