@@ -4,8 +4,29 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Thu, 25 Jun 2026 15:56:48 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 25 Jun 2026 18:20:40 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.7 - MIDILLI ADASI GUNEYI (EGE DENIZI) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.25-19:56:44-39.0147-25.9598-1.7</guid>
+      <description>Tarih: 2026.06.25 19:56:44 | Derinlik: 9.8 km | Konum: 39.0147, 25.9598</description>
+    </item>
+
+    <item>
+      <title>M1.7 - ULUKOY-(MALATYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.25-19:43:28-38.1822-38.5577-1.7</guid>
+      <description>Tarih: 2026.06.25 19:43:28 | Derinlik: 21.6 km | Konum: 38.1822, 38.5577</description>
+    </item>
+
+    <item>
+      <title>M1.9 - GULDUREN-HISARCIK (KUTAHYA) REVIZE01 (2026.06.25 19:22:42)</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.25-19:22:42-39.2420-29.1563-1.9</guid>
+      <description>Tarih: 2026.06.25 19:22:42 | Derinlik: 3.8 km | Konum: 39.2420, 29.1563</description>
+    </item>
+
     <item>
       <title>M2.4 - YEMISLI-SIMAV (KUTAHYA) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -333,27 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.06.24-23:15:43-36.9583-28.8328-1.5</guid>
       <description>Tarih: 2026.06.24 23:15:43 | Derinlik: 11.0 km | Konum: 36.9583, 28.8328</description>
-    </item>
-
-    <item>
-      <title>M1.9 - KARAKUZU-ALIAGA (IZMIR) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.24-22:48:29-38.7708-27.1250-1.9</guid>
-      <description>Tarih: 2026.06.24 22:48:29 | Derinlik: 5.1 km | Konum: 38.7708, 27.1250</description>
-    </item>
-
-    <item>
-      <title>M1.6 - YAKACIK-FETHIYE (MUGLA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.24-22:39:42-36.6815-29.3055-1.6</guid>
-      <description>Tarih: 2026.06.24 22:39:42 | Derinlik: 5.3 km | Konum: 36.6815, 29.3055</description>
-    </item>
-
-    <item>
-      <title>M1.6 - YAKACIK-FETHIYE (MUGLA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.24-22:32:55-36.6885-29.2803-1.6</guid>
-      <description>Tarih: 2026.06.24 22:32:55 | Derinlik: 3.8 km | Konum: 36.6885, 29.2803</description>
     </item>
 
 </channel>
