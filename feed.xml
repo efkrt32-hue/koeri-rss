@@ -4,8 +4,29 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Thu, 25 Jun 2026 08:04:44 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 25 Jun 2026 10:53:05 +0000</lastBuildDate>
   
+    <item>
+      <title>M2.4 - MIDILLI ADASI GUNEYI (EGE DENIZI) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.25-12:32:05-39.0003-25.7833-2.4</guid>
+      <description>Tarih: 2026.06.25 12:32:05 | Derinlik: 7.1 km | Konum: 39.0003, 25.7833</description>
+    </item>
+
+    <item>
+      <title>M1.9 - MAHMUTBEY-GOKSUN (KAHRAMANMARAS) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.25-11:33:34-38.1143-36.5127-1.9</guid>
+      <description>Tarih: 2026.06.25 11:33:34 | Derinlik: 7.9 km | Konum: 38.1143, 36.5127</description>
+    </item>
+
+    <item>
+      <title>M3.2 - GIRIT ADASI (AKDENIZ) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.25-11:06:29-34.9743-25.2072-3.2</guid>
+      <description>Tarih: 2026.06.25 11:06:29 | Derinlik: 5.0 km | Konum: 34.9743, 25.2072</description>
+    </item>
+
     <item>
       <title>M1.4 - DAGYOLU-PULUMUR (TUNCELI) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -333,27 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.06.24-16:10:43-40.6158-27.5950-1.8</guid>
       <description>Tarih: 2026.06.24 16:10:43 | Derinlik: 5.0 km | Konum: 40.6158, 27.5950</description>
-    </item>
-
-    <item>
-      <title>M1.8 - AKDAG-YAKUTIYE (ERZURUM) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.24-15:38:14-40.1135-41.3513-1.8</guid>
-      <description>Tarih: 2026.06.24 15:38:14 | Derinlik: 1.4 km | Konum: 40.1135, 41.3513</description>
-    </item>
-
-    <item>
-      <title>M1.5 - SILIFKE ACIKLARI-MERSIN (AKDENIZ) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.24-13:08:56-36.2167-33.9455-1.5</guid>
-      <description>Tarih: 2026.06.24 13:08:56 | Derinlik: 7.5 km | Konum: 36.2167, 33.9455</description>
-    </item>
-
-    <item>
-      <title>M1.1 - UCPINAR-(BALIKESIR) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.24-12:19:27-39.6648-27.9083-1.1</guid>
-      <description>Tarih: 2026.06.24 12:19:27 | Derinlik: 6.5 km | Konum: 39.6648, 27.9083</description>
     </item>
 
 </channel>
