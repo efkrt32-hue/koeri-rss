@@ -4,8 +4,22 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Thu, 25 Jun 2026 22:07:32 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 25 Jun 2026 23:44:37 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.7 - SINANDEDE-SINDIRGI (BALIKESIR) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.26-02:01:36-39.1605-28.1358-1.7</guid>
+      <description>Tarih: 2026.06.26 02:01:36 | Derinlik: 11.0 km | Konum: 39.1605, 28.1358</description>
+    </item>
+
+    <item>
+      <title>M1.4 - SUDUGUNU-(BINGOL) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.26-01:48:17-39.0360-40.4182-1.4</guid>
+      <description>Tarih: 2026.06.26 01:48:17 | Derinlik: 1.0 km | Konum: 39.0360, 40.4182</description>
+    </item>
+
     <item>
       <title>M3.2 - GIRIT ADASI (AKDENIZ) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -340,20 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.06.25-02:26:36-35.4810-32.6993-1.8</guid>
       <description>Tarih: 2026.06.25 02:26:36 | Derinlik: 18.6 km | Konum: 35.4810, 32.6993</description>
-    </item>
-
-    <item>
-      <title>M1.9 - SOGUTYANI-YAKUTIYE (ERZURUM) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.25-02:22:51-40.1257-41.3875-1.9</guid>
-      <description>Tarih: 2026.06.25 02:22:51 | Derinlik: 17.4 km | Konum: 40.1257, 41.3875</description>
-    </item>
-
-    <item>
-      <title>M2.0 - KOYUNLU-GOLE (ARDAHAN) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.25-02:09:44-40.8028-42.7820-2.0</guid>
-      <description>Tarih: 2026.06.25 02:09:44 | Derinlik: 5.0 km | Konum: 40.8028, 42.7820</description>
     </item>
 
 </channel>
