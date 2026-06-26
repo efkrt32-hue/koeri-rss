@@ -4,8 +4,22 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Fri, 26 Jun 2026 14:48:56 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 26 Jun 2026 16:54:00 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.7 - AKTAS-SINDIRGI (BALIKESIR) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.26-18:48:31-39.1693-28.1833-1.7</guid>
+      <description>Tarih: 2026.06.26 18:48:31 | Derinlik: 9.7 km | Konum: 39.1693, 28.1833</description>
+    </item>
+
+    <item>
+      <title>M1.9 - AKDENIZ İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.26-17:35:16-36.1248-31.2232-1.9</guid>
+      <description>Tarih: 2026.06.26 17:35:16 | Derinlik: 5.4 km | Konum: 36.1248, 31.2232</description>
+    </item>
+
     <item>
       <title>M2.0 - COTELI-(ELAZIG) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -340,20 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.06.25-10:36:18-39.5328-39.8965-1.4</guid>
       <description>Tarih: 2026.06.25 10:36:18 | Derinlik: 1.9 km | Konum: 39.5328, 39.8965</description>
-    </item>
-
-    <item>
-      <title>M1.6 - DAGYOLU-PULUMUR (TUNCELI) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.25-10:34:56-39.5282-39.8797-1.6</guid>
-      <description>Tarih: 2026.06.25 10:34:56 | Derinlik: 5.0 km | Konum: 39.5282, 39.8797</description>
-    </item>
-
-    <item>
-      <title>M1.5 - BASKALECIK-PULUMUR (TUNCELI) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.25-10:27:21-39.5342-39.8442-1.5</guid>
-      <description>Tarih: 2026.06.25 10:27:21 | Derinlik: 3.8 km | Konum: 39.5342, 39.8442</description>
     </item>
 
 </channel>
