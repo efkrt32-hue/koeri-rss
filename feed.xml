@@ -4,8 +4,22 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sat, 27 Jun 2026 14:00:29 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 27 Jun 2026 15:23:18 +0000</lastBuildDate>
   
+    <item>
+      <title>M3.2 - AKCAOREN-(VAN) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.27-17:57:53-38.7400-43.4820-3.2</guid>
+      <description>Tarih: 2026.06.27 17:57:53 | Derinlik: 5.0 km | Konum: 38.7400, 43.4820</description>
+    </item>
+
+    <item>
+      <title>M1.9 - MIDILLI ADASI (EGE DENIZI) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.27-17:18:56-39.3893-26.2275-1.9</guid>
+      <description>Tarih: 2026.06.27 17:18:56 | Derinlik: 7.2 km | Konum: 39.3893, 26.2275</description>
+    </item>
+
     <item>
       <title>M2.4 - GULPINAR ACIKLARI-CANAKKALE (EGE DENIZI) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -340,20 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.06.26-19:35:23-36.7142-36.1240-2.3</guid>
       <description>Tarih: 2026.06.26 19:35:23 | Derinlik: 2.6 km | Konum: 36.7142, 36.1240</description>
-    </item>
-
-    <item>
-      <title>M1.5 - BASMEZRA-PUTURGE (MALATYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.26-19:14:39-38.1697-38.6130-1.5</guid>
-      <description>Tarih: 2026.06.26 19:14:39 | Derinlik: 21.2 km | Konum: 38.1697, 38.6130</description>
-    </item>
-
-    <item>
-      <title>M1.7 - AKTAS-SINDIRGI (BALIKESIR) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.26-18:48:31-39.1693-28.1833-1.7</guid>
-      <description>Tarih: 2026.06.26 18:48:31 | Derinlik: 9.7 km | Konum: 39.1693, 28.1833</description>
     </item>
 
 </channel>
