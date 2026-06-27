@@ -4,8 +4,15 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sat, 27 Jun 2026 18:56:21 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 27 Jun 2026 20:14:06 +0000</lastBuildDate>
   
+    <item>
+      <title>M2.1 - YUKARIBURANDERE-PINARBASI (KAYSERI) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.27-21:46:26-38.7812-36.5445-2.1</guid>
+      <description>Tarih: 2026.06.27 21:46:26 | Derinlik: 4.7 km | Konum: 38.7812, 36.5445</description>
+    </item>
+
     <item>
       <title>M2.1 - BALPINARI-PUTURGE (MALATYA) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -18,6 +25,13 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.06.27-21:24:04-38.9587-29.5608-1.9</guid>
       <description>Tarih: 2026.06.27 21:24:04 | Derinlik: 14.4 km | Konum: 38.9587, 29.5608</description>
+    </item>
+
+    <item>
+      <title>M1.5 - KOZLUCA-(VAN) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.27-20:48:50-38.6688-43.5447-1.5</guid>
+      <description>Tarih: 2026.06.27 20:48:50 | Derinlik: 13.7 km | Konum: 38.6688, 43.5447</description>
     </item>
 
     <item>
@@ -340,20 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.06.27-03:05:59-39.2198-29.1430-1.0</guid>
       <description>Tarih: 2026.06.27 03:05:59 | Derinlik: 11.5 km | Konum: 39.2198, 29.1430</description>
-    </item>
-
-    <item>
-      <title>M1.6 - GUNLUCE ACIKLARI-MUGLA (AKDENIZ) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.27-02:33:44-36.7292-28.3480-1.6</guid>
-      <description>Tarih: 2026.06.27 02:33:44 | Derinlik: 61.1 km | Konum: 36.7292, 28.3480</description>
-    </item>
-
-    <item>
-      <title>M1.4 - TOKAT-HISARCIK (KUTAHYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.27-01:49:42-39.2070-29.1012-1.4</guid>
-      <description>Tarih: 2026.06.27 01:49:42 | Derinlik: 13.4 km | Konum: 39.2070, 29.1012</description>
     </item>
 
 </channel>
