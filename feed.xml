@@ -4,8 +4,22 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sat, 27 Jun 2026 11:56:24 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 27 Jun 2026 14:00:29 +0000</lastBuildDate>
   
+    <item>
+      <title>M2.4 - GULPINAR ACIKLARI-CANAKKALE (EGE DENIZI) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.27-15:21:05-39.5285-25.8883-2.4</guid>
+      <description>Tarih: 2026.06.27 15:21:05 | Derinlik: 5.4 km | Konum: 39.5285, 25.8883</description>
+    </item>
+
+    <item>
+      <title>M2.1 - EGRISOGUT-PINARBASI (KAYSERI) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.27-15:10:01-38.6390-36.3785-2.1</guid>
+      <description>Tarih: 2026.06.27 15:10:01 | Derinlik: 9.1 km | Konum: 38.6390, 36.3785</description>
+    </item>
+
     <item>
       <title>M1.8 - MIDILLI ADASI (EGE DENIZI) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -340,20 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.06.26-18:48:31-39.1693-28.1833-1.7</guid>
       <description>Tarih: 2026.06.26 18:48:31 | Derinlik: 9.7 km | Konum: 39.1693, 28.1833</description>
-    </item>
-
-    <item>
-      <title>M1.4 - POYRAZ-(ELAZIG) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.26-17:43:59-38.7002-39.0303-1.4</guid>
-      <description>Tarih: 2026.06.26 17:43:59 | Derinlik: 28.3 km | Konum: 38.7002, 39.0303</description>
-    </item>
-
-    <item>
-      <title>M1.9 - AKDENIZ İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.26-17:35:16-36.1248-31.2232-1.9</guid>
-      <description>Tarih: 2026.06.26 17:35:16 | Derinlik: 5.4 km | Konum: 36.1248, 31.2232</description>
     </item>
 
 </channel>
