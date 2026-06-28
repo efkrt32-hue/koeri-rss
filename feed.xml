@@ -4,8 +4,29 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sun, 28 Jun 2026 14:53:33 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 28 Jun 2026 16:10:46 +0000</lastBuildDate>
   
+    <item>
+      <title>M3.2 - YUNANISTAN İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.28-18:10:31-36.1405-23.1043-3.2</guid>
+      <description>Tarih: 2026.06.28 18:10:31 | Derinlik: 54.4 km | Konum: 36.1405, 23.1043</description>
+    </item>
+
+    <item>
+      <title>M3.4 - AKDENIZ İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.28-18:04:25-35.7850-30.9373-3.4</guid>
+      <description>Tarih: 2026.06.28 18:04:25 | Derinlik: 31.5 km | Konum: 35.7850, 30.9373</description>
+    </item>
+
+    <item>
+      <title>M2.1 - EKINOZU (KAHRAMANMARAS) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.28-17:52:34-38.0913-37.1740-2.1</guid>
+      <description>Tarih: 2026.06.28 17:52:34 | Derinlik: 5.4 km | Konum: 38.0913, 37.1740</description>
+    </item>
+
     <item>
       <title>M1.8 - ILICA-SINDIRGI (BALIKESIR) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -333,27 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.06.27-23:05:30-36.2065-36.0742-2.9</guid>
       <description>Tarih: 2026.06.27 23:05:30 | Derinlik: 5.0 km | Konum: 36.2065, 36.0742</description>
-    </item>
-
-    <item>
-      <title>M1.9 - KANLIKAVAK-GOKSUN (KAHRAMANMARAS) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.27-22:44:51-38.1002-36.6042-1.9</guid>
-      <description>Tarih: 2026.06.27 22:44:51 | Derinlik: 5.3 km | Konum: 38.1002, 36.6042</description>
-    </item>
-
-    <item>
-      <title>M2.1 - MIDILLI ADASI (EGE DENIZI) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.27-22:44:24-39.3913-26.2487-2.1</guid>
-      <description>Tarih: 2026.06.27 22:44:24 | Derinlik: 9.3 km | Konum: 39.3913, 26.2487</description>
-    </item>
-
-    <item>
-      <title>M2.1 - YUKARIBURANDERE-PINARBASI (KAYSERI) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.27-21:46:26-38.7812-36.5445-2.1</guid>
-      <description>Tarih: 2026.06.27 21:46:26 | Derinlik: 4.7 km | Konum: 38.7812, 36.5445</description>
     </item>
 
 </channel>
