@@ -4,8 +4,50 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sun, 28 Jun 2026 06:23:53 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 28 Jun 2026 09:41:04 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.5 - GOKOVA KORFEZI (EGE DENIZI) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.28-11:08:38-36.8678-27.5445-1.5</guid>
+      <description>Tarih: 2026.06.28 11:08:38 | Derinlik: 9.1 km | Konum: 36.8678, 27.5445</description>
+    </item>
+
+    <item>
+      <title>M1.7 - AKKOPRU-KOYCEGIZ (MUGLA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.28-10:57:04-36.9750-28.9813-1.7</guid>
+      <description>Tarih: 2026.06.28 10:57:04 | Derinlik: 7.1 km | Konum: 36.9750, 28.9813</description>
+    </item>
+
+    <item>
+      <title>M1.7 - AKKOPRU-KOYCEGIZ (MUGLA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.28-10:46:28-36.9643-28.9837-1.7</guid>
+      <description>Tarih: 2026.06.28 10:46:28 | Derinlik: 14.7 km | Konum: 36.9643, 28.9837</description>
+    </item>
+
+    <item>
+      <title>M2.7 - ALEMDAR-KIZILTEPE (MARDIN) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.28-09:23:21-37.1372-40.5753-2.7</guid>
+      <description>Tarih: 2026.06.28 09:23:21 | Derinlik: 5.0 km | Konum: 37.1372, 40.5753</description>
+    </item>
+
+    <item>
+      <title>M1.9 - BOLUMLU-BISMIL (DIYARBAKIR) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.28-09:21:18-37.7088-40.6015-1.9</guid>
+      <description>Tarih: 2026.06.28 09:21:18 | Derinlik: 25.3 km | Konum: 37.7088, 40.6015</description>
+    </item>
+
+    <item>
+      <title>M1.6 - AKDENIZ İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.28-09:08:57-36.3937-28.7395-1.6</guid>
+      <description>Tarih: 2026.06.28 09:08:57 | Derinlik: 7.0 km | Konum: 36.3937, 28.7395</description>
+    </item>
+
     <item>
       <title>M2.4 - CAKILOBA-BEYPAZARI (ANKARA) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -312,48 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.06.27-14:41:37-39.3892-26.2288-1.8</guid>
       <description>Tarih: 2026.06.27 14:41:37 | Derinlik: 6.1 km | Konum: 39.3892, 26.2288</description>
-    </item>
-
-    <item>
-      <title>M2.5 - GUZELKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.27-14:05:05-40.6532-27.4602-2.5</guid>
-      <description>Tarih: 2026.06.27 14:05:05 | Derinlik: 16.6 km | Konum: 40.6532, 27.4602</description>
-    </item>
-
-    <item>
-      <title>M2.3 - KIBRIS ACIKLARI-GUNEY--(AKDENIZ) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.27-14:00:09-34.4305-33.7308-2.3</guid>
-      <description>Tarih: 2026.06.27 14:00:09 | Derinlik: 6.3 km | Konum: 34.4305, 33.7308</description>
-    </item>
-
-    <item>
-      <title>M1.2 - YESILOVACIK-SILIFKE (MERSIN) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.27-13:50:44-36.1848-33.7202-1.2</guid>
-      <description>Tarih: 2026.06.27 13:50:44 | Derinlik: 0.0 km | Konum: 36.1848, 33.7202</description>
-    </item>
-
-    <item>
-      <title>M1.9 - BERGAMA (IZMIR) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.27-13:29:39-39.1080-27.1922-1.9</guid>
-      <description>Tarih: 2026.06.27 13:29:39 | Derinlik: 8.6 km | Konum: 39.1080, 27.1922</description>
-    </item>
-
-    <item>
-      <title>M4.3 - MIDILLI ADASI (EGE DENIZI) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.27-13:27:38-39.3763-26.2215-4.3</guid>
-      <description>Tarih: 2026.06.27 13:27:38 | Derinlik: 7.9 km | Konum: 39.3763, 26.2215</description>
-    </item>
-
-    <item>
-      <title>M1.7 - CAMPINAR-CELIKHAN (ADIYAMAN) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.27-13:10:30-38.1577-38.2462-1.7</guid>
-      <description>Tarih: 2026.06.27 13:10:30 | Derinlik: 18.4 km | Konum: 38.1577, 38.2462</description>
     </item>
 
 </channel>
