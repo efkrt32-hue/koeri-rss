@@ -4,8 +4,29 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sun, 28 Jun 2026 09:41:04 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 28 Jun 2026 11:25:57 +0000</lastBuildDate>
   
+    <item>
+      <title>M2.5 - KUSADASI (AYDIN) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.28-12:30:53-37.8737-27.2798-2.5</guid>
+      <description>Tarih: 2026.06.28 12:30:53 | Derinlik: 5.3 km | Konum: 37.8737, 27.2798</description>
+    </item>
+
+    <item>
+      <title>M2.1 - KUSADASI (AYDIN) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.28-12:18:34-37.8747-27.2782-2.1</guid>
+      <description>Tarih: 2026.06.28 12:18:34 | Derinlik: 5.7 km | Konum: 37.8747, 27.2782</description>
+    </item>
+
+    <item>
+      <title>M2.0 - AKTAS-SINDIRGI (BALIKESIR) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.28-11:51:45-39.1872-28.1997-2.0</guid>
+      <description>Tarih: 2026.06.28 11:51:45 | Derinlik: 9.5 km | Konum: 39.1872, 28.1997</description>
+    </item>
+
     <item>
       <title>M1.5 - GOKOVA KORFEZI (EGE DENIZI) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -333,27 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.06.27-17:18:56-39.3893-26.2275-1.9</guid>
       <description>Tarih: 2026.06.27 17:18:56 | Derinlik: 7.2 km | Konum: 39.3893, 26.2275</description>
-    </item>
-
-    <item>
-      <title>M2.4 - GULPINAR ACIKLARI-CANAKKALE (EGE DENIZI) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.27-15:21:05-39.5285-25.8883-2.4</guid>
-      <description>Tarih: 2026.06.27 15:21:05 | Derinlik: 5.4 km | Konum: 39.5285, 25.8883</description>
-    </item>
-
-    <item>
-      <title>M2.1 - EGRISOGUT-PINARBASI (KAYSERI) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.27-15:10:01-38.6390-36.3785-2.1</guid>
-      <description>Tarih: 2026.06.27 15:10:01 | Derinlik: 9.1 km | Konum: 38.6390, 36.3785</description>
-    </item>
-
-    <item>
-      <title>M1.8 - MIDILLI ADASI (EGE DENIZI) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.27-14:41:37-39.3892-26.2288-1.8</guid>
-      <description>Tarih: 2026.06.27 14:41:37 | Derinlik: 6.1 km | Konum: 39.3892, 26.2288</description>
     </item>
 
 </channel>
