@@ -4,8 +4,29 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Tue, 30 Jun 2026 20:19:50 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 30 Jun 2026 21:53:18 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.8 - MIDILLI ADASI (EGE DENIZI) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.01-00:44:31-39.2938-26.2608-1.8</guid>
+      <description>Tarih: 2026.07.01 00:44:31 | Derinlik: 8.3 km | Konum: 39.2938, 26.2608</description>
+    </item>
+
+    <item>
+      <title>M1.5 - OTMANLAR-KOYCEGIZ (MUGLA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.01-00:35:11-37.0217-28.9308-1.5</guid>
+      <description>Tarih: 2026.07.01 00:35:11 | Derinlik: 5.0 km | Konum: 37.0217, 28.9308</description>
+    </item>
+
+    <item>
+      <title>M1.8 - MIDILLI ADASI (EGE DENIZI) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.30-23:29:44-39.1337-25.9392-1.8</guid>
+      <description>Tarih: 2026.06.30 23:29:44 | Derinlik: 6.6 km | Konum: 39.1337, 25.9392</description>
+    </item>
+
     <item>
       <title>M2.5 - MIDILLI ADASI GUNEYI (EGE DENIZI) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -333,27 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.06.30-05:14:30-39.2055-28.1208-2.3</guid>
       <description>Tarih: 2026.06.30 05:14:30 | Derinlik: 10.5 km | Konum: 39.2055, 28.1208</description>
-    </item>
-
-    <item>
-      <title>M2.5 - KAYADIBI-YESILHISAR (KAYSERI) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.30-04:54:28-38.2210-35.1268-2.5</guid>
-      <description>Tarih: 2026.06.30 04:54:28 | Derinlik: 6.4 km | Konum: 38.2210, 35.1268</description>
-    </item>
-
-    <item>
-      <title>M1.8 - MIDILLI ADASI GUNEYI (EGE DENIZI) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.30-04:23:07-39.0290-25.9550-1.8</guid>
-      <description>Tarih: 2026.06.30 04:23:07 | Derinlik: 6.5 km | Konum: 39.0290, 25.9550</description>
-    </item>
-
-    <item>
-      <title>M2.4 - KIZILOREN-GURUN (SIVAS) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.30-04:16:02-38.7598-37.1768-2.4</guid>
-      <description>Tarih: 2026.06.30 04:16:02 | Derinlik: 5.0 km | Konum: 38.7598, 37.1768</description>
     </item>
 
 </channel>
