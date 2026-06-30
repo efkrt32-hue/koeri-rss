@@ -4,8 +4,29 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Tue, 30 Jun 2026 16:03:52 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 30 Jun 2026 18:09:45 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.7 - CICEKLIDERE-SUMBAS (OSMANIYE) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.30-21:01:19-37.6192-36.0628-1.7</guid>
+      <description>Tarih: 2026.06.30 21:01:19 | Derinlik: 5.0 km | Konum: 37.6192, 36.0628</description>
+    </item>
+
+    <item>
+      <title>M1.8 - ATMALIKASANLI-ELBISTAN (KAHRAMANMARAS) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.30-19:23:16-38.1892-37.6850-1.8</guid>
+      <description>Tarih: 2026.06.30 19:23:16 | Derinlik: 14.9 km | Konum: 38.1892, 37.6850</description>
+    </item>
+
+    <item>
+      <title>M1.7 - ISKENDERUN KORFEZI (AKDENIZ) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.06.30-19:09:06-36.2960-35.6485-1.7</guid>
+      <description>Tarih: 2026.06.30 19:09:06 | Derinlik: 12.9 km | Konum: 36.2960, 35.6485</description>
+    </item>
+
     <item>
       <title>M2.7 - EGE DENIZI İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -333,27 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.06.30-02:41:51-39.1867-28.2815-1.7</guid>
       <description>Tarih: 2026.06.30 02:41:51 | Derinlik: 10.6 km | Konum: 39.1867, 28.2815</description>
-    </item>
-
-    <item>
-      <title>M3.4 - MIDILLI ADASI GUNEYI (EGE DENIZI) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.30-02:34:54-39.0163-25.9680-3.4</guid>
-      <description>Tarih: 2026.06.30 02:34:54 | Derinlik: 5.0 km | Konum: 39.0163, 25.9680</description>
-    </item>
-
-    <item>
-      <title>M1.7 - ORMANICI-SINDIRGI (BALIKESIR) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.30-02:28:35-39.2055-28.1385-1.7</guid>
-      <description>Tarih: 2026.06.30 02:28:35 | Derinlik: 9.1 km | Konum: 39.2055, 28.1385</description>
-    </item>
-
-    <item>
-      <title>M2.8 - YUNANISTAN İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.06.30-02:24:29-40.7737-23.2303-2.8</guid>
-      <description>Tarih: 2026.06.30 02:24:29 | Derinlik: 5.5 km | Konum: 40.7737, 23.2303</description>
     </item>
 
 </channel>
