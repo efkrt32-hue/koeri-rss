@@ -4,8 +4,29 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Thu, 02 Jul 2026 15:09:05 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 02 Jul 2026 17:01:52 +0000</lastBuildDate>
   
+    <item>
+      <title>M2.7 - GOLLU-(VAN) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.02-18:40:40-38.7258-43.3462-2.7</guid>
+      <description>Tarih: 2026.07.02 18:40:40 | Derinlik: 5.6 km | Konum: 38.7258, 43.3462</description>
+    </item>
+
+    <item>
+      <title>M2.1 - SOBRAN-ALASEHIR (MANISA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.02-18:11:22-38.3253-28.6007-2.1</guid>
+      <description>Tarih: 2026.07.02 18:11:22 | Derinlik: 9.7 km | Konum: 38.3253, 28.6007</description>
+    </item>
+
+    <item>
+      <title>M2.4 - ERMENISTAN İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.02-18:05:08-40.8393-44.9773-2.4</guid>
+      <description>Tarih: 2026.07.02 18:05:08 | Derinlik: 5.0 km | Konum: 40.8393, 44.9773</description>
+    </item>
+
     <item>
       <title>M2.6 - AKDENIZ İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -333,27 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.07.01-20:58:57-40.8532-35.3440-2.3</guid>
       <description>Tarih: 2026.07.01 20:58:57 | Derinlik: 7.6 km | Konum: 40.8532, 35.3440</description>
-    </item>
-
-    <item>
-      <title>M1.1 - YOLKURU-DOGANSEHIR (MALATYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.01-20:33:40-38.1383-37.8637-1.1</guid>
-      <description>Tarih: 2026.07.01 20:33:40 | Derinlik: 25.9 km | Konum: 38.1383, 37.8637</description>
-    </item>
-
-    <item>
-      <title>M2.0 - CEVIRME-AKCADAG (MALATYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.01-20:14:36-38.2567-37.7730-2.0</guid>
-      <description>Tarih: 2026.07.01 20:14:36 | Derinlik: 11.5 km | Konum: 38.2567, 37.7730</description>
-    </item>
-
-    <item>
-      <title>M1.5 - GOLBAGI-CELIKHAN (ADIYAMAN) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.01-20:11:56-38.0843-38.2280-1.5</guid>
-      <description>Tarih: 2026.07.01 20:11:56 | Derinlik: 4.6 km | Konum: 38.0843, 38.2280</description>
     </item>
 
 </channel>
