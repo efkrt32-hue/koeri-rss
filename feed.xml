@@ -4,8 +4,36 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Thu, 02 Jul 2026 18:44:27 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 02 Jul 2026 20:09:57 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.6 - AKKOPRU-KOYCEGIZ (MUGLA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.02-22:10:12-36.9852-28.9767-1.6</guid>
+      <description>Tarih: 2026.07.02 22:10:12 | Derinlik: 4.9 km | Konum: 36.9852, 28.9767</description>
+    </item>
+
+    <item>
+      <title>M1.9 - EYUPLU-SAIMBEYLI (ADANA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.02-19:40:05-37.9545-36.1433-1.9</guid>
+      <description>Tarih: 2026.07.02 19:40:05 | Derinlik: 5.0 km | Konum: 37.9545, 36.1433</description>
+    </item>
+
+    <item>
+      <title>M1.6 - DEREKOY-HEKIMHAN (MALATYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.02-19:08:17-38.9118-37.8370-1.6</guid>
+      <description>Tarih: 2026.07.02 19:08:17 | Derinlik: 8.3 km | Konum: 38.9118, 37.8370</description>
+    </item>
+
+    <item>
+      <title>M1.9 - GUVENCLI-(VAN) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.02-18:46:53-38.7372-43.3245-1.9</guid>
+      <description>Tarih: 2026.07.02 18:46:53 | Derinlik: 2.3 km | Konum: 38.7372, 43.3245</description>
+    </item>
+
     <item>
       <title>M1.3 - ORMANICI-SINDIRGI (BALIKESIR) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -326,34 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.07.01-23:25:08-38.4790-26.7220-1.9</guid>
       <description>Tarih: 2026.07.01 23:25:08 | Derinlik: 9.3 km | Konum: 38.4790, 26.7220</description>
-    </item>
-
-    <item>
-      <title>M1.5 - GUNEYKOY-SIVRICE (ELAZIG) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.01-23:08:42-38.4895-39.3115-1.5</guid>
-      <description>Tarih: 2026.07.01 23:08:42 | Derinlik: 5.5 km | Konum: 38.4895, 39.3115</description>
-    </item>
-
-    <item>
-      <title>M1.5 - GURLEYIK-DALAMAN (MUGLA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.01-23:06:09-36.9652-29.0087-1.5</guid>
-      <description>Tarih: 2026.07.01 23:06:09 | Derinlik: 12.7 km | Konum: 36.9652, 29.0087</description>
-    </item>
-
-    <item>
-      <title>M0.8 - NASA-SIMAV (KUTAHYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.01-22:44:01-39.1767-28.9762-0.8</guid>
-      <description>Tarih: 2026.07.01 22:44:01 | Derinlik: 17.9 km | Konum: 39.1767, 28.9762</description>
-    </item>
-
-    <item>
-      <title>M1.4 - KUMARLI-(KAHRAMANMARAS) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.01-22:22:54-37.8632-36.5058-1.4</guid>
-      <description>Tarih: 2026.07.01 22:22:54 | Derinlik: 8.1 km | Konum: 37.8632, 36.5058</description>
     </item>
 
 </channel>
