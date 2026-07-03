@@ -4,8 +4,29 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Fri, 03 Jul 2026 11:13:57 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 03 Jul 2026 13:15:40 +0000</lastBuildDate>
   
+    <item>
+      <title>M2.0 - KUSADASI KORFEZI (EGE DENIZI) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.03-15:51:59-37.7733-27.1855-2.0</guid>
+      <description>Tarih: 2026.07.03 15:51:59 | Derinlik: 5.4 km | Konum: 37.7733, 27.1855</description>
+    </item>
+
+    <item>
+      <title>M1.8 - DUTLU-AKCADAG (MALATYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.03-15:11:26-38.2862-37.7777-1.8</guid>
+      <description>Tarih: 2026.07.03 15:11:26 | Derinlik: 13.1 km | Konum: 38.2862, 37.7777</description>
+    </item>
+
+    <item>
+      <title>M2.4 - AKDENIZ İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.03-14:47:23-35.3748-27.2398-2.4</guid>
+      <description>Tarih: 2026.07.03 14:47:23 | Derinlik: 4.8 km | Konum: 35.3748, 27.2398</description>
+    </item>
+
     <item>
       <title>M1.5 - CUMALI-KINIK (IZMIR) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -333,27 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.07.02-15:44:09-35.8263-31.7820-2.6</guid>
       <description>Tarih: 2026.07.02 15:44:09 | Derinlik: 8.9 km | Konum: 35.8263, 31.7820</description>
-    </item>
-
-    <item>
-      <title>M2.3 - BUYUKKOMURCU-TIRE (IZMIR) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.02-15:09:51-38.0188-27.7543-2.3</guid>
-      <description>Tarih: 2026.07.02 15:09:51 | Derinlik: 5.4 km | Konum: 38.0188, 27.7543</description>
-    </item>
-
-    <item>
-      <title>M2.9 - AKDENIZ İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.02-14:42:29-35.4850-27.1022-2.9</guid>
-      <description>Tarih: 2026.07.02 14:42:29 | Derinlik: 2.6 km | Konum: 35.4850, 27.1022</description>
-    </item>
-
-    <item>
-      <title>M1.8 - ASMALI-MARMARA (BALIKESIR) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.02-14:38:22-40.6105-27.7880-1.8</guid>
-      <description>Tarih: 2026.07.02 14:38:22 | Derinlik: 4.9 km | Konum: 40.6105, 27.7880</description>
     </item>
 
 </channel>
