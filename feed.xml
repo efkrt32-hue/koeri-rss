@@ -4,8 +4,22 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sat, 04 Jul 2026 16:43:39 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 04 Jul 2026 17:47:51 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.9 - KAPUZBASI-YAHYALI (KAYSERI) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.04-20:11:03-37.7957-35.3618-1.9</guid>
+      <description>Tarih: 2026.07.04 20:11:03 | Derinlik: 5.0 km | Konum: 37.7957, 35.3618</description>
+    </item>
+
+    <item>
+      <title>M1.4 - NAMAZGAH-YENICE (CANAKKALE) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.04-19:33:27-39.9087-27.3048-1.4</guid>
+      <description>Tarih: 2026.07.04 19:33:27 | Derinlik: 19.5 km | Konum: 39.9087, 27.3048</description>
+    </item>
+
     <item>
       <title>M3.3 - AKDENIZ İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -340,20 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.07.03-22:29:45-38.8120-25.7030-2.3</guid>
       <description>Tarih: 2026.07.03 22:29:45 | Derinlik: 12.7 km | Konum: 38.8120, 25.7030</description>
-    </item>
-
-    <item>
-      <title>M1.7 - DEDEYAZI-DOGANSEHIR (MALATYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.03-22:28:32-38.2260-37.8052-1.7</guid>
-      <description>Tarih: 2026.07.03 22:28:32 | Derinlik: 7.8 km | Konum: 38.2260, 37.8052</description>
-    </item>
-
-    <item>
-      <title>M1.8 - SOGUKSU-GUMUSOVA (DUZCE) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.03-22:13:41-40.8490-30.8965-1.8</guid>
-      <description>Tarih: 2026.07.03 22:13:41 | Derinlik: 13.9 km | Konum: 40.8490, 30.8965</description>
     </item>
 
 </channel>
