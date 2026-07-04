@@ -4,8 +4,22 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sat, 04 Jul 2026 10:09:33 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 04 Jul 2026 11:46:30 +0000</lastBuildDate>
   
+    <item>
+      <title>M2.2 - YUNANISTAN İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.04-14:24:19-40.3342-24.0705-2.2</guid>
+      <description>Tarih: 2026.07.04 14:24:19 | Derinlik: 5.5 km | Konum: 40.3342, 24.0705</description>
+    </item>
+
+    <item>
+      <title>M1.5 - CIVRIL-YAZIHAN (MALATYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.04-12:51:35-38.5525-38.0387-1.5</guid>
+      <description>Tarih: 2026.07.04 12:51:35 | Derinlik: 21.5 km | Konum: 38.5525, 38.0387</description>
+    </item>
+
     <item>
       <title>M2.5 - AKOLUK-FEKE (ADANA) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -340,20 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.07.03-17:25:11-38.3682-37.3780-2.0</guid>
       <description>Tarih: 2026.07.03 17:25:11 | Derinlik: 11.9 km | Konum: 38.3682, 37.3780</description>
-    </item>
-
-    <item>
-      <title>M1.6 - SUCATI-MUT (MERSIN) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.03-17:02:10-36.6140-33.3757-1.6</guid>
-      <description>Tarih: 2026.07.03 17:02:10 | Derinlik: 25.8 km | Konum: 36.6140, 33.3757</description>
-    </item>
-
-    <item>
-      <title>M1.6 - AKIN-SEREFLIKOCHISAR (ANKARA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.03-16:41:45-39.1102-33.2782-1.6</guid>
-      <description>Tarih: 2026.07.03 16:41:45 | Derinlik: 5.4 km | Konum: 39.1102, 33.2782</description>
     </item>
 
 </channel>
