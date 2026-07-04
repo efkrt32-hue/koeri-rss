@@ -4,8 +4,22 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sat, 04 Jul 2026 22:13:25 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 04 Jul 2026 23:16:34 +0000</lastBuildDate>
   
+    <item>
+      <title>M2.1 - YUNANISTAN İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.05-01:26:47-40.3487-24.1017-2.1</guid>
+      <description>Tarih: 2026.07.05 01:26:47 | Derinlik: 5.3 km | Konum: 40.3487, 24.1017</description>
+    </item>
+
+    <item>
+      <title>M1.5 - YUKARIBURANDERE-PINARBASI (KAYSERI) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.05-01:19:57-38.7650-36.5417-1.5</guid>
+      <description>Tarih: 2026.07.05 01:19:57 | Derinlik: 8.1 km | Konum: 38.7650, 36.5417</description>
+    </item>
+
     <item>
       <title>M1.5 - TASOLUK-GOKSUN (KAHRAMANMARAS) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -340,20 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.07.04-02:11:49-36.9820-28.9797-1.8</guid>
       <description>Tarih: 2026.07.04 02:11:49 | Derinlik: 9.4 km | Konum: 36.9820, 28.9797</description>
-    </item>
-
-    <item>
-      <title>M1.5 - IKIZCE-YESILYURT (MALATYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.04-01:52:16-38.2765-38.2213-1.5</guid>
-      <description>Tarih: 2026.07.04 01:52:16 | Derinlik: 16.3 km | Konum: 38.2765, 38.2213</description>
-    </item>
-
-    <item>
-      <title>M1.6 - YENIYAPAN-GOKSUN (KAHRAMANMARAS) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.04-01:44:11-38.1342-36.6180-1.6</guid>
-      <description>Tarih: 2026.07.04 01:44:11 | Derinlik: 13.2 km | Konum: 38.1342, 36.6180</description>
     </item>
 
 </channel>
