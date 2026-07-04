@@ -4,8 +4,22 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sat, 04 Jul 2026 17:47:51 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 04 Jul 2026 18:46:15 +0000</lastBuildDate>
   
+    <item>
+      <title>M2.0 - BICKIYANI-KAYNASLI (DUZCE) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.04-21:18:24-40.7132-31.3463-2.0</guid>
+      <description>Tarih: 2026.07.04 21:18:24 | Derinlik: 10.2 km | Konum: 40.7132, 31.3463</description>
+    </item>
+
+    <item>
+      <title>M2.0 - DOGANBEY-KARACOBAN (ERZURUM) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.04-20:52:55-39.2992-42.1627-2.0</guid>
+      <description>Tarih: 2026.07.04 20:52:55 | Derinlik: 7.7 km | Konum: 39.2992, 42.1627</description>
+    </item>
+
     <item>
       <title>M1.9 - KAPUZBASI-YAHYALI (KAYSERI) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -340,20 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.07.04-00:08:52-41.3883-43.9498-2.5</guid>
       <description>Tarih: 2026.07.04 00:08:52 | Derinlik: 2.5 km | Konum: 41.3883, 43.9498</description>
-    </item>
-
-    <item>
-      <title>M1.9 - YAYLANLI-BASKIL (ELAZIG) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.03-22:39:14-38.4083-38.8760-1.9</guid>
-      <description>Tarih: 2026.07.03 22:39:14 | Derinlik: 9.5 km | Konum: 38.4083, 38.8760</description>
-    </item>
-
-    <item>
-      <title>M2.3 - EGE DENIZI İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.03-22:29:45-38.8120-25.7030-2.3</guid>
-      <description>Tarih: 2026.07.03 22:29:45 | Derinlik: 12.7 km | Konum: 38.8120, 25.7030</description>
     </item>
 
 </channel>
