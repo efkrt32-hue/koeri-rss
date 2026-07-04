@@ -4,8 +4,22 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sat, 04 Jul 2026 07:53:52 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 04 Jul 2026 10:09:33 +0000</lastBuildDate>
   
+    <item>
+      <title>M2.5 - AKOLUK-FEKE (ADANA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.04-11:12:36-37.7282-36.0693-2.5</guid>
+      <description>Tarih: 2026.07.04 11:12:36 | Derinlik: 1.9 km | Konum: 37.7282, 36.0693</description>
+    </item>
+
+    <item>
+      <title>M2.3 - ARMUTLU ACIKLARI-YALOVA (MARMARA DENIZI) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.04-11:03:08-40.6163-28.8185-2.3</guid>
+      <description>Tarih: 2026.07.04 11:03:08 | Derinlik: 10.4 km | Konum: 40.6163, 28.8185</description>
+    </item>
+
     <item>
       <title>M1.8 - KIZILBURUN-GURUN (SIVAS) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -340,20 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.07.03-16:41:45-39.1102-33.2782-1.6</guid>
       <description>Tarih: 2026.07.03 16:41:45 | Derinlik: 5.4 km | Konum: 39.1102, 33.2782</description>
-    </item>
-
-    <item>
-      <title>M1.9 - KUSADASI KORFEZI (EGE DENIZI) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.03-16:31:27-37.8650-27.2195-1.9</guid>
-      <description>Tarih: 2026.07.03 16:31:27 | Derinlik: 17.1 km | Konum: 37.8650, 27.2195</description>
-    </item>
-
-    <item>
-      <title>M2.0 - KUSADASI KORFEZI (EGE DENIZI) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.03-15:51:59-37.7733-27.1855-2.0</guid>
-      <description>Tarih: 2026.07.03 15:51:59 | Derinlik: 5.4 km | Konum: 37.7733, 27.1855</description>
     </item>
 
 </channel>
