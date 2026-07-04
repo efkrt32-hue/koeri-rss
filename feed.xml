@@ -4,8 +4,15 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sat, 04 Jul 2026 12:50:20 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 04 Jul 2026 14:23:51 +0000</lastBuildDate>
   
+    <item>
+      <title>M2.3 - KARAOMER-GOKSUN (KAHRAMANMARAS) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.04-16:47:01-38.1012-36.6655-2.3</guid>
+      <description>Tarih: 2026.07.04 16:47:01 | Derinlik: 6.0 km | Konum: 38.1012, 36.6655</description>
+    </item>
+
     <item>
       <title>M1.9 - KARAOMER-GOKSUN (KAHRAMANMARAS) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -347,13 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.07.03-20:55:57-36.8312-28.9505-1.5</guid>
       <description>Tarih: 2026.07.03 20:55:57 | Derinlik: 22.4 km | Konum: 36.8312, 28.9505</description>
-    </item>
-
-    <item>
-      <title>M1.6 - HACIHUSEYINEFENDI-SIMAV (KUTAHYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.03-20:47:34-39.1240-28.7098-1.6</guid>
-      <description>Tarih: 2026.07.03 20:47:34 | Derinlik: 9.4 km | Konum: 39.1240, 28.7098</description>
     </item>
 
 </channel>
