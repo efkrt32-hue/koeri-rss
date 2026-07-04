@@ -4,8 +4,29 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sat, 04 Jul 2026 04:57:06 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 04 Jul 2026 07:53:52 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.8 - KIZILBURUN-GURUN (SIVAS) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.04-10:22:43-38.7200-37.1682-1.8</guid>
+      <description>Tarih: 2026.07.04 10:22:43 | Derinlik: 5.0 km | Konum: 38.7200, 37.1682</description>
+    </item>
+
+    <item>
+      <title>M2.5 - ARMUTLU ACIKLARI-YALOVA (MARMARA DENIZI) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.04-08:57:15-40.5917-28.7973-2.5</guid>
+      <description>Tarih: 2026.07.04 08:57:15 | Derinlik: 13.2 km | Konum: 40.5917, 28.7973</description>
+    </item>
+
+    <item>
+      <title>M2.1 - KONAKLI-ARHAVI (ARTVIN) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.04-07:49:43-41.3247-41.3235-2.1</guid>
+      <description>Tarih: 2026.07.04 07:49:43 | Derinlik: 7.2 km | Konum: 41.3247, 41.3235</description>
+    </item>
+
     <item>
       <title>M1.5 - GOKMENLER-SAIMBEYLI (ADANA) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -333,27 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.07.03-15:51:59-37.7733-27.1855-2.0</guid>
       <description>Tarih: 2026.07.03 15:51:59 | Derinlik: 5.4 km | Konum: 37.7733, 27.1855</description>
-    </item>
-
-    <item>
-      <title>M1.8 - DUTLU-AKCADAG (MALATYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.03-15:11:26-38.2862-37.7777-1.8</guid>
-      <description>Tarih: 2026.07.03 15:11:26 | Derinlik: 13.1 km | Konum: 38.2862, 37.7777</description>
-    </item>
-
-    <item>
-      <title>M2.4 - AKDENIZ İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.03-14:47:23-35.3748-27.2398-2.4</guid>
-      <description>Tarih: 2026.07.03 14:47:23 | Derinlik: 4.8 km | Konum: 35.3748, 27.2398</description>
-    </item>
-
-    <item>
-      <title>M1.5 - CUMALI-KINIK (IZMIR) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.03-13:10:01-39.1322-27.4773-1.5</guid>
-      <description>Tarih: 2026.07.03 13:10:01 | Derinlik: 0.0 km | Konum: 39.1322, 27.4773</description>
     </item>
 
 </channel>
