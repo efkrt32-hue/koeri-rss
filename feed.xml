@@ -4,8 +4,15 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sun, 05 Jul 2026 14:02:15 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 05 Jul 2026 15:33:08 +0000</lastBuildDate>
   
+    <item>
+      <title>M2.4 - AKCAKISRAK-SINDIRGI (BALIKESIR) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.05-17:06:21-39.3398-27.9328-2.4</guid>
+      <description>Tarih: 2026.07.05 17:06:21 | Derinlik: 9.2 km | Konum: 39.3398, 27.9328</description>
+    </item>
+
     <item>
       <title>M1.4 - YUNANISTAN İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -347,13 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.07.05-04:49:50-37.6135-37.3230-1.9</guid>
       <description>Tarih: 2026.07.05 04:49:50 | Derinlik: 5.8 km | Konum: 37.6135, 37.3230</description>
-    </item>
-
-    <item>
-      <title>M1.2 - YUREKLI-CAYIRLI (ERZINCAN) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.05-04:36:11-39.8725-40.1452-1.2</guid>
-      <description>Tarih: 2026.07.05 04:36:11 | Derinlik: 21.7 km | Konum: 39.8725, 40.1452</description>
     </item>
 
 </channel>
