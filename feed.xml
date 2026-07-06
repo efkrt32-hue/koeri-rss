@@ -4,8 +4,29 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sun, 05 Jul 2026 23:41:28 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 06 Jul 2026 01:26:01 +0000</lastBuildDate>
   
+    <item>
+      <title>M2.1 - YUREGIL-SINDIRGI (BALIKESIR) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.06-04:12:37-39.1153-28.3355-2.1</guid>
+      <description>Tarih: 2026.07.06 04:12:37 | Derinlik: 8.0 km | Konum: 39.1153, 28.3355</description>
+    </item>
+
+    <item>
+      <title>M1.6 - KERTIL-SINDIRGI (BALIKESIR) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.06-03:41:50-39.1923-28.1088-1.6</guid>
+      <description>Tarih: 2026.07.06 03:41:50 | Derinlik: 8.1 km | Konum: 39.1923, 28.1088</description>
+    </item>
+
+    <item>
+      <title>M1.4 - AKDENIZ İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.06-03:25:59-36.3970-28.8762-1.4</guid>
+      <description>Tarih: 2026.07.06 03:25:59 | Derinlik: 37.5 km | Konum: 36.3970, 28.8762</description>
+    </item>
+
     <item>
       <title>M2.3 - SIRADERE-BULANIK (MUS) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -333,27 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.07.05-10:58:45-37.8090-28.9375-1.5</guid>
       <description>Tarih: 2026.07.05 10:58:45 | Derinlik: 42.4 km | Konum: 37.8090, 28.9375</description>
-    </item>
-
-    <item>
-      <title>M1.8 - KESISKIRAN-KAGIZMAN (KARS) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.05-10:44:35-40.2793-43.2873-1.8</guid>
-      <description>Tarih: 2026.07.05 10:44:35 | Derinlik: 16.7 km | Konum: 40.2793, 43.2873</description>
-    </item>
-
-    <item>
-      <title>M1.4 - KUCUKKAYALI-ULUBEY (USAK) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.05-10:16:29-38.3128-29.2418-1.4</guid>
-      <description>Tarih: 2026.07.05 10:16:29 | Derinlik: 12.5 km | Konum: 38.3128, 29.2418</description>
-    </item>
-
-    <item>
-      <title>M2.2 - AKDENIZ İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.05-10:16:05-35.3103-27.1612-2.2</guid>
-      <description>Tarih: 2026.07.05 10:16:05 | Derinlik: 8.1 km | Konum: 35.3103, 27.1612</description>
     </item>
 
 </channel>
