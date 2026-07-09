@@ -4,8 +4,36 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Thu, 09 Jul 2026 22:38:44 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 09 Jul 2026 23:50:04 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.3 - MARMARA DENIZI İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.10-01:29:39-40.7477-28.0523-1.3</guid>
+      <description>Tarih: 2026.07.10 01:29:39 | Derinlik: 23.2 km | Konum: 40.7477, 28.0523</description>
+    </item>
+
+    <item>
+      <title>M1.4 - MARMARA DENIZI İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.10-01:12:37-40.7397-28.0593-1.4</guid>
+      <description>Tarih: 2026.07.10 01:12:37 | Derinlik: 16.8 km | Konum: 40.7397, 28.0593</description>
+    </item>
+
+    <item>
+      <title>M1.4 - MARMARA DENIZI İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.10-01:07:46-40.7483-28.0272-1.4</guid>
+      <description>Tarih: 2026.07.10 01:07:46 | Derinlik: 9.8 km | Konum: 40.7483, 28.0272</description>
+    </item>
+
+    <item>
+      <title>M1.3 - UVECIK ACIKLARI-CANAKKALE (EGE DENIZI) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.10-00:53:38-39.9458-26.0335-1.3</guid>
+      <description>Tarih: 2026.07.10 00:53:38 | Derinlik: 13.2 km | Konum: 39.9458, 26.0335</description>
+    </item>
+
     <item>
       <title>M1.7 - BOZBEL-DALAMAN (MUGLA) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -326,34 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.07.09-06:46:07-38.0160-37.5255-1.1</guid>
       <description>Tarih: 2026.07.09 06:46:07 | Derinlik: 23.2 km | Konum: 38.0160, 37.5255</description>
-    </item>
-
-    <item>
-      <title>M1.2 - SOGUTLU-ELBISTAN (KAHRAMANMARAS) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.09-06:28:43-38.2347-37.2900-1.2</guid>
-      <description>Tarih: 2026.07.09 06:28:43 | Derinlik: 22.6 km | Konum: 38.2347, 37.2900</description>
-    </item>
-
-    <item>
-      <title>M2.6 - AKDENIZ İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.09-06:14:30-34.8320-28.9640-2.6</guid>
-      <description>Tarih: 2026.07.09 06:14:30 | Derinlik: 74.8 km | Konum: 34.8320, 28.9640</description>
-    </item>
-
-    <item>
-      <title>M1.3 - GUMUSDOVEN-ELBISTAN (KAHRAMANMARAS) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.09-06:03:46-38.0643-37.2487-1.3</guid>
-      <description>Tarih: 2026.07.09 06:03:46 | Derinlik: 3.9 km | Konum: 38.0643, 37.2487</description>
-    </item>
-
-    <item>
-      <title>M1.0 - YEMISLI-SIMAV (KUTAHYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.09-05:35:47-39.2298-28.9925-1.0</guid>
-      <description>Tarih: 2026.07.09 05:35:47 | Derinlik: 13.5 km | Konum: 39.2298, 28.9925</description>
     </item>
 
 </channel>
