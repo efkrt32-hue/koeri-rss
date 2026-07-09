@@ -4,13 +4,27 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Thu, 09 Jul 2026 11:56:32 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 09 Jul 2026 15:28:56 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.6 - EGE DENIZI İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.09-15:58:09-37.8302-26.8057-1.6</guid>
+      <description>Tarih: 2026.07.09 15:58:09 | Derinlik: 5.4 km | Konum: 37.8302, 26.8057</description>
+    </item>
+
     <item>
       <title>M2.0 - SALTIK-SANDIKLI (AFYONKARAHISAR) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.07.09-14:06:53-38.4837-30.0620-2.0</guid>
       <description>Tarih: 2026.07.09 14:06:53 | Derinlik: 16.9 km | Konum: 38.4837, 30.0620</description>
+    </item>
+
+    <item>
+      <title>M1.7 - KAYACIK-(AMASYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.09-13:50:46-40.6555-35.4470-1.7</guid>
+      <description>Tarih: 2026.07.09 13:50:46 | Derinlik: 4.9 km | Konum: 40.6555, 35.4470</description>
     </item>
 
     <item>
@@ -340,20 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.07.09-02:03:37-38.1585-38.5137-1.4</guid>
       <description>Tarih: 2026.07.09 02:03:37 | Derinlik: 20.4 km | Konum: 38.1585, 38.5137</description>
-    </item>
-
-    <item>
-      <title>M1.6 - ORTAOREN-EKINOZU (KAHRAMANMARAS) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.09-01:41:53-38.0915-37.1155-1.6</guid>
-      <description>Tarih: 2026.07.09 01:41:53 | Derinlik: 7.0 km | Konum: 38.0915, 37.1155</description>
-    </item>
-
-    <item>
-      <title>M1.2 - CORUS-ULA (MUGLA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.09-00:57:26-36.9810-28.4815-1.2</guid>
-      <description>Tarih: 2026.07.09 00:57:26 | Derinlik: 4.0 km | Konum: 36.9810, 28.4815</description>
     </item>
 
 </channel>
