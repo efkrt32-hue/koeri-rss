@@ -4,8 +4,22 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Fri, 10 Jul 2026 20:10:06 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 10 Jul 2026 21:28:10 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.4 - KUCUKBUKU-SINDIRGI (BALIKESIR) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.11-00:11:40-39.2843-28.0933-1.4</guid>
+      <description>Tarih: 2026.07.11 00:11:40 | Derinlik: 7.3 km | Konum: 39.2843, 28.0933</description>
+    </item>
+
+    <item>
+      <title>M1.6 - GEBEN-ANDIRIN (KAHRAMANMARAS) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.10-23:29:18-37.7808-36.4968-1.6</guid>
+      <description>Tarih: 2026.07.10 23:29:18 | Derinlik: 8.5 km | Konum: 37.7808, 36.4968</description>
+    </item>
+
     <item>
       <title>M1.5 - FOCA (IZMIR) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -340,20 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.07.10-02:58:38-38.5378-38.0968-2.1</guid>
       <description>Tarih: 2026.07.10 02:58:38 | Derinlik: 5.0 km | Konum: 38.5378, 38.0968</description>
-    </item>
-
-    <item>
-      <title>M2.3 - YENIKOY-(DENIZLI) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.10-02:50:54-37.8987-29.1230-2.3</guid>
-      <description>Tarih: 2026.07.10 02:50:54 | Derinlik: 6.5 km | Konum: 37.8987, 29.1230</description>
-    </item>
-
-    <item>
-      <title>M3.0 - KARADENIZ İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.10-02:46:43-43.2953-31.7723-3.0</guid>
-      <description>Tarih: 2026.07.10 02:46:43 | Derinlik: 5.0 km | Konum: 43.2953, 31.7723</description>
     </item>
 
 </channel>
