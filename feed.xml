@@ -4,8 +4,22 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sat, 11 Jul 2026 16:01:39 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 11 Jul 2026 17:10:50 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.4 - YEMISLI-SIMAV (KUTAHYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.11-19:41:51-39.2510-28.9643-1.4</guid>
+      <description>Tarih: 2026.07.11 19:41:51 | Derinlik: 12.9 km | Konum: 39.2510, 28.9643</description>
+    </item>
+
+    <item>
+      <title>M2.1 - KOZLU-SINDIRGI (BALIKESIR) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.11-19:01:58-39.2317-28.1013-2.1</guid>
+      <description>Tarih: 2026.07.11 19:01:58 | Derinlik: 14.9 km | Konum: 39.2317, 28.1013</description>
+    </item>
+
     <item>
       <title>M1.6 - SEYITUSAGI-YESILYURT (MALATYA) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -340,20 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.07.11-03:47:56-34.8143-27.1898-1.9</guid>
       <description>Tarih: 2026.07.11 03:47:56 | Derinlik: 9.1 km | Konum: 34.8143, 27.1898</description>
-    </item>
-
-    <item>
-      <title>M1.3 - KUCUKBUKU-SINDIRGI (BALIKESIR) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.11-03:35:28-39.2847-28.0720-1.3</guid>
-      <description>Tarih: 2026.07.11 03:35:28 | Derinlik: 6.1 km | Konum: 39.2847, 28.0720</description>
-    </item>
-
-    <item>
-      <title>M1.1 - GUMUSDOVEN-ELBISTAN (KAHRAMANMARAS) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.11-03:34:09-38.1023-37.2440-1.1</guid>
-      <description>Tarih: 2026.07.11 03:34:09 | Derinlik: 6.2 km | Konum: 38.1023, 37.2440</description>
     </item>
 
 </channel>
