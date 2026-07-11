@@ -4,8 +4,15 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sat, 11 Jul 2026 14:57:24 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 11 Jul 2026 16:01:39 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.6 - SEYITUSAGI-YESILYURT (MALATYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.11-17:38:27-38.2463-38.1443-1.6</guid>
+      <description>Tarih: 2026.07.11 17:38:27 | Derinlik: 18.4 km | Konum: 38.2463, 38.1443</description>
+    </item>
+
     <item>
       <title>M2.4 - DEDEYAZI-DOGANSEHIR (MALATYA) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -347,13 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.07.11-03:34:09-38.1023-37.2440-1.1</guid>
       <description>Tarih: 2026.07.11 03:34:09 | Derinlik: 6.2 km | Konum: 38.1023, 37.2440</description>
-    </item>
-
-    <item>
-      <title>M1.6 - KAKAC-ARPACAY (KARS) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.11-03:25:50-41.0880-43.4725-1.6</guid>
-      <description>Tarih: 2026.07.11 03:25:50 | Derinlik: 3.4 km | Konum: 41.0880, 43.4725</description>
     </item>
 
 </channel>
