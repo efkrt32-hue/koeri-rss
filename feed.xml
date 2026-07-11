@@ -4,8 +4,15 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Fri, 10 Jul 2026 23:35:57 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 11 Jul 2026 01:05:51 +0000</lastBuildDate>
   
+    <item>
+      <title>M2.5 - AKDENIZ İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.11-02:31:47-35.6675-31.5503-2.5</guid>
+      <description>Tarih: 2026.07.11 02:31:47 | Derinlik: 12.4 km | Konum: 35.6675, 31.5503</description>
+    </item>
+
     <item>
       <title>M1.2 - GUNDERE-ELBISTAN (KAHRAMANMARAS) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -347,13 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.07.10-03:16:15-40.7558-28.0638-2.5</guid>
       <description>Tarih: 2026.07.10 03:16:15 | Derinlik: 15.5 km | Konum: 40.7558, 28.0638</description>
-    </item>
-
-    <item>
-      <title>M1.5 - GURPINAR-CIVRIL (DENIZLI) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.10-03:09:34-38.4097-29.7013-1.5</guid>
-      <description>Tarih: 2026.07.10 03:09:34 | Derinlik: 6.3 km | Konum: 38.4097, 29.7013</description>
     </item>
 
 </channel>
