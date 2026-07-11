@@ -4,8 +4,15 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sat, 11 Jul 2026 20:25:44 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 11 Jul 2026 21:24:24 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.4 - ASAGITIRTAR-YALVAC (ISPARTA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.11-23:20:09-38.2248-30.9505-1.4</guid>
+      <description>Tarih: 2026.07.11 23:20:09 | Derinlik: 13.1 km | Konum: 38.2248, 30.9505</description>
+    </item>
+
     <item>
       <title>M2.1 - CAMLICA-GURUN (SIVAS) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -347,13 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.07.11-07:51:03-37.9498-27.1343-1.8</guid>
       <description>Tarih: 2026.07.11 07:51:03 | Derinlik: 3.0 km | Konum: 37.9498, 27.1343</description>
-    </item>
-
-    <item>
-      <title>M2.6 - GOKOVA KORFEZI (EGE DENIZI) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.11-07:39:03-36.9747-27.6693-2.6</guid>
-      <description>Tarih: 2026.07.11 07:39:03 | Derinlik: 7.3 km | Konum: 36.9747, 27.6693</description>
     </item>
 
 </channel>
