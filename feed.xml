@@ -4,8 +4,22 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sat, 11 Jul 2026 19:31:54 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 11 Jul 2026 20:25:44 +0000</lastBuildDate>
   
+    <item>
+      <title>M2.1 - CAMLICA-GURUN (SIVAS) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.11-23:03:40-38.7992-37.2565-2.1</guid>
+      <description>Tarih: 2026.07.11 23:03:40 | Derinlik: 5.0 km | Konum: 38.7992, 37.2565</description>
+    </item>
+
+    <item>
+      <title>M1.6 - KALECIK-CELIKHAN (ADIYAMAN) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.11-22:31:54-38.1130-38.3110-1.6</guid>
+      <description>Tarih: 2026.07.11 22:31:54 | Derinlik: 11.9 km | Konum: 38.1130, 38.3110</description>
+    </item>
+
     <item>
       <title>M1.6 - GOKAHMETLI-ANDIRIN (KAHRAMANMARAS) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -340,20 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.07.11-07:39:03-36.9747-27.6693-2.6</guid>
       <description>Tarih: 2026.07.11 07:39:03 | Derinlik: 7.3 km | Konum: 36.9747, 27.6693</description>
-    </item>
-
-    <item>
-      <title>M1.9 - DUALAR-KIRKAGAC (MANISA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.11-06:54:07-39.2013-27.9415-1.9</guid>
-      <description>Tarih: 2026.07.11 06:54:07 | Derinlik: 10.3 km | Konum: 39.2013, 27.9415</description>
-    </item>
-
-    <item>
-      <title>M1.9 - TERZIHALILLER-BERGAMA (IZMIR) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.11-06:32:42-39.2942-27.0893-1.9</guid>
-      <description>Tarih: 2026.07.11 06:32:42 | Derinlik: 5.4 km | Konum: 39.2942, 27.0893</description>
     </item>
 
 </channel>
