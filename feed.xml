@@ -4,8 +4,15 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sun, 12 Jul 2026 14:37:57 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 12 Jul 2026 15:41:04 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.5 - SARIOT-KALE (MALATYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.12-18:02:47-38.3218-38.7450-1.5</guid>
+      <description>Tarih: 2026.07.12 18:02:47 | Derinlik: 14.6 km | Konum: 38.3218, 38.7450</description>
+    </item>
+
     <item>
       <title>M2.1 - YUNANISTAN İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -347,13 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.07.11-17:38:27-38.2463-38.1443-1.6</guid>
       <description>Tarih: 2026.07.11 17:38:27 | Derinlik: 18.4 km | Konum: 38.2463, 38.1443</description>
-    </item>
-
-    <item>
-      <title>M2.4 - DEDEYAZI-DOGANSEHIR (MALATYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.11-16:11:04-38.2455-37.7915-2.4</guid>
-      <description>Tarih: 2026.07.11 16:11:04 | Derinlik: 13.4 km | Konum: 38.2455, 37.7915</description>
     </item>
 
 </channel>
