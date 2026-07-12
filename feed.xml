@@ -4,8 +4,15 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sun, 12 Jul 2026 15:41:04 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 12 Jul 2026 16:37:34 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.5 - AKDAG-SIMAV (KUTAHYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.12-18:39:52-39.1743-28.8837-1.5</guid>
+      <description>Tarih: 2026.07.12 18:39:52 | Derinlik: 7.0 km | Konum: 39.1743, 28.8837</description>
+    </item>
+
     <item>
       <title>M1.5 - SARIOT-KALE (MALATYA) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -347,13 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.07.11-19:01:58-39.2317-28.1013-2.1</guid>
       <description>Tarih: 2026.07.11 19:01:58 | Derinlik: 14.9 km | Konum: 39.2317, 28.1013</description>
-    </item>
-
-    <item>
-      <title>M1.6 - SEYITUSAGI-YESILYURT (MALATYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.11-17:38:27-38.2463-38.1443-1.6</guid>
-      <description>Tarih: 2026.07.11 17:38:27 | Derinlik: 18.4 km | Konum: 38.2463, 38.1443</description>
     </item>
 
 </channel>
