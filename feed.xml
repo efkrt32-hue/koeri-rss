@@ -4,8 +4,15 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sun, 12 Jul 2026 16:37:34 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 12 Jul 2026 17:41:53 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.5 - KUCUKKOMURCU-TIRE (IZMIR) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.12-18:49:31-38.0383-27.7510-1.5</guid>
+      <description>Tarih: 2026.07.12 18:49:31 | Derinlik: 5.4 km | Konum: 38.0383, 27.7510</description>
+    </item>
+
     <item>
       <title>M1.5 - AKDAG-SIMAV (KUTAHYA) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -347,13 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.07.11-19:41:51-39.2510-28.9643-1.4</guid>
       <description>Tarih: 2026.07.11 19:41:51 | Derinlik: 12.9 km | Konum: 39.2510, 28.9643</description>
-    </item>
-
-    <item>
-      <title>M2.1 - KOZLU-SINDIRGI (BALIKESIR) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.11-19:01:58-39.2317-28.1013-2.1</guid>
-      <description>Tarih: 2026.07.11 19:01:58 | Derinlik: 14.9 km | Konum: 39.2317, 28.1013</description>
     </item>
 
 </channel>
