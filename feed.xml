@@ -4,8 +4,29 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sun, 12 Jul 2026 20:44:09 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 12 Jul 2026 21:35:18 +0000</lastBuildDate>
   
+    <item>
+      <title>M2.2 - TURKIYE-IRAN SINIR BOLGESI İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.13-00:18:49-38.6542-44.4647-2.2</guid>
+      <description>Tarih: 2026.07.13 00:18:49 | Derinlik: 5.0 km | Konum: 38.6542, 44.4647</description>
+    </item>
+
+    <item>
+      <title>M1.1 - EGIRLER-SIMAV (KUTAHYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.12-23:40:43-39.2225-29.0198-1.1</guid>
+      <description>Tarih: 2026.07.12 23:40:43 | Derinlik: 5.0 km | Konum: 39.2225, 29.0198</description>
+    </item>
+
+    <item>
+      <title>M1.4 - EMIRLER-ANDIRIN (KAHRAMANMARAS) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.12-23:16:12-37.6247-36.4222-1.4</guid>
+      <description>Tarih: 2026.07.12 23:16:12 | Derinlik: 13.1 km | Konum: 37.6247, 36.4222</description>
+    </item>
+
     <item>
       <title>M1.3 - YENILER-SIMAV (KUTAHYA) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -333,27 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.07.12-00:29:44-39.4760-28.8025-1.7</guid>
       <description>Tarih: 2026.07.12 00:29:44 | Derinlik: 5.4 km | Konum: 39.4760, 28.8025</description>
-    </item>
-
-    <item>
-      <title>M1.4 - ASAGITIRTAR-YALVAC (ISPARTA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.11-23:20:09-38.2248-30.9505-1.4</guid>
-      <description>Tarih: 2026.07.11 23:20:09 | Derinlik: 13.1 km | Konum: 38.2248, 30.9505</description>
-    </item>
-
-    <item>
-      <title>M2.1 - CAMLICA-GURUN (SIVAS) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.11-23:03:40-38.7992-37.2565-2.1</guid>
-      <description>Tarih: 2026.07.11 23:03:40 | Derinlik: 5.0 km | Konum: 38.7992, 37.2565</description>
-    </item>
-
-    <item>
-      <title>M1.6 - KALECIK-CELIKHAN (ADIYAMAN) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.11-22:31:54-38.1130-38.3110-1.6</guid>
-      <description>Tarih: 2026.07.11 22:31:54 | Derinlik: 11.9 km | Konum: 38.1130, 38.3110</description>
     </item>
 
 </channel>
