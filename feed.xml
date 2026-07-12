@@ -4,8 +4,29 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sun, 12 Jul 2026 17:41:53 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 12 Jul 2026 18:39:36 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.5 - KIZILAGIL-(BOLU) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.12-21:24:57-40.8085-31.4928-1.5</guid>
+      <description>Tarih: 2026.07.12 21:24:57 | Derinlik: 10.2 km | Konum: 40.8085, 31.4928</description>
+    </item>
+
+    <item>
+      <title>M1.2 - CEVIZLI-CAMELI (DENIZLI) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.12-19:29:26-37.0228-29.3147-1.2</guid>
+      <description>Tarih: 2026.07.12 19:29:26 | Derinlik: 11.4 km | Konum: 37.0228, 29.3147</description>
+    </item>
+
+    <item>
+      <title>M2.9 - YUNANISTAN İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.12-19:13:00-38.7637-23.3540-2.9</guid>
+      <description>Tarih: 2026.07.12 19:13:00 | Derinlik: 10.5 km | Konum: 38.7637, 23.3540</description>
+    </item>
+
     <item>
       <title>M1.5 - KUCUKKOMURCU-TIRE (IZMIR) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -333,27 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.07.11-20:28:31-40.1677-27.2228-1.3</guid>
       <description>Tarih: 2026.07.11 20:28:31 | Derinlik: 16.6 km | Konum: 40.1677, 27.2228</description>
-    </item>
-
-    <item>
-      <title>M2.0 - KATRANDAGI-EMET (KUTAHYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.11-20:21:34-39.2553-29.0338-2.0</guid>
-      <description>Tarih: 2026.07.11 20:21:34 | Derinlik: 5.4 km | Konum: 39.2553, 29.0338</description>
-    </item>
-
-    <item>
-      <title>M1.4 - KARAAGIL-HISARCIK (KUTAHYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.11-20:17:51-39.2117-29.0695-1.4</guid>
-      <description>Tarih: 2026.07.11 20:17:51 | Derinlik: 11.0 km | Konum: 39.2117, 29.0695</description>
-    </item>
-
-    <item>
-      <title>M1.4 - YEMISLI-SIMAV (KUTAHYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.11-19:41:51-39.2510-28.9643-1.4</guid>
-      <description>Tarih: 2026.07.11 19:41:51 | Derinlik: 12.9 km | Konum: 39.2510, 28.9643</description>
     </item>
 
 </channel>
