@@ -4,8 +4,22 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sun, 12 Jul 2026 11:52:07 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 12 Jul 2026 13:11:43 +0000</lastBuildDate>
   
+    <item>
+      <title>M2.0 - EGE DENIZI İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.12-13:37:23-36.3958-27.9075-2.0</guid>
+      <description>Tarih: 2026.07.12 13:37:23 | Derinlik: 10.7 km | Konum: 36.3958, 27.9075</description>
+    </item>
+
+    <item>
+      <title>M1.9 - ONIKI ADALAR (EGE DENIZI) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.12-13:27:18-36.4340-27.1975-1.9</guid>
+      <description>Tarih: 2026.07.12 13:27:18 | Derinlik: 14.2 km | Konum: 36.4340, 27.1975</description>
+    </item>
+
     <item>
       <title>M1.7 - CELEBILER-SINDIRGI (BALIKESIR) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -340,20 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.07.11-15:05:26-40.4992-26.3707-2.2</guid>
       <description>Tarih: 2026.07.11 15:05:26 | Derinlik: 8.2 km | Konum: 40.4992, 26.3707</description>
-    </item>
-
-    <item>
-      <title>M2.0 - OLUDENIZ ACIKLARI-MUGLA (AKDENIZ) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.11-14:21:04-36.3342-28.9648-2.0</guid>
-      <description>Tarih: 2026.07.11 14:21:04 | Derinlik: 7.8 km | Konum: 36.3342, 28.9648</description>
-    </item>
-
-    <item>
-      <title>M2.6 - KATRANDAGI-EMET (KUTAHYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.11-14:17:49-39.2448-29.0248-2.6</guid>
-      <description>Tarih: 2026.07.11 14:17:49 | Derinlik: 6.7 km | Konum: 39.2448, 29.0248</description>
     </item>
 
 </channel>
