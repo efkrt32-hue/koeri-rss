@@ -4,8 +4,22 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sun, 12 Jul 2026 07:15:20 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 12 Jul 2026 09:20:31 +0000</lastBuildDate>
   
+    <item>
+      <title>M2.4 - DEGIRMENDERE-GOKSUN (KAHRAMANMARAS) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.12-10:37:18-37.9130-36.4848-2.4</guid>
+      <description>Tarih: 2026.07.12 10:37:18 | Derinlik: 2.0 km | Konum: 37.9130, 36.4848</description>
+    </item>
+
+    <item>
+      <title>M1.9 - BAYRAKLI-SINDIRGI (BALIKESIR) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.12-10:35:05-39.1622-28.2393-1.9</guid>
+      <description>Tarih: 2026.07.12 10:35:05 | Derinlik: 11.7 km | Konum: 39.1622, 28.2393</description>
+    </item>
+
     <item>
       <title>M2.4 - GOKOVA KORFEZI (EGE DENIZI) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -340,20 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.07.11-14:14:12-38.8005-37.3555-3.4</guid>
       <description>Tarih: 2026.07.11 14:14:12 | Derinlik: 5.0 km | Konum: 38.8005, 37.3555</description>
-    </item>
-
-    <item>
-      <title>M1.7 - AKDENIZ İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.11-14:02:38-36.0858-29.1772-1.7</guid>
-      <description>Tarih: 2026.07.11 14:02:38 | Derinlik: 9.4 km | Konum: 36.0858, 29.1772</description>
-    </item>
-
-    <item>
-      <title>M2.4 - KILCAN-KARAMANLI (BURDUR) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.11-13:55:53-37.3775-29.7798-2.4</guid>
-      <description>Tarih: 2026.07.11 13:55:53 | Derinlik: 6.1 km | Konum: 37.3775, 29.7798</description>
     </item>
 
 </channel>
