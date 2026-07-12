@@ -4,8 +4,29 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sun, 12 Jul 2026 21:35:18 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 12 Jul 2026 22:29:00 +0000</lastBuildDate>
   
+    <item>
+      <title>M0.7 - YENILER-SIMAV (KUTAHYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.13-00:56:10-39.2537-28.9503-0.7</guid>
+      <description>Tarih: 2026.07.13 00:56:10 | Derinlik: 13.2 km | Konum: 39.2537, 28.9503</description>
+    </item>
+
+    <item>
+      <title>M3.5 - KARAKOCA-SIMAV (KUTAHYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.13-00:46:12-39.2613-28.9408-3.5</guid>
+      <description>Tarih: 2026.07.13 00:46:12 | Derinlik: 6.0 km | Konum: 39.2613, 28.9408</description>
+    </item>
+
+    <item>
+      <title>M2.1 - ANAYAZI-(HATAY) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.13-00:27:22-36.3213-36.1888-2.1</guid>
+      <description>Tarih: 2026.07.13 00:27:22 | Derinlik: 6.0 km | Konum: 36.3213, 36.1888</description>
+    </item>
+
     <item>
       <title>M2.2 - TURKIYE-IRAN SINIR BOLGESI İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -333,27 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.07.12-00:51:07-39.1987-27.9588-1.5</guid>
       <description>Tarih: 2026.07.12 00:51:07 | Derinlik: 10.0 km | Konum: 39.1987, 27.9588</description>
-    </item>
-
-    <item>
-      <title>M1.8 - CUKURBAG-CAMARDI (NIGDE) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.12-00:46:30-37.8248-35.0697-1.8</guid>
-      <description>Tarih: 2026.07.12 00:46:30 | Derinlik: 5.4 km | Konum: 37.8248, 35.0697</description>
-    </item>
-
-    <item>
-      <title>M3.8 - DEMIRKAZIK-CAMARDI (NIGDE) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.12-00:43:15-37.8545-35.0838-3.8</guid>
-      <description>Tarih: 2026.07.12 00:43:15 | Derinlik: 5.0 km | Konum: 37.8545, 35.0838</description>
-    </item>
-
-    <item>
-      <title>M1.7 - SAKIZKOY-DURSUNBEY (BALIKESIR) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.12-00:29:44-39.4760-28.8025-1.7</guid>
-      <description>Tarih: 2026.07.12 00:29:44 | Derinlik: 5.4 km | Konum: 39.4760, 28.8025</description>
     </item>
 
 </channel>
