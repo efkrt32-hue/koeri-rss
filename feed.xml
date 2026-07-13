@@ -4,8 +4,36 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sun, 12 Jul 2026 23:31:56 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 13 Jul 2026 01:11:13 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.4 - KARAKESLI-ERDEMLI (MERSIN) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.13-02:59:59-36.6988-34.1422-1.4</guid>
+      <description>Tarih: 2026.07.13 02:59:59 | Derinlik: 8.4 km | Konum: 36.6988, 34.1422</description>
+    </item>
+
+    <item>
+      <title>M0.9 - KARACAOREN-SIMAV (KUTAHYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.13-02:53:30-39.1617-29.0325-0.9</guid>
+      <description>Tarih: 2026.07.13 02:53:30 | Derinlik: 9.6 km | Konum: 39.1617, 29.0325</description>
+    </item>
+
+    <item>
+      <title>M3.3 - EGE DENIZI İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.13-02:46:02-36.6528-26.7937-3.3</guid>
+      <description>Tarih: 2026.07.13 02:46:02 | Derinlik: 15.2 km | Konum: 36.6528, 26.7937</description>
+    </item>
+
+    <item>
+      <title>M2.8 - KUSTULLU-ERDEMLI (MERSIN) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.13-02:45:54-36.6838-34.1207-2.8</guid>
+      <description>Tarih: 2026.07.13 02:45:54 | Derinlik: 8.0 km | Konum: 36.6838, 34.1207</description>
+    </item>
+
     <item>
       <title>M0.7 - YEMISLI-SIMAV (KUTAHYA) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -326,34 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.07.12-02:03:32-37.0783-28.4748-1.2</guid>
       <description>Tarih: 2026.07.12 02:03:32 | Derinlik: 14.2 km | Konum: 37.0783, 28.4748</description>
-    </item>
-
-    <item>
-      <title>M1.6 - UNSELI-MURADIYE (VAN) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.12-01:53:36-38.9728-43.5840-1.6</guid>
-      <description>Tarih: 2026.07.12 01:53:36 | Derinlik: 8.2 km | Konum: 38.9728, 43.5840</description>
-    </item>
-
-    <item>
-      <title>M1.1 - CUKURBAG-CAMARDI (NIGDE) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.12-01:52:42-37.8225-35.0705-1.1</guid>
-      <description>Tarih: 2026.07.12 01:52:42 | Derinlik: 16.4 km | Konum: 37.8225, 35.0705</description>
-    </item>
-
-    <item>
-      <title>M2.3 - AKDENIZ İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.12-01:47:22-35.2442-30.5585-2.3</guid>
-      <description>Tarih: 2026.07.12 01:47:22 | Derinlik: 25.5 km | Konum: 35.2442, 30.5585</description>
-    </item>
-
-    <item>
-      <title>M0.8 - KAYALIDERE-SIMAV (KUTAHYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.12-01:43:06-39.2623-28.9152-0.8</guid>
-      <description>Tarih: 2026.07.12 01:43:06 | Derinlik: 11.9 km | Konum: 39.2623, 28.9152</description>
     </item>
 
 </channel>
