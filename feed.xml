@@ -4,8 +4,29 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Mon, 13 Jul 2026 20:51:50 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 13 Jul 2026 21:52:03 +0000</lastBuildDate>
   
+    <item>
+      <title>M2.5 - CAMLICA-GURUN (SIVAS) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.14-00:03:37-38.8040-37.2607-2.5</guid>
+      <description>Tarih: 2026.07.14 00:03:37 | Derinlik: 3.9 km | Konum: 38.8040, 37.2607</description>
+    </item>
+
+    <item>
+      <title>M1.1 - YEMISLI-SIMAV (KUTAHYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.13-23:55:50-39.2525-29.0060-1.1</guid>
+      <description>Tarih: 2026.07.13 23:55:50 | Derinlik: 15.6 km | Konum: 39.2525, 29.0060</description>
+    </item>
+
+    <item>
+      <title>M1.4 - DALAMAN ACIKLARI-MUGLA (AKDENIZ) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.13-23:47:19-36.5667-28.7815-1.4</guid>
+      <description>Tarih: 2026.07.13 23:47:19 | Derinlik: 22.3 km | Konum: 36.5667, 28.7815</description>
+    </item>
+
     <item>
       <title>M1.6 - AKDENIZ İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -333,27 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.07.13-02:46:02-36.6528-26.7937-3.3</guid>
       <description>Tarih: 2026.07.13 02:46:02 | Derinlik: 15.2 km | Konum: 36.6528, 26.7937</description>
-    </item>
-
-    <item>
-      <title>M2.8 - KUSTULLU-ERDEMLI (MERSIN) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.13-02:45:54-36.6838-34.1207-2.8</guid>
-      <description>Tarih: 2026.07.13 02:45:54 | Derinlik: 8.0 km | Konum: 36.6838, 34.1207</description>
-    </item>
-
-    <item>
-      <title>M0.7 - YEMISLI-SIMAV (KUTAHYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.13-02:19:39-39.2312-29.0030-0.7</guid>
-      <description>Tarih: 2026.07.13 02:19:39 | Derinlik: 16.0 km | Konum: 39.2312, 29.0030</description>
-    </item>
-
-    <item>
-      <title>M1.7 - ONIKI ADALAR (EGE DENIZI) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.13-02:16:54-36.7207-27.2010-1.7</guid>
-      <description>Tarih: 2026.07.13 02:16:54 | Derinlik: 6.0 km | Konum: 36.7207, 27.2010</description>
     </item>
 
 </channel>
