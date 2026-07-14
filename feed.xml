@@ -4,8 +4,36 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Tue, 14 Jul 2026 17:24:21 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 14 Jul 2026 18:39:33 +0000</lastBuildDate>
   
+    <item>
+      <title>M4.0 - EVRI-PAZARCIK (KAHRAMANMARAS) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.14-21:27:09-37.2533-37.0743-4.0</guid>
+      <description>Tarih: 2026.07.14 21:27:09 | Derinlik: 8.3 km | Konum: 37.2533, 37.0743</description>
+    </item>
+
+    <item>
+      <title>M2.4 - TURUNCLU-ERZIN (HATAY) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.14-20:19:18-36.9838-36.0488-2.4</guid>
+      <description>Tarih: 2026.07.14 20:19:18 | Derinlik: 1.5 km | Konum: 36.9838, 36.0488</description>
+    </item>
+
+    <item>
+      <title>M1.8 - SAGLIK-TORBALI (IZMIR) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.14-20:10:32-38.0443-27.3918-1.8</guid>
+      <description>Tarih: 2026.07.14 20:10:32 | Derinlik: 11.3 km | Konum: 38.0443, 27.3918</description>
+    </item>
+
+    <item>
+      <title>M1.9 - ARIKAYA-CAMELI (DENIZLI) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.14-20:04:22-36.9843-29.3803-1.9</guid>
+      <description>Tarih: 2026.07.14 20:04:22 | Derinlik: 5.5 km | Konum: 36.9843, 29.3803</description>
+    </item>
+
     <item>
       <title>M0.6 - USKUDAR (ISTANBUL) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -326,34 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.07.14-03:09:32-35.5142-27.5342-2.0</guid>
       <description>Tarih: 2026.07.14 03:09:32 | Derinlik: 5.0 km | Konum: 35.5142, 27.5342</description>
-    </item>
-
-    <item>
-      <title>M1.4 - AKCAOVA-(HATAY) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.14-03:07:54-36.2878-36.2238-1.4</guid>
-      <description>Tarih: 2026.07.14 03:07:54 | Derinlik: 5.0 km | Konum: 36.2878, 36.2238</description>
-    </item>
-
-    <item>
-      <title>M1.9 - EGIRLER-SIMAV (KUTAHYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.14-02:21:24-39.2197-28.9982-1.9</guid>
-      <description>Tarih: 2026.07.14 02:21:24 | Derinlik: 11.7 km | Konum: 39.2197, 28.9982</description>
-    </item>
-
-    <item>
-      <title>M2.1 - SAROS KORFEZI (EGE DENIZI) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.14-02:20:11-40.3867-26.1000-2.1</guid>
-      <description>Tarih: 2026.07.14 02:20:11 | Derinlik: 7.0 km | Konum: 40.3867, 26.1000</description>
-    </item>
-
-    <item>
-      <title>M1.8 - KONGUR-HINIS (ERZURUM) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.14-02:11:08-39.2063-41.8650-1.8</guid>
-      <description>Tarih: 2026.07.14 02:11:08 | Derinlik: 6.1 km | Konum: 39.2063, 41.8650</description>
     </item>
 
 </channel>
