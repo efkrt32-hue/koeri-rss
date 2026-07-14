@@ -4,8 +4,29 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Tue, 14 Jul 2026 21:06:51 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 14 Jul 2026 22:11:09 +0000</lastBuildDate>
   
+    <item>
+      <title>M3.3 - ICMESU-SENKAYA (ERZURUM) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.15-00:18:29-40.4260-42.3033-3.3</guid>
+      <description>Tarih: 2026.07.15 00:18:29 | Derinlik: 1.6 km | Konum: 40.4260, 42.3033</description>
+    </item>
+
+    <item>
+      <title>M1.8 - CAMDIBI-ASLANAPA (KUTAHYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.15-00:15:44-39.0818-29.7143-1.8</guid>
+      <description>Tarih: 2026.07.15 00:15:44 | Derinlik: 10.0 km | Konum: 39.0818, 29.7143</description>
+    </item>
+
+    <item>
+      <title>M1.0 - YEMISLI-SIMAV (KUTAHYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.15-00:02:09-39.2392-28.9933-1.0</guid>
+      <description>Tarih: 2026.07.15 00:02:09 | Derinlik: 15.1 km | Konum: 39.2392, 28.9933</description>
+    </item>
+
     <item>
       <title>M1.3 - TURUNCLU-SARICAM (ADANA) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -333,27 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.07.14-08:23:16-35.5797-27.1692-3.3</guid>
       <description>Tarih: 2026.07.14 08:23:16 | Derinlik: 10.2 km | Konum: 35.5797, 27.1692</description>
-    </item>
-
-    <item>
-      <title>M3.1 - ASAGIGOLALAN-(VAN) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.14-07:32:07-38.7293-43.5818-3.1</guid>
-      <description>Tarih: 2026.07.14 07:32:07 | Derinlik: 5.0 km | Konum: 38.7293, 43.5818</description>
-    </item>
-
-    <item>
-      <title>M1.5 - KIRANDAMI-BULDAN (DENIZLI) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.14-07:07:13-38.1792-28.7850-1.5</guid>
-      <description>Tarih: 2026.07.14 07:07:13 | Derinlik: 7.4 km | Konum: 38.1792, 28.7850</description>
-    </item>
-
-    <item>
-      <title>M1.6 - YUKARIBALI-MUSTAFAKEMALPASA (BURSA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.14-06:14:29-39.8527-28.7205-1.6</guid>
-      <description>Tarih: 2026.07.14 06:14:29 | Derinlik: 10.7 km | Konum: 39.8527, 28.7205</description>
     </item>
 
 </channel>
