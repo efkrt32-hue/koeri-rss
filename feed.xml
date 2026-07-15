@@ -4,8 +4,29 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Wed, 15 Jul 2026 14:03:41 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 15 Jul 2026 15:45:06 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.5 - NASA-SIMAV (KUTAHYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.15-18:22:16-39.1540-28.9342-1.5</guid>
+      <description>Tarih: 2026.07.15 18:22:16 | Derinlik: 16.7 km | Konum: 39.1540, 28.9342</description>
+    </item>
+
+    <item>
+      <title>M1.9 - GIRIT ADASI (AKDENIZ) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.15-17:04:03-34.8838-24.0512-1.9</guid>
+      <description>Tarih: 2026.07.15 17:04:03 | Derinlik: 27.9 km | Konum: 34.8838, 24.0512</description>
+    </item>
+
+    <item>
+      <title>M1.6 - GOKTEPE-(MUGLA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.15-17:02:28-37.4242-28.5873-1.6</guid>
+      <description>Tarih: 2026.07.15 17:02:28 | Derinlik: 13.4 km | Konum: 37.4242, 28.5873</description>
+    </item>
+
     <item>
       <title>M1.4 - KARAGUR-SINDIRGI (BALIKESIR) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -333,27 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.07.14-21:50:27-38.2377-38.5910-2.6</guid>
       <description>Tarih: 2026.07.14 21:50:27 | Derinlik: 4.1 km | Konum: 38.2377, 38.5910</description>
-    </item>
-
-    <item>
-      <title>M2.2 - KAVAKLIDERE-PUTURGE (MALATYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.14-21:46:18-38.2528-38.6297-2.2</guid>
-      <description>Tarih: 2026.07.14 21:46:18 | Derinlik: 3.5 km | Konum: 38.2528, 38.6297</description>
-    </item>
-
-    <item>
-      <title>M4.0 - EVRI-PAZARCIK (KAHRAMANMARAS) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.14-21:27:09-37.2533-37.0743-4.0</guid>
-      <description>Tarih: 2026.07.14 21:27:09 | Derinlik: 8.3 km | Konum: 37.2533, 37.0743</description>
-    </item>
-
-    <item>
-      <title>M1.4 - KARAGUR-SINDIRGI (BALIKESIR) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.14-21:13:39-39.2537-28.0985-1.4</guid>
-      <description>Tarih: 2026.07.14 21:13:39 | Derinlik: 11.4 km | Konum: 39.2537, 28.0985</description>
     </item>
 
 </channel>
