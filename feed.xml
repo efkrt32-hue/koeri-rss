@@ -4,8 +4,15 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Wed, 15 Jul 2026 05:56:38 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 15 Jul 2026 08:28:44 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.9 - BAYIRLI-SINDIRGI (BALIKESIR) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.15-10:14:42-39.2413-28.1120-1.9</guid>
+      <description>Tarih: 2026.07.15 10:14:42 | Derinlik: 10.9 km | Konum: 39.2413, 28.1120</description>
+    </item>
+
     <item>
       <title>M1.5 - YAYLAPATLANGIC-FETHIYE (MUGLA) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -347,13 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.07.14-12:59:11-39.4337-28.1317-1.8</guid>
       <description>Tarih: 2026.07.14 12:59:11 | Derinlik: 20.5 km | Konum: 39.4337, 28.1317</description>
-    </item>
-
-    <item>
-      <title>M1.9 - KALEM-MILAS (MUGLA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.14-12:56:16-37.0920-27.9845-1.9</guid>
-      <description>Tarih: 2026.07.14 12:56:16 | Derinlik: 0.0 km | Konum: 37.0920, 27.9845</description>
     </item>
 
 </channel>
