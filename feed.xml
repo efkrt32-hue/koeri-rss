@@ -4,8 +4,29 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Thu, 16 Jul 2026 19:07:57 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 16 Jul 2026 20:11:28 +0000</lastBuildDate>
   
+    <item>
+      <title>M4.1 - YENIDAMLAR-KALE (MALATYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.16-22:52:52-38.3765-38.8813-4.1</guid>
+      <description>Tarih: 2026.07.16 22:52:52 | Derinlik: 5.0 km | Konum: 38.3765, 38.8813</description>
+    </item>
+
+    <item>
+      <title>M1.7 - AKDENIZ İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.16-22:41:08-36.4585-28.7693-1.7</guid>
+      <description>Tarih: 2026.07.16 22:41:08 | Derinlik: 17.5 km | Konum: 36.4585, 28.7693</description>
+    </item>
+
+    <item>
+      <title>M1.8 - GUCUKSU-GOKSUN (KAHRAMANMARAS) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.16-22:39:43-38.0415-36.6348-1.8</guid>
+      <description>Tarih: 2026.07.16 22:39:43 | Derinlik: 8.3 km | Konum: 38.0415, 36.6348</description>
+    </item>
+
     <item>
       <title>M1.5 - EGE DENIZI İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -333,27 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.07.16-07:46:04-38.2020-37.6982-2.1</guid>
       <description>Tarih: 2026.07.16 07:46:04 | Derinlik: 5.0 km | Konum: 38.2020, 37.6982</description>
-    </item>
-
-    <item>
-      <title>M1.4 - UVECIK ACIKLARI-CANAKKALE (EGE DENIZI) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.16-07:39:34-39.9595-26.0663-1.4</guid>
-      <description>Tarih: 2026.07.16 07:39:34 | Derinlik: 13.1 km | Konum: 39.9595, 26.0663</description>
-    </item>
-
-    <item>
-      <title>M1.5 - UVECIK ACIKLARI-CANAKKALE (EGE DENIZI) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.16-07:38:25-39.9478-26.0713-1.5</guid>
-      <description>Tarih: 2026.07.16 07:38:25 | Derinlik: 14.7 km | Konum: 39.9478, 26.0713</description>
-    </item>
-
-    <item>
-      <title>M1.9 - BOGAZPINAR-TARSUS (MERSIN) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.16-07:30:41-37.1692-34.7098-1.9</guid>
-      <description>Tarih: 2026.07.16 07:30:41 | Derinlik: 13.8 km | Konum: 37.1692, 34.7098</description>
     </item>
 
 </channel>
