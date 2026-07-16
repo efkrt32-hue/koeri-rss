@@ -4,8 +4,29 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Thu, 16 Jul 2026 17:53:13 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 16 Jul 2026 19:07:57 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.5 - EGE DENIZI İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.16-21:10:24-39.3717-25.7038-1.5</guid>
+      <description>Tarih: 2026.07.16 21:10:24 | Derinlik: 9.2 km | Konum: 39.3717, 25.7038</description>
+    </item>
+
+    <item>
+      <title>M2.8 - GIRIT ADASI (AKDENIZ) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.16-20:43:03-34.8907-23.6127-2.8</guid>
+      <description>Tarih: 2026.07.16 20:43:03 | Derinlik: 5.6 km | Konum: 34.8907, 23.6127</description>
+    </item>
+
+    <item>
+      <title>M2.2 - KAHRAMANMARAS İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.16-20:04:28-37.5525-36.9477-2.2</guid>
+      <description>Tarih: 2026.07.16 20:04:28 | Derinlik: 1.6 km | Konum: 37.5525, 36.9477</description>
+    </item>
+
     <item>
       <title>M2.1 - ULUKOY-(MALATYA) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -333,27 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.07.16-07:30:41-37.1692-34.7098-1.9</guid>
       <description>Tarih: 2026.07.16 07:30:41 | Derinlik: 13.8 km | Konum: 37.1692, 34.7098</description>
-    </item>
-
-    <item>
-      <title>M1.1 - MARMARA DENIZI İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.16-06:56:55-40.5232-27.1310-1.1</guid>
-      <description>Tarih: 2026.07.16 06:56:55 | Derinlik: 14.8 km | Konum: 40.5232, 27.1310</description>
-    </item>
-
-    <item>
-      <title>M2.2 - GIRIT ADASI (AKDENIZ) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.16-06:53:02-35.2750-25.3497-2.2</guid>
-      <description>Tarih: 2026.07.16 06:53:02 | Derinlik: 5.3 km | Konum: 35.2750, 25.3497</description>
-    </item>
-
-    <item>
-      <title>M1.1 - MARMARA DENIZI İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.16-06:52:35-40.5318-27.1027-1.1</guid>
-      <description>Tarih: 2026.07.16 06:52:35 | Derinlik: 11.0 km | Konum: 40.5318, 27.1027</description>
     </item>
 
 </channel>
