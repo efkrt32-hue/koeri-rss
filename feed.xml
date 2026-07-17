@@ -4,8 +4,15 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Fri, 17 Jul 2026 15:35:59 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 17 Jul 2026 16:45:08 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.9 - BUYUKYAPALAK-ELBISTAN (KAHRAMANMARAS) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.17-18:34:00-38.2867-37.2868-1.9</guid>
+      <description>Tarih: 2026.07.17 18:34:00 | Derinlik: 17.1 km | Konum: 38.2867, 37.2868</description>
+    </item>
+
     <item>
       <title>M2.5 - DOGANLIKARAHASAN-PAZARCIK (KAHRAMANMARAS) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -347,13 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.07.17-03:37:00-37.7482-36.0440-1.2</guid>
       <description>Tarih: 2026.07.17 03:37:00 | Derinlik: 5.0 km | Konum: 37.7482, 36.0440</description>
-    </item>
-
-    <item>
-      <title>M2.1 - HARUNUSAGI-AKCADAG (MALATYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.17-03:34:15-38.2612-37.7197-2.1</guid>
-      <description>Tarih: 2026.07.17 03:34:15 | Derinlik: 10.5 km | Konum: 38.2612, 37.7197</description>
     </item>
 
 </channel>
