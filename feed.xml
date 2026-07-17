@@ -4,8 +4,29 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Fri, 17 Jul 2026 16:45:08 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 17 Jul 2026 17:51:09 +0000</lastBuildDate>
   
+    <item>
+      <title>M2.2 - AKDENIZ İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.17-20:13:34-36.4300-28.7797-2.2</guid>
+      <description>Tarih: 2026.07.17 20:13:34 | Derinlik: 10.7 km | Konum: 36.4300, 28.7797</description>
+    </item>
+
+    <item>
+      <title>M1.6 - YENICEKENT-BULDAN (DENIZLI) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.17-19:48:05-38.0647-28.9622-1.6</guid>
+      <description>Tarih: 2026.07.17 19:48:05 | Derinlik: 15.9 km | Konum: 38.0647, 28.9622</description>
+    </item>
+
+    <item>
+      <title>M1.6 - AKDENIZ İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.17-19:44:48-36.4678-28.3435-1.6</guid>
+      <description>Tarih: 2026.07.17 19:44:48 | Derinlik: 24.3 km | Konum: 36.4678, 28.3435</description>
+    </item>
+
     <item>
       <title>M1.9 - BUYUKYAPALAK-ELBISTAN (KAHRAMANMARAS) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -333,27 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.07.17-03:50:31-40.2328-31.7418-1.8</guid>
       <description>Tarih: 2026.07.17 03:50:31 | Derinlik: 14.5 km | Konum: 40.2328, 31.7418</description>
-    </item>
-
-    <item>
-      <title>M1.0 - EGE DENIZI İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.17-03:42:17-39.8907-25.8720-1.0</guid>
-      <description>Tarih: 2026.07.17 03:42:17 | Derinlik: 16.3 km | Konum: 39.8907, 25.8720</description>
-    </item>
-
-    <item>
-      <title>M0.9 - MANDIRA-SINDIRGI (BALIKESIR) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.17-03:38:32-39.2428-28.1495-0.9</guid>
-      <description>Tarih: 2026.07.17 03:38:32 | Derinlik: 10.8 km | Konum: 39.2428, 28.1495</description>
-    </item>
-
-    <item>
-      <title>M1.2 - AKOLUK-FEKE (ADANA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.17-03:37:00-37.7482-36.0440-1.2</guid>
-      <description>Tarih: 2026.07.17 03:37:00 | Derinlik: 5.0 km | Konum: 37.7482, 36.0440</description>
     </item>
 
 </channel>
