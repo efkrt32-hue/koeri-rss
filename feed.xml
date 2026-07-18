@@ -4,13 +4,20 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sat, 18 Jul 2026 11:37:47 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 18 Jul 2026 12:37:55 +0000</lastBuildDate>
   
     <item>
-      <title>M1.9 - GULUMUSAGI-(MALATYA) İlksel</title>
+      <title>M1.5 - IBILLER-SINDIRGI (BALIKESIR) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.18-14:29:03-38.2285-38.5080-1.9</guid>
-      <description>Tarih: 2026.07.18 14:29:03 | Derinlik: 13.6 km | Konum: 38.2285, 38.5080</description>
+      <guid>2026.07.18-15:13:41-39.2642-28.1280-1.5</guid>
+      <description>Tarih: 2026.07.18 15:13:41 | Derinlik: 7.1 km | Konum: 39.2642, 28.1280</description>
+    </item>
+
+    <item>
+      <title>M2.0 - GULUMUSAGI-(MALATYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.18-14:29:03-38.2130-38.5215-2.0</guid>
+      <description>Tarih: 2026.07.18 14:29:03 | Derinlik: 7.8 km | Konum: 38.2130, 38.5215</description>
     </item>
 
     <item>
@@ -347,13 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.07.18-05:53:35-37.5403-26.7498-1.7</guid>
       <description>Tarih: 2026.07.18 05:53:35 | Derinlik: 5.1 km | Konum: 37.5403, 26.7498</description>
-    </item>
-
-    <item>
-      <title>M1.7 - KARANLIKDERE-DOGANSEHIR (MALATYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.18-05:20:48-37.9082-37.8067-1.7</guid>
-      <description>Tarih: 2026.07.18 05:20:48 | Derinlik: 19.4 km | Konum: 37.9082, 37.8067</description>
     </item>
 
 </channel>
