@@ -4,8 +4,22 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sat, 18 Jul 2026 10:41:32 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 18 Jul 2026 11:37:47 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.9 - GULUMUSAGI-(MALATYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.18-14:29:03-38.2285-38.5080-1.9</guid>
+      <description>Tarih: 2026.07.18 14:29:03 | Derinlik: 13.6 km | Konum: 38.2285, 38.5080</description>
+    </item>
+
+    <item>
+      <title>M1.9 - ONIKI ADALAR (EGE DENIZI) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.18-13:09:18-36.9180-27.0625-1.9</guid>
+      <description>Tarih: 2026.07.18 13:09:18 | Derinlik: 18.0 km | Konum: 36.9180, 27.0625</description>
+    </item>
+
     <item>
       <title>M2.1 - TOSUNLAR-ERBAA (TOKAT) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -340,20 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.07.18-05:20:48-37.9082-37.8067-1.7</guid>
       <description>Tarih: 2026.07.18 05:20:48 | Derinlik: 19.4 km | Konum: 37.9082, 37.8067</description>
-    </item>
-
-    <item>
-      <title>M1.7 - YENILER-SIMAV (KUTAHYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.18-05:02:39-39.2518-28.9322-1.7</guid>
-      <description>Tarih: 2026.07.18 05:02:39 | Derinlik: 7.9 km | Konum: 39.2518, 28.9322</description>
-    </item>
-
-    <item>
-      <title>M3.1 - GECITLI-SINCIK (ADIYAMAN) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.18-05:01:53-38.1362-38.5363-3.1</guid>
-      <description>Tarih: 2026.07.18 05:01:53 | Derinlik: 2.4 km | Konum: 38.1362, 38.5363</description>
     </item>
 
 </channel>
