@@ -4,8 +4,29 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Mon, 20 Jul 2026 21:47:57 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 20 Jul 2026 22:42:09 +0000</lastBuildDate>
   
+    <item>
+      <title>M2.2 - SIRMACEK-KIGI (BINGOL) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.21-01:24:21-39.1602-40.3402-2.2</guid>
+      <description>Tarih: 2026.07.21 01:24:21 | Derinlik: 5.0 km | Konum: 39.1602, 40.3402</description>
+    </item>
+
+    <item>
+      <title>M1.0 - ORENLI-SIMAV (KUTAHYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.21-01:08:58-39.2085-28.8983-1.0</guid>
+      <description>Tarih: 2026.07.21 01:08:58 | Derinlik: 12.2 km | Konum: 39.2085, 28.8983</description>
+    </item>
+
+    <item>
+      <title>M2.0 - CAGLAYAN-GOKSUN (KAHRAMANMARAS) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.21-01:08:05-38.0642-36.4598-2.0</guid>
+      <description>Tarih: 2026.07.21 01:08:05 | Derinlik: 5.0 km | Konum: 38.0642, 36.4598</description>
+    </item>
+
     <item>
       <title>M1.2 - SINANDEDE-SINDIRGI (BALIKESIR) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -333,27 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.07.20-04:42:03-39.1813-25.4643-2.5</guid>
       <description>Tarih: 2026.07.20 04:42:03 | Derinlik: 7.2 km | Konum: 39.1813, 25.4643</description>
-    </item>
-
-    <item>
-      <title>M1.7 - KARACAOREN-SIMAV (KUTAHYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.20-04:05:07-39.1863-29.0362-1.7</guid>
-      <description>Tarih: 2026.07.20 04:05:07 | Derinlik: 11.7 km | Konum: 39.1863, 29.0362</description>
-    </item>
-
-    <item>
-      <title>M1.7 - KATRANDAGI-EMET (KUTAHYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.20-04:04:43-39.2340-29.0550-1.7</guid>
-      <description>Tarih: 2026.07.20 04:04:43 | Derinlik: 2.8 km | Konum: 39.2340, 29.0550</description>
-    </item>
-
-    <item>
-      <title>M1.7 - KATRANDAGI-EMET (KUTAHYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.20-04:00:07-39.2362-29.0575-1.7</guid>
-      <description>Tarih: 2026.07.20 04:00:07 | Derinlik: 5.0 km | Konum: 39.2362, 29.0575</description>
     </item>
 
 </channel>
