@@ -4,8 +4,36 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Tue, 21 Jul 2026 09:45:28 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 21 Jul 2026 11:32:28 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.5 - KOYUNEVI-AYVACIK (CANAKKALE) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.21-13:12:05-39.4447-26.1622-1.5</guid>
+      <description>Tarih: 2026.07.21 13:12:05 | Derinlik: 11.7 km | Konum: 39.4447, 26.1622</description>
+    </item>
+
+    <item>
+      <title>M1.6 - KOZAGAC-KAHTA (ADIYAMAN) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.21-13:08:36-37.9208-38.5512-1.6</guid>
+      <description>Tarih: 2026.07.21 13:08:36 | Derinlik: 22.7 km | Konum: 37.9208, 38.5512</description>
+    </item>
+
+    <item>
+      <title>M1.1 - BUYUKDAGDERE-SINDIRGI (BALIKESIR) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.21-12:43:03-39.1923-28.3393-1.1</guid>
+      <description>Tarih: 2026.07.21 12:43:03 | Derinlik: 7.8 km | Konum: 39.1923, 28.3393</description>
+    </item>
+
+    <item>
+      <title>M2.0 - SAGIRTAS-(AGRI) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.21-12:07:40-39.9778-43.2222-2.0</guid>
+      <description>Tarih: 2026.07.21 12:07:40 | Derinlik: 15.9 km | Konum: 39.9778, 43.2222</description>
+    </item>
+
     <item>
       <title>M2.3 - GOKOVA KORFEZI (EGE DENIZI) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -18,6 +46,13 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.07.21-11:17:57-36.9510-27.8700-2.8</guid>
       <description>Tarih: 2026.07.21 11:17:57 | Derinlik: 7.1 km | Konum: 36.9510, 27.8700</description>
+    </item>
+
+    <item>
+      <title>M2.3 - CAKIRBEY-(VAN) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.21-11:06:34-38.8803-43.5668-2.3</guid>
+      <description>Tarih: 2026.07.21 11:06:34 | Derinlik: 8.8 km | Konum: 38.8803, 43.5668</description>
     </item>
 
     <item>
@@ -319,41 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.07.20-22:08:47-39.5185-26.0528-2.0</guid>
       <description>Tarih: 2026.07.20 22:08:47 | Derinlik: 8.7 km | Konum: 39.5185, 26.0528</description>
-    </item>
-
-    <item>
-      <title>M2.1 - BADEMLI ACIKLARI-CANAKKALE (EGE DENIZI) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.20-21:39:55-39.3402-26.0463-2.1</guid>
-      <description>Tarih: 2026.07.20 21:39:55 | Derinlik: 11.8 km | Konum: 39.3402, 26.0463</description>
-    </item>
-
-    <item>
-      <title>M2.0 - MIDILLI ADASI (EGE DENIZI) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.20-21:38:31-39.3463-26.0738-2.0</guid>
-      <description>Tarih: 2026.07.20 21:38:31 | Derinlik: 7.7 km | Konum: 39.3463, 26.0738</description>
-    </item>
-
-    <item>
-      <title>M1.6 - KOYULHISAR (SIVAS) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.20-20:51:38-40.3260-37.8137-1.6</guid>
-      <description>Tarih: 2026.07.20 20:51:38 | Derinlik: 2.8 km | Konum: 40.3260, 37.8137</description>
-    </item>
-
-    <item>
-      <title>M2.4 - RIZE ACIKLARI (KARADENIZ) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.20-20:25:14-41.2993-40.2923-2.4</guid>
-      <description>Tarih: 2026.07.20 20:25:14 | Derinlik: 10.7 km | Konum: 41.2993, 40.2923</description>
-    </item>
-
-    <item>
-      <title>M1.8 - KUCUKLU-DOGANSEHIR (MALATYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.20-20:04:00-38.0142-37.6770-1.8</guid>
-      <description>Tarih: 2026.07.20 20:04:00 | Derinlik: 17.8 km | Konum: 38.0142, 37.6770</description>
     </item>
 
 </channel>
