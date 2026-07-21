@@ -4,8 +4,22 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Tue, 21 Jul 2026 15:13:56 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 21 Jul 2026 16:48:05 +0000</lastBuildDate>
   
+    <item>
+      <title>M2.0 - GEMTEPE-PALU (ELAZIG) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.21-17:50:50-38.8132-40.3017-2.0</guid>
+      <description>Tarih: 2026.07.21 17:50:50 | Derinlik: 5.8 km | Konum: 38.8132, 40.3017</description>
+    </item>
+
+    <item>
+      <title>M1.7 - YUKARIDEMIRCI-KOVANCILAR (ELAZIG) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.21-17:43:41-38.8865-40.1847-1.7</guid>
+      <description>Tarih: 2026.07.21 17:43:41 | Derinlik: 22.1 km | Konum: 38.8865, 40.1847</description>
+    </item>
+
     <item>
       <title>M2.6 - CANDARLI KORFEZI (EGE DENIZI) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -340,20 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.07.21-03:45:04-38.2522-37.7343-1.4</guid>
       <description>Tarih: 2026.07.21 03:45:04 | Derinlik: 11.6 km | Konum: 38.2522, 37.7343</description>
-    </item>
-
-    <item>
-      <title>M1.4 - AKKOCALI-AKHISAR (MANISA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.21-03:35:38-39.1713-27.9670-1.4</guid>
-      <description>Tarih: 2026.07.21 03:35:38 | Derinlik: 11.2 km | Konum: 39.1713, 27.9670</description>
-    </item>
-
-    <item>
-      <title>M1.8 - KUCUKIMALI-TURKOGLU (KAHRAMANMARAS) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.21-03:34:26-37.3582-36.7467-1.8</guid>
-      <description>Tarih: 2026.07.21 03:34:26 | Derinlik: 12.4 km | Konum: 37.3582, 36.7467</description>
     </item>
 
 </channel>
