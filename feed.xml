@@ -4,8 +4,22 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Wed, 22 Jul 2026 16:40:11 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 22 Jul 2026 17:54:27 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.7 - GOZSUZLU-(AFYONKARAHISAR) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.22-20:22:10-38.6232-30.8107-1.7</guid>
+      <description>Tarih: 2026.07.22 20:22:10 | Derinlik: 9.3 km | Konum: 38.6232, 30.8107</description>
+    </item>
+
+    <item>
+      <title>M2.1 - EGE DENIZI İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.22-20:04:12-38.6717-25.4870-2.1</guid>
+      <description>Tarih: 2026.07.22 20:04:12 | Derinlik: 9.1 km | Konum: 38.6717, 25.4870</description>
+    </item>
+
     <item>
       <title>M1.5 - CAMDIBI-ASLANAPA (KUTAHYA) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -340,20 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.07.22-02:30:23-38.9895-26.0272-1.7</guid>
       <description>Tarih: 2026.07.22 02:30:23 | Derinlik: 21.5 km | Konum: 38.9895, 26.0272</description>
-    </item>
-
-    <item>
-      <title>M1.1 - KARAKOCA-SIMAV (KUTAHYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.22-02:16:17-39.2705-28.9565-1.1</guid>
-      <description>Tarih: 2026.07.22 02:16:17 | Derinlik: 11.9 km | Konum: 39.2705, 28.9565</description>
-    </item>
-
-    <item>
-      <title>M1.6 - BAHADIRLI-KADIRLI (OSMANIYE) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.22-02:06:50-37.3358-36.2487-1.6</guid>
-      <description>Tarih: 2026.07.22 02:06:50 | Derinlik: 5.4 km | Konum: 37.3358, 36.2487</description>
     </item>
 
 </channel>
