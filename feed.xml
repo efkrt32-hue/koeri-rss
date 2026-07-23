@@ -4,8 +4,22 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Thu, 23 Jul 2026 16:02:16 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 23 Jul 2026 17:42:26 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.6 - DARIYERIBAKACAK-KAYNASLI (DUZCE) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.23-19:30:37-40.7600-31.4102-1.6</guid>
+      <description>Tarih: 2026.07.23 19:30:37 | Derinlik: 8.3 km | Konum: 40.7600, 31.4102</description>
+    </item>
+
+    <item>
+      <title>M2.3 - DUMUKLU-AKCADAG (MALATYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.23-19:05:27-38.3382-37.8538-2.3</guid>
+      <description>Tarih: 2026.07.23 19:05:27 | Derinlik: 6.4 km | Konum: 38.3382, 37.8538</description>
+    </item>
+
     <item>
       <title>M2.2 - YUNANISTAN İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -340,20 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.07.22-20:41:25-39.2203-29.0807-1.2</guid>
       <description>Tarih: 2026.07.22 20:41:25 | Derinlik: 10.1 km | Konum: 39.2203, 29.0807</description>
-    </item>
-
-    <item>
-      <title>M1.7 - GOZSUZLU-(AFYONKARAHISAR) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.22-20:22:10-38.6232-30.8107-1.7</guid>
-      <description>Tarih: 2026.07.22 20:22:10 | Derinlik: 9.3 km | Konum: 38.6232, 30.8107</description>
-    </item>
-
-    <item>
-      <title>M2.1 - EGE DENIZI İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.22-20:04:12-38.6717-25.4870-2.1</guid>
-      <description>Tarih: 2026.07.22 20:04:12 | Derinlik: 9.1 km | Konum: 38.6717, 25.4870</description>
     </item>
 
 </channel>
