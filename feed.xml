@@ -4,8 +4,15 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Thu, 23 Jul 2026 14:07:00 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 23 Jul 2026 16:02:16 +0000</lastBuildDate>
   
+    <item>
+      <title>M2.2 - YUNANISTAN İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.23-18:20:23-38.8043-23.3812-2.2</guid>
+      <description>Tarih: 2026.07.23 18:20:23 | Derinlik: 12.4 km | Konum: 38.8043, 23.3812</description>
+    </item>
+
     <item>
       <title>M1.9 - DAGMARMARA-CAL (DENIZLI) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -347,13 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.07.22-20:04:12-38.6717-25.4870-2.1</guid>
       <description>Tarih: 2026.07.22 20:04:12 | Derinlik: 9.1 km | Konum: 38.6717, 25.4870</description>
-    </item>
-
-    <item>
-      <title>M1.5 - CAMDIBI-ASLANAPA (KUTAHYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.22-16:28:29-39.0828-29.7177-1.5</guid>
-      <description>Tarih: 2026.07.22 16:28:29 | Derinlik: 9.2 km | Konum: 39.0828, 29.7177</description>
     </item>
 
 </channel>
