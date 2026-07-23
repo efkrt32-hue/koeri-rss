@@ -4,13 +4,41 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Thu, 23 Jul 2026 18:51:36 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 23 Jul 2026 20:09:23 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.4 - CAKALTEPE-MENDERES (IZMIR) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.23-22:29:11-38.0812-27.2507-1.4</guid>
+      <description>Tarih: 2026.07.23 22:29:11 | Derinlik: 7.2 km | Konum: 38.0812, 27.2507</description>
+    </item>
+
+    <item>
+      <title>M1.6 - EVCI-BAYAT (CORUM) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.23-21:47:01-40.6985-34.2077-1.6</guid>
+      <description>Tarih: 2026.07.23 21:47:01 | Derinlik: 19.4 km | Konum: 40.6985, 34.2077</description>
+    </item>
+
+    <item>
+      <title>M1.8 - CARDAK (DENIZLI) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.23-21:46:56-37.8408-29.7303-1.8</guid>
+      <description>Tarih: 2026.07.23 21:46:56 | Derinlik: 9.6 km | Konum: 37.8408, 29.7303</description>
+    </item>
+
     <item>
       <title>M2.1 - FOCA (IZMIR) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.07.23-21:27:47-38.6817-26.7288-2.1</guid>
       <description>Tarih: 2026.07.23 21:27:47 | Derinlik: 9.6 km | Konum: 38.6817, 26.7288</description>
+    </item>
+
+    <item>
+      <title>M1.4 - ISIKLAR-SINDIRGI (BALIKESIR) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.23-21:21:20-39.1707-28.2818-1.4</guid>
+      <description>Tarih: 2026.07.23 21:21:20 | Derinlik: 8.4 km | Konum: 39.1707, 28.2818</description>
     </item>
 
     <item>
@@ -326,34 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.07.22-23:56:03-37.0017-28.5298-1.1</guid>
       <description>Tarih: 2026.07.22 23:56:03 | Derinlik: 17.6 km | Konum: 37.0017, 28.5298</description>
-    </item>
-
-    <item>
-      <title>M2.7 - HACIVELIOBA-GONEN (BALIKESIR) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.22-23:28:02-40.0720-27.6438-2.7</guid>
-      <description>Tarih: 2026.07.22 23:28:02 | Derinlik: 16.6 km | Konum: 40.0720, 27.6438</description>
-    </item>
-
-    <item>
-      <title>M2.1 - SULUCAOVA-CAMARDI (NIGDE) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.22-23:03:03-37.9485-35.2175-2.1</guid>
-      <description>Tarih: 2026.07.22 23:03:03 | Derinlik: 7.2 km | Konum: 37.9485, 35.2175</description>
-    </item>
-
-    <item>
-      <title>M2.6 - SURIYE İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.22-21:56:58-34.8700-36.3888-2.6</guid>
-      <description>Tarih: 2026.07.22 21:56:58 | Derinlik: 8.9 km | Konum: 34.8700, 36.3888</description>
-    </item>
-
-    <item>
-      <title>M1.6 - YEMISLI-SIMAV (KUTAHYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.22-21:52:14-39.2492-29.0003-1.6</guid>
-      <description>Tarih: 2026.07.22 21:52:14 | Derinlik: 12.8 km | Konum: 39.2492, 29.0003</description>
     </item>
 
 </channel>
