@@ -4,8 +4,22 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Fri, 24 Jul 2026 22:12:38 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 24 Jul 2026 23:18:37 +0000</lastBuildDate>
   
+    <item>
+      <title>M2.1 - HIRKATEPE-BEYPAZARI (ANKARA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.25-01:01:15-40.1867-31.7410-2.1</guid>
+      <description>Tarih: 2026.07.25 01:01:15 | Derinlik: 11.0 km | Konum: 40.1867, 31.7410</description>
+    </item>
+
+    <item>
+      <title>M1.7 - GOKTEPE-MENEMEN (IZMIR) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.25-00:57:04-38.6203-27.1515-1.7</guid>
+      <description>Tarih: 2026.07.25 00:57:04 | Derinlik: 13.4 km | Konum: 38.6203, 27.1515</description>
+    </item>
+
     <item>
       <title>M1.8 - UCUYUK-ALTINTAS (KUTAHYA) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -340,20 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.07.24-08:38:11-39.1428-28.3333-1.5</guid>
       <description>Tarih: 2026.07.24 08:38:11 | Derinlik: 13.4 km | Konum: 39.1428, 28.3333</description>
-    </item>
-
-    <item>
-      <title>M1.6 - PURSUNLER-SINDIRGI (BALIKESIR) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.24-06:34:26-39.2173-28.1973-1.6</guid>
-      <description>Tarih: 2026.07.24 06:34:26 | Derinlik: 13.1 km | Konum: 39.2173, 28.1973</description>
-    </item>
-
-    <item>
-      <title>M1.8 - BAYIRKOY-MILAS (MUGLA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.24-05:57:47-37.0987-27.8720-1.8</guid>
-      <description>Tarih: 2026.07.24 05:57:47 | Derinlik: 12.5 km | Konum: 37.0987, 27.8720</description>
     </item>
 
 </channel>
