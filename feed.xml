@@ -4,8 +4,29 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Fri, 24 Jul 2026 20:56:39 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 24 Jul 2026 22:12:38 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.8 - UCUYUK-ALTINTAS (KUTAHYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.25-00:28:43-39.1060-30.0513-1.8</guid>
+      <description>Tarih: 2026.07.25 00:28:43 | Derinlik: 10.5 km | Konum: 39.1060, 30.0513</description>
+    </item>
+
+    <item>
+      <title>M1.8 - KIRLANGIC-YESILYURT (MALATYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.25-00:00:51-38.2480-38.0872-1.8</guid>
+      <description>Tarih: 2026.07.25 00:00:51 | Derinlik: 10.1 km | Konum: 38.2480, 38.0872</description>
+    </item>
+
+    <item>
+      <title>M1.4 - CITAK-GUROYMAK (BITLIS) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.24-23:52:02-38.6665-42.1488-1.4</guid>
+      <description>Tarih: 2026.07.24 23:52:02 | Derinlik: 12.0 km | Konum: 38.6665, 42.1488</description>
+    </item>
+
     <item>
       <title>M2.2 - KARABUCAK-KOZAN (ADANA) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -333,27 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.07.24-05:57:47-37.0987-27.8720-1.8</guid>
       <description>Tarih: 2026.07.24 05:57:47 | Derinlik: 12.5 km | Konum: 37.0987, 27.8720</description>
-    </item>
-
-    <item>
-      <title>M1.9 - SEYITUSAGI-YESILYURT (MALATYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.24-05:40:27-38.2603-38.2113-1.9</guid>
-      <description>Tarih: 2026.07.24 05:40:27 | Derinlik: 7.5 km | Konum: 38.2603, 38.2113</description>
-    </item>
-
-    <item>
-      <title>M1.9 - FINDIK-GOKSUN (KAHRAMANMARAS) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.24-05:00:45-38.1045-36.7405-1.9</guid>
-      <description>Tarih: 2026.07.24 05:00:45 | Derinlik: 8.4 km | Konum: 38.1045, 36.7405</description>
-    </item>
-
-    <item>
-      <title>M1.7 - YUKARIKOY-AYVACIK (CANAKKALE) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.24-05:00:26-39.5540-26.1910-1.7</guid>
-      <description>Tarih: 2026.07.24 05:00:26 | Derinlik: 2.6 km | Konum: 39.5540, 26.1910</description>
     </item>
 
 </channel>
