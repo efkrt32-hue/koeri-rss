@@ -4,8 +4,15 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sat, 25 Jul 2026 18:39:39 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 25 Jul 2026 19:57:34 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.7 - ESENKAYA-KALE (DENIZLI) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.25-21:59:55-37.4088-28.6575-1.7</guid>
+      <description>Tarih: 2026.07.25 21:59:55 | Derinlik: 5.4 km | Konum: 37.4088, 28.6575</description>
+    </item>
+
     <item>
       <title>M1.6 - KERIMOGLU-SULUOVA (AMASYA) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -347,13 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.07.25-00:28:43-39.1060-30.0513-1.8</guid>
       <description>Tarih: 2026.07.25 00:28:43 | Derinlik: 10.5 km | Konum: 39.1060, 30.0513</description>
-    </item>
-
-    <item>
-      <title>M1.8 - KIRLANGIC-YESILYURT (MALATYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.25-00:00:51-38.2480-38.0872-1.8</guid>
-      <description>Tarih: 2026.07.25 00:00:51 | Derinlik: 10.1 km | Konum: 38.2480, 38.0872</description>
     </item>
 
 </channel>
