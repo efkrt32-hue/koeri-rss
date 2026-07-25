@@ -4,8 +4,22 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sat, 25 Jul 2026 17:38:18 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 25 Jul 2026 18:39:39 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.6 - KERIMOGLU-SULUOVA (AMASYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.25-20:55:39-40.8372-35.6152-1.6</guid>
+      <description>Tarih: 2026.07.25 20:55:39 | Derinlik: 8.0 km | Konum: 40.8372, 35.6152</description>
+    </item>
+
+    <item>
+      <title>M1.1 - SEVDILI-ELBISTAN (KAHRAMANMARAS) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.25-20:39:41-38.2737-37.5683-1.1</guid>
+      <description>Tarih: 2026.07.25 20:39:41 | Derinlik: 16.7 km | Konum: 38.2737, 37.5683</description>
+    </item>
+
     <item>
       <title>M1.5 - GEYIKKIRI-BIGA (CANAKKALE) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -340,20 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.07.25-00:00:51-38.2480-38.0872-1.8</guid>
       <description>Tarih: 2026.07.25 00:00:51 | Derinlik: 10.1 km | Konum: 38.2480, 38.0872</description>
-    </item>
-
-    <item>
-      <title>M1.4 - CITAK-GUROYMAK (BITLIS) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.24-23:52:02-38.6665-42.1488-1.4</guid>
-      <description>Tarih: 2026.07.24 23:52:02 | Derinlik: 12.0 km | Konum: 38.6665, 42.1488</description>
-    </item>
-
-    <item>
-      <title>M2.2 - KARABUCAK-KOZAN (ADANA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.24-23:11:52-37.6397-35.8687-2.2</guid>
-      <description>Tarih: 2026.07.24 23:11:52 | Derinlik: 8.0 km | Konum: 37.6397, 35.8687</description>
     </item>
 
 </channel>
