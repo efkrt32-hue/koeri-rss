@@ -4,8 +4,15 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sat, 25 Jul 2026 15:37:33 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 25 Jul 2026 16:34:11 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.9 - BITISIK-ISKENDERUN (HATAY) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.25-18:14:53-36.6218-36.2775-1.9</guid>
+      <description>Tarih: 2026.07.25 18:14:53 | Derinlik: 7.3 km | Konum: 36.6218, 36.2775</description>
+    </item>
+
     <item>
       <title>M1.6 - KILICASLAN-SULUOVA (AMASYA) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -347,13 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.07.24-22:40:15-36.5855-25.4135-2.1</guid>
       <description>Tarih: 2026.07.24 22:40:15 | Derinlik: 10.5 km | Konum: 36.5855, 25.4135</description>
-    </item>
-
-    <item>
-      <title>M1.5 - IGDE-ELBISTAN (KAHRAMANMARAS) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.24-22:31:05-38.1473-37.0908-1.5</guid>
-      <description>Tarih: 2026.07.24 22:31:05 | Derinlik: 5.9 km | Konum: 38.1473, 37.0908</description>
     </item>
 
 </channel>
