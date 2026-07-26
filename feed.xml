@@ -4,8 +4,22 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sun, 26 Jul 2026 13:47:22 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 26 Jul 2026 14:54:09 +0000</lastBuildDate>
   
+    <item>
+      <title>M2.5 - SOGUCAK-BOZKIR (KONYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.26-16:52:38-37.0442-32.2113-2.5</guid>
+      <description>Tarih: 2026.07.26 16:52:38 | Derinlik: 5.8 km | Konum: 37.0442, 32.2113</description>
+    </item>
+
+    <item>
+      <title>M1.5 - BOZHUYUK-GOKSUN (KAHRAMANMARAS) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.26-16:43:49-38.1417-36.4913-1.5</guid>
+      <description>Tarih: 2026.07.26 16:43:49 | Derinlik: 7.9 km | Konum: 38.1417, 36.4913</description>
+    </item>
+
     <item>
       <title>M1.9 - YOLKURU-DOGANSEHIR (MALATYA) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -340,20 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.07.26-02:05:43-38.7487-36.5675-2.1</guid>
       <description>Tarih: 2026.07.26 02:05:43 | Derinlik: 5.0 km | Konum: 38.7487, 36.5675</description>
-    </item>
-
-    <item>
-      <title>M2.1 - KARAPINAR-SARAYKENT (YOZGAT) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.26-01:57:59-39.7260-35.5432-2.1</guid>
-      <description>Tarih: 2026.07.26 01:57:59 | Derinlik: 7.6 km | Konum: 39.7260, 35.5432</description>
-    </item>
-
-    <item>
-      <title>M1.9 - KAPLAN-BEYPAZARI (ANKARA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.26-01:33:13-40.2417-31.8045-1.9</guid>
-      <description>Tarih: 2026.07.26 01:33:13 | Derinlik: 5.0 km | Konum: 40.2417, 31.8045</description>
     </item>
 
 </channel>
