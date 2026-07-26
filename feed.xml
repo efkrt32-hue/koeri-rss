@@ -4,8 +4,29 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sun, 26 Jul 2026 21:38:08 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 26 Jul 2026 22:40:54 +0000</lastBuildDate>
   
+    <item>
+      <title>M2.0 - MEYDANKOY-CAMLIHEMSIN (RIZE) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.27-01:31:27-40.9010-40.8695-2.0</guid>
+      <description>Tarih: 2026.07.27 01:31:27 | Derinlik: 11.1 km | Konum: 40.9010, 40.8695</description>
+    </item>
+
+    <item>
+      <title>M2.6 - BAYIRLI-SINDIRGI (BALIKESIR) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.27-01:15:33-39.2350-28.1203-2.6</guid>
+      <description>Tarih: 2026.07.27 01:15:33 | Derinlik: 14.6 km | Konum: 39.2350, 28.1203</description>
+    </item>
+
+    <item>
+      <title>M1.9 - ORTATEPE-GOKSUN (KAHRAMANMARAS) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.27-00:39:53-38.0677-36.5177-1.9</guid>
+      <description>Tarih: 2026.07.27 00:39:53 | Derinlik: 4.3 km | Konum: 38.0677, 36.5177</description>
+    </item>
+
     <item>
       <title>M1.7 - YEMISLI-SIMAV (KUTAHYA) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -333,27 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.07.26-10:59:40-39.1343-29.1807-0.4</guid>
       <description>Tarih: 2026.07.26 10:59:40 | Derinlik: 1.9 km | Konum: 39.1343, 29.1807</description>
-    </item>
-
-    <item>
-      <title>M1.5 - YUNANISTAN İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.26-10:59:34-39.5248-23.2753-1.5</guid>
-      <description>Tarih: 2026.07.26 10:59:34 | Derinlik: 5.3 km | Konum: 39.5248, 23.2753</description>
-    </item>
-
-    <item>
-      <title>M0.8 - CIHANKOY-ORHANGAZI (BURSA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.26-10:47:05-40.5305-29.3248-0.8</guid>
-      <description>Tarih: 2026.07.26 10:47:05 | Derinlik: 0.0 km | Konum: 40.5305, 29.3248</description>
-    </item>
-
-    <item>
-      <title>M1.1 - SIRINSULHIYE-KARTEPE (KOCAELI) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.26-10:29:00-40.6867-30.1332-1.1</guid>
-      <description>Tarih: 2026.07.26 10:29:00 | Derinlik: 0.0 km | Konum: 40.6867, 30.1332</description>
     </item>
 
 </channel>
