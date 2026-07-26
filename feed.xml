@@ -4,8 +4,22 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sun, 26 Jul 2026 16:02:30 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 26 Jul 2026 17:12:12 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.5 - BUYUKKABACA-SENIRKENT (ISPARTA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.26-19:22:40-38.1695-30.6587-1.5</guid>
+      <description>Tarih: 2026.07.26 19:22:40 | Derinlik: 9.8 km | Konum: 38.1695, 30.6587</description>
+    </item>
+
+    <item>
+      <title>M1.6 - GEMLIK (BURSA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.26-19:00:39-40.4557-29.1662-1.6</guid>
+      <description>Tarih: 2026.07.26 19:00:39 | Derinlik: 0.0 km | Konum: 40.4557, 29.1662</description>
+    </item>
+
     <item>
       <title>M2.2 - BUYUKKABACA-SENIRKENT (ISPARTA) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -32,6 +46,13 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.07.26-15:55:01-38.1197-37.8597-1.9</guid>
       <description>Tarih: 2026.07.26 15:55:01 | Derinlik: 2.7 km | Konum: 38.1197, 37.8597</description>
+    </item>
+
+    <item>
+      <title>M1.7 - AKPINAR-CAMELI (DENIZLI) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.26-15:42:41-36.9820-29.1547-1.7</guid>
+      <description>Tarih: 2026.07.26 15:42:41 | Derinlik: 4.8 km | Konum: 36.9820, 29.1547</description>
     </item>
 
     <item>
@@ -333,27 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.07.26-04:09:59-38.7568-36.5912-1.5</guid>
       <description>Tarih: 2026.07.26 04:09:59 | Derinlik: 5.5 km | Konum: 38.7568, 36.5912</description>
-    </item>
-
-    <item>
-      <title>M1.6 - SOGUTLU-AKHISAR (MANISA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.26-03:54:19-39.1678-28.0352-1.6</guid>
-      <description>Tarih: 2026.07.26 03:54:19 | Derinlik: 9.5 km | Konum: 39.1678, 28.0352</description>
-    </item>
-
-    <item>
-      <title>M1.9 - EMIROGLU-PAZARCIK (KAHRAMANMARAS) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.26-02:52:57-37.3020-37.0495-1.9</guid>
-      <description>Tarih: 2026.07.26 02:52:57 | Derinlik: 4.3 km | Konum: 37.3020, 37.0495</description>
-    </item>
-
-    <item>
-      <title>M1.5 - KARAKIRAN-SARAYKOY (DENIZLI) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.26-02:40:28-37.9515-28.8548-1.5</guid>
-      <description>Tarih: 2026.07.26 02:40:28 | Derinlik: 11.0 km | Konum: 37.9515, 28.8548</description>
     </item>
 
 </channel>
