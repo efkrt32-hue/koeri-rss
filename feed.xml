@@ -4,8 +4,29 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sun, 26 Jul 2026 18:13:39 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 26 Jul 2026 19:39:00 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.5 - SORGUN-KELES (BURSA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.26-22:29:10-39.9415-29.3745-1.5</guid>
+      <description>Tarih: 2026.07.26 22:29:10 | Derinlik: 10.0 km | Konum: 39.9415, 29.3745</description>
+    </item>
+
+    <item>
+      <title>M2.0 - MIDILLI ADASI (EGE DENIZI) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.26-21:34:58-39.3290-26.0643-2.0</guid>
+      <description>Tarih: 2026.07.26 21:34:58 | Derinlik: 13.5 km | Konum: 39.3290, 26.0643</description>
+    </item>
+
+    <item>
+      <title>M2.3 - YUNANISTAN İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.26-21:32:04-38.7420-23.4347-2.3</guid>
+      <description>Tarih: 2026.07.26 21:32:04 | Derinlik: 10.9 km | Konum: 38.7420, 23.4347</description>
+    </item>
+
     <item>
       <title>M2.1 - CEMALETTIN-AHLAT (BITLIS) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -333,27 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.07.26-07:22:53-39.7135-33.2737-2.2</guid>
       <description>Tarih: 2026.07.26 07:22:53 | Derinlik: 5.0 km | Konum: 39.7135, 33.2737</description>
-    </item>
-
-    <item>
-      <title>M1.7 - SADIKKOY-ILGIN (KONYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.26-06:21:26-38.2512-31.9555-1.7</guid>
-      <description>Tarih: 2026.07.26 06:21:26 | Derinlik: 4.9 km | Konum: 38.2512, 31.9555</description>
-    </item>
-
-    <item>
-      <title>M1.7 - TASCILAR-CAMELI (DENIZLI) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.26-05:57:11-36.9150-29.2852-1.7</guid>
-      <description>Tarih: 2026.07.26 05:57:11 | Derinlik: 9.8 km | Konum: 36.9150, 29.2852</description>
-    </item>
-
-    <item>
-      <title>M1.4 - KANDILLI-ASKALE (ERZURUM) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.26-05:39:44-39.9180-40.8152-1.4</guid>
-      <description>Tarih: 2026.07.26 05:39:44 | Derinlik: 1.3 km | Konum: 39.9180, 40.8152</description>
     </item>
 
 </channel>
