@@ -4,8 +4,29 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sun, 26 Jul 2026 17:12:12 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 26 Jul 2026 18:13:39 +0000</lastBuildDate>
   
+    <item>
+      <title>M2.1 - CEMALETTIN-AHLAT (BITLIS) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.26-20:36:59-38.8352-42.5560-2.1</guid>
+      <description>Tarih: 2026.07.26 20:36:59 | Derinlik: 7.0 km | Konum: 38.8352, 42.5560</description>
+    </item>
+
+    <item>
+      <title>M1.4 - GELENBE-KIRKAGAC (MANISA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.26-20:22:41-39.1730-27.8405-1.4</guid>
+      <description>Tarih: 2026.07.26 20:22:41 | Derinlik: 13.7 km | Konum: 39.1730, 27.8405</description>
+    </item>
+
+    <item>
+      <title>M1.5 - DUMANKOY-DINAR (AFYONKARAHISAR) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.26-20:12:51-38.1780-30.0378-1.5</guid>
+      <description>Tarih: 2026.07.26 20:12:51 | Derinlik: 14.2 km | Konum: 38.1780, 30.0378</description>
+    </item>
+
     <item>
       <title>M1.5 - BUYUKKABACA-SENIRKENT (ISPARTA) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -333,27 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.07.26-05:39:44-39.9180-40.8152-1.4</guid>
       <description>Tarih: 2026.07.26 05:39:44 | Derinlik: 1.3 km | Konum: 39.9180, 40.8152</description>
-    </item>
-
-    <item>
-      <title>M1.2 - IZMIR KORFEZI (EGE DENIZI) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.26-05:39:02-38.4900-26.8097-1.2</guid>
-      <description>Tarih: 2026.07.26 05:39:02 | Derinlik: 4.4 km | Konum: 38.4900, 26.8097</description>
-    </item>
-
-    <item>
-      <title>M0.9 - IMALI-TURKOGLU (KAHRAMANMARAS) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.26-05:12:04-37.3403-36.7233-0.9</guid>
-      <description>Tarih: 2026.07.26 05:12:04 | Derinlik: 6.2 km | Konum: 37.3403, 36.7233</description>
-    </item>
-
-    <item>
-      <title>M1.5 - ESKIYASSIPINAR-PINARBASI (KAYSERI) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.26-04:09:59-38.7568-36.5912-1.5</guid>
-      <description>Tarih: 2026.07.26 04:09:59 | Derinlik: 5.5 km | Konum: 38.7568, 36.5912</description>
     </item>
 
 </channel>
