@@ -4,8 +4,22 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Wed, 29 Jul 2026 14:40:34 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 29 Jul 2026 16:10:47 +0000</lastBuildDate>
   
+    <item>
+      <title>M2.7 - IZMIR KORFEZI (EGE DENIZI) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.29-18:10:24-38.6170-26.8038-2.7</guid>
+      <description>Tarih: 2026.07.29 18:10:24 | Derinlik: 6.1 km | Konum: 38.6170, 26.8038</description>
+    </item>
+
+    <item>
+      <title>M2.4 - KIRISKAL-NURDAGI (GAZIANTEP) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.29-17:57:39-37.2298-36.8415-2.4</guid>
+      <description>Tarih: 2026.07.29 17:57:39 | Derinlik: 6.8 km | Konum: 37.2298, 36.8415</description>
+    </item>
+
     <item>
       <title>M1.9 - BALABAN SARIKAYA-UZUMLU (ERZINCAN) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -340,20 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.07.29-02:05:25-37.0195-27.7337-1.9</guid>
       <description>Tarih: 2026.07.29 02:05:25 | Derinlik: 10.2 km | Konum: 37.0195, 27.7337</description>
-    </item>
-
-    <item>
-      <title>M1.5 - GOKBEL-MILAS (MUGLA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.29-01:15:09-37.0457-27.7597-1.5</guid>
-      <description>Tarih: 2026.07.29 01:15:09 | Derinlik: 10.7 km | Konum: 37.0457, 27.7597</description>
-    </item>
-
-    <item>
-      <title>M1.5 - GOKOVA KORFEZI (EGE DENIZI) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.29-01:06:24-36.9628-27.4093-1.5</guid>
-      <description>Tarih: 2026.07.29 01:06:24 | Derinlik: 5.9 km | Konum: 36.9628, 27.4093</description>
     </item>
 
 </channel>
