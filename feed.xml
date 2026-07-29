@@ -4,13 +4,34 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Wed, 29 Jul 2026 16:10:47 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 29 Jul 2026 17:39:50 +0000</lastBuildDate>
   
+    <item>
+      <title>M2.5 - CIHATLI-GEMLIK (BURSA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.29-19:50:23-40.4578-29.1913-2.5</guid>
+      <description>Tarih: 2026.07.29 19:50:23 | Derinlik: 4.5 km | Konum: 40.4578, 29.1913</description>
+    </item>
+
+    <item>
+      <title>M1.8 - AGCASAR-NURHAK (KAHRAMANMARAS) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.29-19:34:54-38.0577-37.3697-1.8</guid>
+      <description>Tarih: 2026.07.29 19:34:54 | Derinlik: 8.1 km | Konum: 38.0577, 37.3697</description>
+    </item>
+
     <item>
       <title>M2.7 - IZMIR KORFEZI (EGE DENIZI) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.07.29-18:10:24-38.6170-26.8038-2.7</guid>
       <description>Tarih: 2026.07.29 18:10:24 | Derinlik: 6.1 km | Konum: 38.6170, 26.8038</description>
+    </item>
+
+    <item>
+      <title>M3.3 - GIRIT ADASI ACIKLARI (AKDENIZ) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.29-17:59:55-33.2405-28.5535-3.3</guid>
+      <description>Tarih: 2026.07.29 17:59:55 | Derinlik: 168.1 km | Konum: 33.2405, 28.5535</description>
     </item>
 
     <item>
@@ -333,27 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.07.29-02:31:20-37.9060-36.6383-2.3</guid>
       <description>Tarih: 2026.07.29 02:31:20 | Derinlik: 13.1 km | Konum: 37.9060, 36.6383</description>
-    </item>
-
-    <item>
-      <title>M3.4 - YUNANISTAN İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.29-02:29:22-39.3835-23.6022-3.4</guid>
-      <description>Tarih: 2026.07.29 02:29:22 | Derinlik: 21.0 km | Konum: 39.3835, 23.6022</description>
-    </item>
-
-    <item>
-      <title>M1.2 - VAN GOLU İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.29-02:22:21-38.6518-43.0825-1.2</guid>
-      <description>Tarih: 2026.07.29 02:22:21 | Derinlik: 18.7 km | Konum: 38.6518, 43.0825</description>
-    </item>
-
-    <item>
-      <title>M1.9 - MAZIKOY-BODRUM (MUGLA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.29-02:05:25-37.0195-27.7337-1.9</guid>
-      <description>Tarih: 2026.07.29 02:05:25 | Derinlik: 10.2 km | Konum: 37.0195, 27.7337</description>
     </item>
 
 </channel>
