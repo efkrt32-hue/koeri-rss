@@ -4,8 +4,15 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Fri, 31 Jul 2026 19:57:06 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 31 Jul 2026 21:15:03 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.7 - YUNANISTAN İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.07.31-22:58:29-40.2528-24.0832-1.7</guid>
+      <description>Tarih: 2026.07.31 22:58:29 | Derinlik: 8.4 km | Konum: 40.2528, 24.0832</description>
+    </item>
+
     <item>
       <title>M1.7 - AKPINAR-EKINOZU (KAHRAMANMARAS) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -347,13 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.07.31-01:55:35-38.3110-37.8325-1.8</guid>
       <description>Tarih: 2026.07.31 01:55:35 | Derinlik: 15.4 km | Konum: 38.3110, 37.8325</description>
-    </item>
-
-    <item>
-      <title>M1.0 - ULUKOY-(MALATYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.31-01:37:15-38.1765-38.5290-1.0</guid>
-      <description>Tarih: 2026.07.31 01:37:15 | Derinlik: 11.8 km | Konum: 38.1765, 38.5290</description>
     </item>
 
 </channel>
