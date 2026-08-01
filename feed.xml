@@ -4,8 +4,106 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sat, 01 Aug 2026 12:07:35 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 01 Aug 2026 13:54:08 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.4 - KUCUKDAGDERE-SINDIRGI (BALIKESIR) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.01-16:37:48-39.1520-28.3162-1.4</guid>
+      <description>Tarih: 2026.08.01 16:37:48 | Derinlik: 12.4 km | Konum: 39.1520, 28.3162</description>
+    </item>
+
+    <item>
+      <title>M1.1 - KAVAKOLUGU-GULNAR (MERSIN) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.01-16:21:08-36.3158-33.5192-1.1</guid>
+      <description>Tarih: 2026.08.01 16:21:08 | Derinlik: 0.0 km | Konum: 36.3158, 33.5192</description>
+    </item>
+
+    <item>
+      <title>M1.3 - YENILER-SIMAV (KUTAHYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.01-15:47:47-39.2505-28.9382-1.3</guid>
+      <description>Tarih: 2026.08.01 15:47:47 | Derinlik: 5.2 km | Konum: 39.2505, 28.9382</description>
+    </item>
+
+    <item>
+      <title>M0.5 - KATRANDAGI-EMET (KUTAHYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.01-15:13:10-39.2575-29.0243-0.5</guid>
+      <description>Tarih: 2026.08.01 15:13:10 | Derinlik: 11.6 km | Konum: 39.2575, 29.0243</description>
+    </item>
+
+    <item>
+      <title>M1.3 - BEYNAM-BALA (ANKARA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.01-15:10:19-39.6288-33.0027-1.3</guid>
+      <description>Tarih: 2026.08.01 15:10:19 | Derinlik: 13.2 km | Konum: 39.6288, 33.0027</description>
+    </item>
+
+    <item>
+      <title>M1.4 - AKCAKISRAK-SINDIRGI (BALIKESIR) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.01-14:54:19-39.3628-27.9228-1.4</guid>
+      <description>Tarih: 2026.08.01 14:54:19 | Derinlik: 5.0 km | Konum: 39.3628, 27.9228</description>
+    </item>
+
+    <item>
+      <title>M1.3 - BABAKOY-BIGADIC (BALIKESIR) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.01-14:52:14-39.4050-28.0563-1.3</guid>
+      <description>Tarih: 2026.08.01 14:52:14 | Derinlik: 5.2 km | Konum: 39.4050, 28.0563</description>
+    </item>
+
+    <item>
+      <title>M1.4 - CAN (CANAKKALE) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.01-14:45:21-40.0237-27.0498-1.4</guid>
+      <description>Tarih: 2026.08.01 14:45:21 | Derinlik: 7.6 km | Konum: 40.0237, 27.0498</description>
+    </item>
+
+    <item>
+      <title>M2.1 - GURCISTAN İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.01-14:07:21-41.2868-43.9263-2.1</guid>
+      <description>Tarih: 2026.08.01 14:07:21 | Derinlik: 19.6 km | Konum: 41.2868, 43.9263</description>
+    </item>
+
+    <item>
+      <title>M1.3 - ORTACA-SIMAV (KUTAHYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.01-14:04:22-39.2912-28.8983-1.3</guid>
+      <description>Tarih: 2026.08.01 14:04:22 | Derinlik: 15.6 km | Konum: 39.2912, 28.8983</description>
+    </item>
+
+    <item>
+      <title>M1.3 - YALOVA ACIKLARI (MARMARA DENIZI) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.01-13:42:39-40.7125-29.2207-1.3</guid>
+      <description>Tarih: 2026.08.01 13:42:39 | Derinlik: 5.0 km | Konum: 40.7125, 29.2207</description>
+    </item>
+
+    <item>
+      <title>M1.6 - KARACAOREN-(KUTAHYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.01-13:41:32-39.6183-30.1212-1.6</guid>
+      <description>Tarih: 2026.08.01 13:41:32 | Derinlik: 0.0 km | Konum: 39.6183, 30.1212</description>
+    </item>
+
+    <item>
+      <title>M1.2 - GULUMUSAGI-(MALATYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.01-13:38:32-38.2415-38.4658-1.2</guid>
+      <description>Tarih: 2026.08.01 13:38:32 | Derinlik: 15.3 km | Konum: 38.2415, 38.4658</description>
+    </item>
+
+    <item>
+      <title>M1.1 - YEMISLI-SIMAV (KUTAHYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.01-13:33:32-39.2368-29.0082-1.1</guid>
+      <description>Tarih: 2026.08.01 13:33:32 | Derinlik: 11.4 km | Konum: 39.2368, 29.0082</description>
+    </item>
+
     <item>
       <title>M2.8 - OTMANLAR-(MANISA) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -256,104 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.01-04:52:17-38.0988-36.5433-1.8</guid>
       <description>Tarih: 2026.08.01 04:52:17 | Derinlik: 5.0 km | Konum: 38.0988, 36.5433</description>
-    </item>
-
-    <item>
-      <title>M1.3 - SENKOY-CINARCIK (YALOVA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.01-04:07:28-40.6503-28.9987-1.3</guid>
-      <description>Tarih: 2026.08.01 04:07:28 | Derinlik: 8.1 km | Konum: 40.6503, 28.9987</description>
-    </item>
-
-    <item>
-      <title>M1.1 - YANALERIK-KOZAN (ADANA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.01-03:47:28-37.6723-35.8027-1.1</guid>
-      <description>Tarih: 2026.08.01 03:47:28 | Derinlik: 9.2 km | Konum: 37.6723, 35.8027</description>
-    </item>
-
-    <item>
-      <title>M1.6 - ORTAKOY-AKCADAG (MALATYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.01-03:21:58-38.3115-37.8252-1.6</guid>
-      <description>Tarih: 2026.08.01 03:21:58 | Derinlik: 12.6 km | Konum: 38.3115, 37.8252</description>
-    </item>
-
-    <item>
-      <title>M3.7 - GIRIT ADASI (AKDENIZ) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.01-02:56:38-35.4512-23.0662-3.7</guid>
-      <description>Tarih: 2026.08.01 02:56:38 | Derinlik: 5.0 km | Konum: 35.4512, 23.0662</description>
-    </item>
-
-    <item>
-      <title>M1.5 - KARAGOL-CELIKHAN (ADIYAMAN) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.01-02:51:30-38.1075-38.4250-1.5</guid>
-      <description>Tarih: 2026.08.01 02:51:30 | Derinlik: 4.3 km | Konum: 38.1075, 38.4250</description>
-    </item>
-
-    <item>
-      <title>M2.4 - GIRIT ADASI (AKDENIZ) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.01-02:42:50-34.5885-25.4068-2.4</guid>
-      <description>Tarih: 2026.08.01 02:42:50 | Derinlik: 20.2 km | Konum: 34.5885, 25.4068</description>
-    </item>
-
-    <item>
-      <title>M1.8 - TURGUT-ULA (MUGLA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.01-02:19:29-37.1603-28.6558-1.8</guid>
-      <description>Tarih: 2026.08.01 02:19:29 | Derinlik: 5.0 km | Konum: 37.1603, 28.6558</description>
-    </item>
-
-    <item>
-      <title>M1.3 - OZBASI-KOZAN (ADANA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.01-02:19:28-37.5855-35.7683-1.3</guid>
-      <description>Tarih: 2026.08.01 02:19:28 | Derinlik: 12.7 km | Konum: 37.5855, 35.7683</description>
-    </item>
-
-    <item>
-      <title>M0.9 - AKOREN-SARIKAMIS (KARS) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.01-01:35:48-40.2820-42.2252-0.9</guid>
-      <description>Tarih: 2026.08.01 01:35:48 | Derinlik: 5.3 km | Konum: 40.2820, 42.2252</description>
-    </item>
-
-    <item>
-      <title>M2.2 - KATRANDAGI-EMET (KUTAHYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.01-00:30:46-39.2407-29.0365-2.2</guid>
-      <description>Tarih: 2026.08.01 00:30:46 | Derinlik: 8.8 km | Konum: 39.2407, 29.0365</description>
-    </item>
-
-    <item>
-      <title>M1.8 - GOKCELER-SIMAV (KUTAHYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.01-00:24:20-39.1057-29.0435-1.8</guid>
-      <description>Tarih: 2026.08.01 00:24:20 | Derinlik: 9.1 km | Konum: 39.1057, 29.0435</description>
-    </item>
-
-    <item>
-      <title>M1.2 - YUKARIBURANDERE-PINARBASI (KAYSERI) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.31-23:58:12-38.7715-36.5510-1.2</guid>
-      <description>Tarih: 2026.07.31 23:58:12 | Derinlik: 10.6 km | Konum: 38.7715, 36.5510</description>
-    </item>
-
-    <item>
-      <title>M1.8 - YUNANISTAN İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.31-23:17:14-39.8058-23.8147-1.8</guid>
-      <description>Tarih: 2026.07.31 23:17:14 | Derinlik: 10.5 km | Konum: 39.8058, 23.8147</description>
-    </item>
-
-    <item>
-      <title>M1.7 - YUNANISTAN İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.07.31-22:58:29-40.2528-24.0832-1.7</guid>
-      <description>Tarih: 2026.07.31 22:58:29 | Derinlik: 8.4 km | Konum: 40.2528, 24.0832</description>
     </item>
 
 </channel>
