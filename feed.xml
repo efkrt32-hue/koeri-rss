@@ -4,8 +4,22 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sat, 01 Aug 2026 13:54:08 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 01 Aug 2026 15:01:09 +0000</lastBuildDate>
   
+    <item>
+      <title>M2.1 - MARMARAEREGLISI ACIK.-TEKIRDAG (MARMARA DENIZI) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.01-17:24:35-40.8188-27.9563-2.1</guid>
+      <description>Tarih: 2026.08.01 17:24:35 | Derinlik: 14.7 km | Konum: 40.8188, 27.9563</description>
+    </item>
+
+    <item>
+      <title>M1.8 - SENKOY-CINARCIK (YALOVA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.01-17:03:54-40.6537-28.9837-1.8</guid>
+      <description>Tarih: 2026.08.01 17:03:54 | Derinlik: 13.6 km | Konum: 40.6537, 28.9837</description>
+    </item>
+
     <item>
       <title>M1.4 - KUCUKDAGDERE-SINDIRGI (BALIKESIR) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -340,20 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.01-05:33:28-40.2075-27.6602-1.5</guid>
       <description>Tarih: 2026.08.01 05:33:28 | Derinlik: 10.3 km | Konum: 40.2075, 27.6602</description>
-    </item>
-
-    <item>
-      <title>M1.7 - DEDEBURNU-(BALIKESIR) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.01-05:05:59-39.3803-27.9445-1.7</guid>
-      <description>Tarih: 2026.08.01 05:05:59 | Derinlik: 23.2 km | Konum: 39.3803, 27.9445</description>
-    </item>
-
-    <item>
-      <title>M1.8 - CAMDERE-GOKSUN (KAHRAMANMARAS) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.01-04:52:17-38.0988-36.5433-1.8</guid>
-      <description>Tarih: 2026.08.01 04:52:17 | Derinlik: 5.0 km | Konum: 38.0988, 36.5433</description>
     </item>
 
 </channel>
