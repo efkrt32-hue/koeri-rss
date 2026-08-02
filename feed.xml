@@ -4,8 +4,29 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sun, 02 Aug 2026 18:32:51 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 02 Aug 2026 19:48:37 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.5 - YALOVA ACIKLARI (MARMARA DENIZI) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.02-22:20:24-40.7665-29.1532-1.5</guid>
+      <description>Tarih: 2026.08.02 22:20:24 | Derinlik: 10.9 km | Konum: 40.7665, 29.1532</description>
+    </item>
+
+    <item>
+      <title>M1.6 - COPLER-ILIC (ERZINCAN) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.02-21:44:39-39.4012-38.5238-1.6</guid>
+      <description>Tarih: 2026.08.02 21:44:39 | Derinlik: 11.5 km | Konum: 39.4012, 38.5238</description>
+    </item>
+
+    <item>
+      <title>M1.4 - AYVALI-GURUN (SIVAS) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.02-21:12:03-38.7508-37.5050-1.4</guid>
+      <description>Tarih: 2026.08.02 21:12:03 | Derinlik: 6.6 km | Konum: 38.7508, 37.5050</description>
+    </item>
+
     <item>
       <title>M1.9 - YUNANISTAN İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -333,27 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.02-07:34:34-39.2195-28.0550-1.7</guid>
       <description>Tarih: 2026.08.02 07:34:34 | Derinlik: 14.3 km | Konum: 39.2195, 28.0550</description>
-    </item>
-
-    <item>
-      <title>M2.1 - BULGARISTAN İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.02-07:31:45-42.1945-26.3253-2.1</guid>
-      <description>Tarih: 2026.08.02 07:31:45 | Derinlik: 7.4 km | Konum: 42.1945, 26.3253</description>
-    </item>
-
-    <item>
-      <title>M1.4 - YALAKKOY-ELBISTAN (KAHRAMANMARAS) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.02-07:31:11-38.2902-37.5067-1.4</guid>
-      <description>Tarih: 2026.08.02 07:31:11 | Derinlik: 18.4 km | Konum: 38.2902, 37.5067</description>
-    </item>
-
-    <item>
-      <title>M1.4 - BEYKONAK-ILGIN (KONYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.02-07:27:07-38.1623-32.0378-1.4</guid>
-      <description>Tarih: 2026.08.02 07:27:07 | Derinlik: 8.8 km | Konum: 38.1623, 32.0378</description>
     </item>
 
 </channel>
