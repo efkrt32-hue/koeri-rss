@@ -4,8 +4,29 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sun, 02 Aug 2026 21:38:13 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 02 Aug 2026 22:39:16 +0000</lastBuildDate>
   
+    <item>
+      <title>M0.9 - KIZILDAM-GORDES (MANISA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.03-00:45:44-38.9613-28.3850-0.9</guid>
+      <description>Tarih: 2026.08.03 00:45:44 | Derinlik: 5.0 km | Konum: 38.9613, 28.3850</description>
+    </item>
+
+    <item>
+      <title>M1.0 - ISKENDERUN KORFEZI (AKDENIZ) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.03-00:43:17-36.7020-35.8710-1.0</guid>
+      <description>Tarih: 2026.08.03 00:43:17 | Derinlik: 41.7 km | Konum: 36.7020, 35.8710</description>
+    </item>
+
+    <item>
+      <title>M1.6 - ORTAKOY-AKCADAG (MALATYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.03-00:38:41-38.3008-37.8152-1.6</guid>
+      <description>Tarih: 2026.08.03 00:38:41 | Derinlik: 7.7 km | Konum: 38.3008, 37.8152</description>
+    </item>
+
     <item>
       <title>M1.6 - MIDILLI ADASI (EGE DENIZI) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -333,27 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.02-11:25:25-37.8738-27.3058-2.4</guid>
       <description>Tarih: 2026.08.02 11:25:25 | Derinlik: 6.1 km | Konum: 37.8738, 27.3058</description>
-    </item>
-
-    <item>
-      <title>M1.4 - KUSADASI (AYDIN) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.02-11:18:38-37.8507-27.2795-1.4</guid>
-      <description>Tarih: 2026.08.02 11:18:38 | Derinlik: 4.5 km | Konum: 37.8507, 27.2795</description>
-    </item>
-
-    <item>
-      <title>M1.0 - KUSADASI KORFEZI (EGE DENIZI) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.02-11:08:29-37.9150-27.2753-1.0</guid>
-      <description>Tarih: 2026.08.02 11:08:29 | Derinlik: 5.3 km | Konum: 37.9150, 27.2753</description>
-    </item>
-
-    <item>
-      <title>M1.5 - HIRKATEPE-BEYPAZARI (ANKARA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.02-11:08:24-40.2113-31.7470-1.5</guid>
-      <description>Tarih: 2026.08.02 11:08:24 | Derinlik: 11.1 km | Konum: 40.2113, 31.7470</description>
     </item>
 
 </channel>
