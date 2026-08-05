@@ -4,8 +4,22 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Wed, 05 Aug 2026 19:49:59 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 05 Aug 2026 20:57:16 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.2 - BEGRE-DOGANSEHIR (MALATYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.05-23:24:29-38.0623-37.6878-1.2</guid>
+      <description>Tarih: 2026.08.05 23:24:29 | Derinlik: 20.2 km | Konum: 38.0623, 37.6878</description>
+    </item>
+
+    <item>
+      <title>M1.8 - UCAVLU-AKHISAR (MANISA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.05-23:01:33-39.0387-27.6415-1.8</guid>
+      <description>Tarih: 2026.08.05 23:01:33 | Derinlik: 12.4 km | Konum: 39.0387, 27.6415</description>
+    </item>
+
     <item>
       <title>M2.2 - GULPINAR ACIKLARI-CANAKKALE (EGE DENIZI) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -340,20 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.05-01:18:55-39.2458-28.0832-1.2</guid>
       <description>Tarih: 2026.08.05 01:18:55 | Derinlik: 6.6 km | Konum: 39.2458, 28.0832</description>
-    </item>
-
-    <item>
-      <title>M1.8 - SAIMBEYLI (ADANA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.05-00:21:16-37.9802-36.1105-1.8</guid>
-      <description>Tarih: 2026.08.05 00:21:16 | Derinlik: 16.5 km | Konum: 37.9802, 36.1105</description>
-    </item>
-
-    <item>
-      <title>M1.4 - KIRCALAR-BERGAMA (IZMIR) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.04-23:59:18-39.3102-27.3428-1.4</guid>
-      <description>Tarih: 2026.08.04 23:59:18 | Derinlik: 12.4 km | Konum: 39.3102, 27.3428</description>
     </item>
 
 </channel>
