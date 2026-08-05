@@ -4,8 +4,22 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Wed, 05 Aug 2026 16:22:45 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 05 Aug 2026 18:02:23 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.4 - CANAKCI-KALE (MALATYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.05-20:13:30-38.3385-38.7877-1.4</guid>
+      <description>Tarih: 2026.08.05 20:13:30 | Derinlik: 20.9 km | Konum: 38.3385, 38.7877</description>
+    </item>
+
+    <item>
+      <title>M1.5 - HANCERLI-AKCADAG (MALATYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.05-19:28:54-38.3193-37.8423-1.5</guid>
+      <description>Tarih: 2026.08.05 19:28:54 | Derinlik: 13.7 km | Konum: 38.3193, 37.8423</description>
+    </item>
+
     <item>
       <title>M2.1 - ORTAKOY-AKCADAG (MALATYA) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -340,20 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.04-23:12:32-38.9853-27.0798-1.4</guid>
       <description>Tarih: 2026.08.04 23:12:32 | Derinlik: 7.9 km | Konum: 38.9853, 27.0798</description>
-    </item>
-
-    <item>
-      <title>M1.5 - TATILI-SARIOGLAN (KAYSERI) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.04-22:29:59-39.0983-36.0442-1.5</guid>
-      <description>Tarih: 2026.08.04 22:29:59 | Derinlik: 7.6 km | Konum: 39.0983, 36.0442</description>
-    </item>
-
-    <item>
-      <title>M1.6 - GUZELKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.04-21:57:18-40.7167-27.5240-1.6</guid>
-      <description>Tarih: 2026.08.04 21:57:18 | Derinlik: 15.7 km | Konum: 40.7167, 27.5240</description>
     </item>
 
 </channel>
