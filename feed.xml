@@ -4,8 +4,15 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Fri, 07 Aug 2026 17:30:26 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 07 Aug 2026 18:26:22 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.8 - KARAHASAN-MALAZGIRT (MUS) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.07-20:57:39-38.9968-42.6553-1.8</guid>
+      <description>Tarih: 2026.08.07 20:57:39 | Derinlik: 18.4 km | Konum: 38.9968, 42.6553</description>
+    </item>
+
     <item>
       <title>M2.1 - KARAAHMETLI-(MANISA) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -347,13 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.07-04:13:01-38.9160-43.5062-1.4</guid>
       <description>Tarih: 2026.08.07 04:13:01 | Derinlik: 5.0 km | Konum: 38.9160, 43.5062</description>
-    </item>
-
-    <item>
-      <title>M1.4 - KOCKALE-(ELAZIG) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.07-03:37:54-38.5598-39.4887-1.4</guid>
-      <description>Tarih: 2026.08.07 03:37:54 | Derinlik: 9.6 km | Konum: 38.5598, 39.4887</description>
     </item>
 
 </channel>
