@@ -4,8 +4,29 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Fri, 07 Aug 2026 12:25:04 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 07 Aug 2026 13:50:13 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.2 - BEYCE-SIMAV (KUTAHYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.07-16:29:49-39.0912-28.9528-1.2</guid>
+      <description>Tarih: 2026.08.07 16:29:49 | Derinlik: 17.6 km | Konum: 39.0912, 28.9528</description>
+    </item>
+
+    <item>
+      <title>M1.5 - GUNEY (DENIZLI) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.07-15:38:22-38.1742-29.0963-1.5</guid>
+      <description>Tarih: 2026.08.07 15:38:22 | Derinlik: 18.5 km | Konum: 38.1742, 29.0963</description>
+    </item>
+
+    <item>
+      <title>M1.8 - TOKAT-HISARCIK (KUTAHYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.07-15:34:40-39.2077-29.0775-1.8</guid>
+      <description>Tarih: 2026.08.07 15:34:40 | Derinlik: 13.7 km | Konum: 39.2077, 29.0775</description>
+    </item>
+
     <item>
       <title>M2.0 - TATLAR-NURHAK (KAHRAMANMARAS) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -333,27 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.06-22:15:26-38.5130-31.2697-1.9</guid>
       <description>Tarih: 2026.08.06 22:15:26 | Derinlik: 5.4 km | Konum: 38.5130, 31.2697</description>
-    </item>
-
-    <item>
-      <title>M1.6 - BEGRE-DOGANSEHIR (MALATYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.06-22:02:32-38.0683-37.6552-1.6</guid>
-      <description>Tarih: 2026.08.06 22:02:32 | Derinlik: 14.0 km | Konum: 38.0683, 37.6552</description>
-    </item>
-
-    <item>
-      <title>M1.2 - ORENCIK-DOGANSEHIR (MALATYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.06-21:49:18-37.9578-37.7547-1.2</guid>
-      <description>Tarih: 2026.08.06 21:49:18 | Derinlik: 15.6 km | Konum: 37.9578, 37.7547</description>
-    </item>
-
-    <item>
-      <title>M1.5 - TASOLUK-GOKSUN (KAHRAMANMARAS) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.06-21:03:59-37.9658-36.4537-1.5</guid>
-      <description>Tarih: 2026.08.06 21:03:59 | Derinlik: 14.8 km | Konum: 37.9658, 36.4537</description>
     </item>
 
 </channel>
