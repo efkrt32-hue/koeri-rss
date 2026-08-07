@@ -4,8 +4,29 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Fri, 07 Aug 2026 23:09:03 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 07 Aug 2026 23:48:16 +0000</lastBuildDate>
   
+    <item>
+      <title>M2.1 - CATALELMA-SENKAYA (ERZURUM) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.08-02:19:46-40.4658-42.3583-2.1</guid>
+      <description>Tarih: 2026.08.08 02:19:46 | Derinlik: 5.6 km | Konum: 40.4658, 42.3583</description>
+    </item>
+
+    <item>
+      <title>M1.8 - YENILER-SIMAV (KUTAHYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.08-02:06:47-39.2328-28.9437-1.8</guid>
+      <description>Tarih: 2026.08.08 02:06:47 | Derinlik: 6.8 km | Konum: 39.2328, 28.9437</description>
+    </item>
+
+    <item>
+      <title>M1.8 - KUSTULLU-ERDEMLI (MERSIN) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.08-01:56:43-36.6775-34.1155-1.8</guid>
+      <description>Tarih: 2026.08.08 01:56:43 | Derinlik: 7.9 km | Konum: 36.6775, 34.1155</description>
+    </item>
+
     <item>
       <title>M1.4 - KIZILAGIL-(BOLU) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -333,27 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.07-12:03:01-36.0105-34.5100-3.5</guid>
       <description>Tarih: 2026.08.07 12:03:01 | Derinlik: 23.2 km | Konum: 36.0105, 34.5100</description>
-    </item>
-
-    <item>
-      <title>M2.4 - CARDAK (DENIZLI) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.07-11:26:07-37.8282-29.6855-2.4</guid>
-      <description>Tarih: 2026.08.07 11:26:07 | Derinlik: 7.9 km | Konum: 37.8282, 29.6855</description>
-    </item>
-
-    <item>
-      <title>M1.2 - KURTULMUS-AKHISAR (MANISA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.07-11:11:14-39.1072-27.9723-1.2</guid>
-      <description>Tarih: 2026.08.07 11:11:14 | Derinlik: 5.3 km | Konum: 39.1072, 27.9723</description>
-    </item>
-
-    <item>
-      <title>M2.1 - CALIKLAR-KEMAH (ERZINCAN) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.07-11:07:05-39.8510-39.0982-2.1</guid>
-      <description>Tarih: 2026.08.07 11:07:05 | Derinlik: 7.7 km | Konum: 39.8510, 39.0982</description>
     </item>
 
 </channel>
