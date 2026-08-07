@@ -4,13 +4,34 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Fri, 07 Aug 2026 16:34:39 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 07 Aug 2026 17:30:26 +0000</lastBuildDate>
   
+    <item>
+      <title>M2.1 - KARAAHMETLI-(MANISA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.07-20:04:00-38.8530-27.1695-2.1</guid>
+      <description>Tarih: 2026.08.07 20:04:00 | Derinlik: 7.9 km | Konum: 38.8530, 27.1695</description>
+    </item>
+
+    <item>
+      <title>M1.4 - KURTULUS-SILIFKE (MERSIN) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.07-19:40:49-36.2627-34.0232-1.4</guid>
+      <description>Tarih: 2026.08.07 19:40:49 | Derinlik: 8.8 km | Konum: 36.2627, 34.0232</description>
+    </item>
+
     <item>
       <title>M1.4 - KABAAGAC-SARAYKOY (DENIZLI) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.07-18:54:44-37.9267-28.8045-1.4</guid>
       <description>Tarih: 2026.08.07 18:54:44 | Derinlik: 1.7 km | Konum: 37.9267, 28.8045</description>
+    </item>
+
+    <item>
+      <title>M2.0 - GURCISTAN İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.07-18:41:44-41.3290-44.0138-2.0</guid>
+      <description>Tarih: 2026.08.07 18:41:44 | Derinlik: 5.0 km | Konum: 41.3290, 44.0138</description>
     </item>
 
     <item>
@@ -333,27 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.07-03:37:54-38.5598-39.4887-1.4</guid>
       <description>Tarih: 2026.08.07 03:37:54 | Derinlik: 9.6 km | Konum: 38.5598, 39.4887</description>
-    </item>
-
-    <item>
-      <title>M1.3 - BAYRAKLI-SINDIRGI (BALIKESIR) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.07-03:01:19-39.1537-28.2190-1.3</guid>
-      <description>Tarih: 2026.08.07 03:01:19 | Derinlik: 15.6 km | Konum: 39.1537, 28.2190</description>
-    </item>
-
-    <item>
-      <title>M1.5 - MOLLASAKIR-KARLIOVA (BINGOL) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.07-02:42:39-39.3813-41.1540-1.5</guid>
-      <description>Tarih: 2026.08.07 02:42:39 | Derinlik: 13.6 km | Konum: 39.3813, 41.1540</description>
-    </item>
-
-    <item>
-      <title>M1.5 - ORTAMANDIRA-(BALIKESIR) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.07-01:54:47-39.6168-27.7963-1.5</guid>
-      <description>Tarih: 2026.08.07 01:54:47 | Derinlik: 15.1 km | Konum: 39.6168, 27.7963</description>
     </item>
 
 </channel>
