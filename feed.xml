@@ -4,8 +4,15 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sat, 08 Aug 2026 12:17:42 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 08 Aug 2026 13:22:25 +0000</lastBuildDate>
   
+    <item>
+      <title>M2.2 - AGACLIPINAR-KURTALAN (SIIRT) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.08-15:53:35-37.8877-41.7123-2.2</guid>
+      <description>Tarih: 2026.08.08 15:53:35 | Derinlik: 8.1 km | Konum: 37.8877, 41.7123</description>
+    </item>
+
     <item>
       <title>M2.1 - YUNANISTAN İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -347,13 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.08-04:16:11-39.0583-28.2927-0.9</guid>
       <description>Tarih: 2026.08.08 04:16:11 | Derinlik: 14.5 km | Konum: 39.0583, 28.2927</description>
-    </item>
-
-    <item>
-      <title>M1.1 - HAMZABEY-SIMAV (KUTAHYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.08-03:39:52-39.2068-28.9573-1.1</guid>
-      <description>Tarih: 2026.08.08 03:39:52 | Derinlik: 18.9 km | Konum: 39.2068, 28.9573</description>
     </item>
 
 </channel>
