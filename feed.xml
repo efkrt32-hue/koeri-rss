@@ -4,13 +4,20 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sat, 08 Aug 2026 13:22:25 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 08 Aug 2026 14:05:01 +0000</lastBuildDate>
   
     <item>
       <title>M2.2 - AGACLIPINAR-KURTALAN (SIIRT) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.08-15:53:35-37.8877-41.7123-2.2</guid>
       <description>Tarih: 2026.08.08 15:53:35 | Derinlik: 8.1 km | Konum: 37.8877, 41.7123</description>
+    </item>
+
+    <item>
+      <title>M1.5 - KOBAKLAR-GORDES (MANISA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.08-15:25:56-39.0742-28.3553-1.5</guid>
+      <description>Tarih: 2026.08.08 15:25:56 | Derinlik: 5.4 km | Konum: 39.0742, 28.3553</description>
     </item>
 
     <item>
@@ -347,13 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.08-04:31:54-36.9520-28.2965-1.5</guid>
       <description>Tarih: 2026.08.08 04:31:54 | Derinlik: 10.4 km | Konum: 36.9520, 28.2965</description>
-    </item>
-
-    <item>
-      <title>M0.9 - MALAZ-GORDES (MANISA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.08-04:16:11-39.0583-28.2927-0.9</guid>
-      <description>Tarih: 2026.08.08 04:16:11 | Derinlik: 14.5 km | Konum: 39.0583, 28.2927</description>
     </item>
 
 </channel>
