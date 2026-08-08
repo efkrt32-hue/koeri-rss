@@ -4,8 +4,15 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sat, 08 Aug 2026 14:05:01 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 08 Aug 2026 14:47:22 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.8 - ISIKLAR-KIRKAGAC (MANISA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.08-17:10:53-39.1515-27.8487-1.8</guid>
+      <description>Tarih: 2026.08.08 17:10:53 | Derinlik: 7.4 km | Konum: 39.1515, 27.8487</description>
+    </item>
+
     <item>
       <title>M2.2 - AGACLIPINAR-KURTALAN (SIIRT) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -347,13 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.08-04:41:27-39.9348-24.3495-0.8</guid>
       <description>Tarih: 2026.08.08 04:41:27 | Derinlik: 13.3 km | Konum: 39.9348, 24.3495</description>
-    </item>
-
-    <item>
-      <title>M1.5 - CAMLI-MARMARIS (MUGLA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.08-04:31:54-36.9520-28.2965-1.5</guid>
-      <description>Tarih: 2026.08.08 04:31:54 | Derinlik: 10.4 km | Konum: 36.9520, 28.2965</description>
     </item>
 
 </channel>
