@@ -4,8 +4,29 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sat, 08 Aug 2026 22:13:03 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 08 Aug 2026 22:49:55 +0000</lastBuildDate>
   
+    <item>
+      <title>M2.1 - BAGLICAY-GURUN (SIVAS) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.09-01:17:15-38.8055-37.4457-2.1</guid>
+      <description>Tarih: 2026.08.09 01:17:15 | Derinlik: 5.0 km | Konum: 38.8055, 37.4457</description>
+    </item>
+
+    <item>
+      <title>M1.1 - ORTAKOY-AKCADAG (MALATYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.09-01:12:56-38.3113-37.8162-1.1</guid>
+      <description>Tarih: 2026.08.09 01:12:56 | Derinlik: 13.4 km | Konum: 38.3113, 37.8162</description>
+    </item>
+
+    <item>
+      <title>M2.0 - KAHYALI-AKCADAG (MALATYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.09-01:08:41-38.3178-37.8233-2.0</guid>
+      <description>Tarih: 2026.08.09 01:08:41 | Derinlik: 4.7 km | Konum: 38.3178, 37.8233</description>
+    </item>
+
     <item>
       <title>M2.6 - BORABOY-TASOVA (AMASYA) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -333,27 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.08-09:48:51-39.1750-28.2252-3.2</guid>
       <description>Tarih: 2026.08.08 09:48:51 | Derinlik: 14.6 km | Konum: 39.1750, 28.2252</description>
-    </item>
-
-    <item>
-      <title>M2.2 - MILLI PARK-KUSADASI (AYDIN) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.08-09:48:04-37.6922-27.0305-2.2</guid>
-      <description>Tarih: 2026.08.08 09:48:04 | Derinlik: 5.5 km | Konum: 37.6922, 27.0305</description>
-    </item>
-
-    <item>
-      <title>M1.6 - IRMAKLI-MUT (MERSIN) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.08-09:45:01-36.5678-33.4163-1.6</guid>
-      <description>Tarih: 2026.08.08 09:45:01 | Derinlik: 28.4 km | Konum: 36.5678, 33.4163</description>
-    </item>
-
-    <item>
-      <title>M2.1 - YUNANISTAN İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.08-09:39:35-39.3817-23.5690-2.1</guid>
-      <description>Tarih: 2026.08.08 09:39:35 | Derinlik: 5.6 km | Konum: 39.3817, 23.5690</description>
     </item>
 
 </channel>
