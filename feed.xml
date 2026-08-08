@@ -4,8 +4,15 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sat, 08 Aug 2026 19:57:44 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 08 Aug 2026 20:39:52 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.5 - AKTAS-SINDIRGI (BALIKESIR) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.08-22:46:34-39.1555-28.1770-1.5</guid>
+      <description>Tarih: 2026.08.08 22:46:34 | Derinlik: 9.6 km | Konum: 39.1555, 28.1770</description>
+    </item>
+
     <item>
       <title>M2.1 - TASBURUN-ELBISTAN (KAHRAMANMARAS) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -347,13 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.08-09:25:19-36.6913-25.6087-1.6</guid>
       <description>Tarih: 2026.08.08 09:25:19 | Derinlik: 2.9 km | Konum: 36.6913, 25.6087</description>
-    </item>
-
-    <item>
-      <title>M2.2 - GIRIT ADASI ACIKLARI (AKDENIZ) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.08-08:47:53-34.9012-26.0858-2.2</guid>
-      <description>Tarih: 2026.08.08 08:47:53 | Derinlik: 5.0 km | Konum: 34.9012, 26.0858</description>
     </item>
 
 </channel>
