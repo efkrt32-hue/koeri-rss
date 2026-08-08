@@ -4,8 +4,22 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sat, 08 Aug 2026 14:47:22 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 08 Aug 2026 15:14:29 +0000</lastBuildDate>
   
+    <item>
+      <title>M3.0 - YUNANISTAN İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.08-17:43:43-40.0868-23.2087-3.0</guid>
+      <description>Tarih: 2026.08.08 17:43:43 | Derinlik: 11.7 km | Konum: 40.0868, 23.2087</description>
+    </item>
+
+    <item>
+      <title>M1.2 - CAVUSLU-DOGANSEHIR (MALATYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.08-17:21:34-38.1497-37.7462-1.2</guid>
+      <description>Tarih: 2026.08.08 17:21:34 | Derinlik: 31.6 km | Konum: 38.1497, 37.7462</description>
+    </item>
+
     <item>
       <title>M1.8 - ISIKLAR-KIRKAGAC (MANISA) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -340,20 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.08-05:00:15-36.5018-32.1210-0.9</guid>
       <description>Tarih: 2026.08.08 05:00:15 | Derinlik: 28.1 km | Konum: 36.5018, 32.1210</description>
-    </item>
-
-    <item>
-      <title>M2.9 - KARAKESE-(AMASYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.08-04:49:14-40.8268-35.9620-2.9</guid>
-      <description>Tarih: 2026.08.08 04:49:14 | Derinlik: 6.6 km | Konum: 40.8268, 35.9620</description>
-    </item>
-
-    <item>
-      <title>M0.8 - YUNANISTAN İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.08-04:41:27-39.9348-24.3495-0.8</guid>
-      <description>Tarih: 2026.08.08 04:41:27 | Derinlik: 13.3 km | Konum: 39.9348, 24.3495</description>
     </item>
 
 </channel>
