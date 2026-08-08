@@ -4,8 +4,15 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sat, 08 Aug 2026 19:30:28 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 08 Aug 2026 19:57:44 +0000</lastBuildDate>
   
+    <item>
+      <title>M2.1 - TASBURUN-ELBISTAN (KAHRAMANMARAS) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.08-22:37:47-38.1625-37.2643-2.1</guid>
+      <description>Tarih: 2026.08.08 22:37:47 | Derinlik: 2.5 km | Konum: 38.1625, 37.2643</description>
+    </item>
+
     <item>
       <title>M2.5 - CATKOSEDAG-ELESKIRT (AGRI) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -347,13 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.08-08:47:53-34.9012-26.0858-2.2</guid>
       <description>Tarih: 2026.08.08 08:47:53 | Derinlik: 5.0 km | Konum: 34.9012, 26.0858</description>
-    </item>
-
-    <item>
-      <title>M1.9 - BERGAMA (IZMIR) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.08-08:47:15-39.1062-27.1885-1.9</guid>
-      <description>Tarih: 2026.08.08 08:47:15 | Derinlik: 14.1 km | Konum: 39.1062, 27.1885</description>
     </item>
 
 </channel>
