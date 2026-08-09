@@ -4,8 +4,29 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sun, 09 Aug 2026 12:22:45 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 09 Aug 2026 13:30:10 +0000</lastBuildDate>
   
+    <item>
+      <title>M2.4 - MEHMETDEDEOBRUGU-DODURGA (CORUM) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.09-15:41:18-40.8135-34.7982-2.4</guid>
+      <description>Tarih: 2026.08.09 15:41:18 | Derinlik: 6.8 km | Konum: 40.8135, 34.7982</description>
+    </item>
+
+    <item>
+      <title>M1.9 - GULUMUSAGI-(MALATYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.09-15:31:17-38.2207-38.5068-1.9</guid>
+      <description>Tarih: 2026.08.09 15:31:17 | Derinlik: 4.7 km | Konum: 38.2207, 38.5068</description>
+    </item>
+
+    <item>
+      <title>M1.8 - BEGRE-DOGANSEHIR (MALATYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.09-15:13:14-38.0370-37.6553-1.8</guid>
+      <description>Tarih: 2026.08.09 15:13:14 | Derinlik: 8.8 km | Konum: 38.0370, 37.6553</description>
+    </item>
+
     <item>
       <title>M3.5 - KAZANDERE-GOKSUN (KAHRAMANMARAS) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -333,27 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.09-01:17:15-38.8055-37.4457-2.1</guid>
       <description>Tarih: 2026.08.09 01:17:15 | Derinlik: 5.0 km | Konum: 38.8055, 37.4457</description>
-    </item>
-
-    <item>
-      <title>M1.1 - ORTAKOY-AKCADAG (MALATYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.09-01:12:56-38.3113-37.8162-1.1</guid>
-      <description>Tarih: 2026.08.09 01:12:56 | Derinlik: 13.4 km | Konum: 38.3113, 37.8162</description>
-    </item>
-
-    <item>
-      <title>M2.0 - KAHYALI-AKCADAG (MALATYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.09-01:08:41-38.3178-37.8233-2.0</guid>
-      <description>Tarih: 2026.08.09 01:08:41 | Derinlik: 4.7 km | Konum: 38.3178, 37.8233</description>
-    </item>
-
-    <item>
-      <title>M2.6 - BORABOY-TASOVA (AMASYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.09-00:35:00-40.8150-36.2033-2.6</guid>
-      <description>Tarih: 2026.08.09 00:35:00 | Derinlik: 9.0 km | Konum: 40.8150, 36.2033</description>
     </item>
 
 </channel>
