@@ -4,8 +4,22 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Mon, 10 Aug 2026 20:58:09 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 10 Aug 2026 21:51:43 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.8 - GOKCE-ULA (MUGLA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.11-00:25:15-36.9955-28.3518-1.8</guid>
+      <description>Tarih: 2026.08.11 00:25:15 | Derinlik: 7.3 km | Konum: 36.9955, 28.3518</description>
+    </item>
+
+    <item>
+      <title>M2.3 - GIRIT ADASI ACIKLARI (AKDENIZ) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.11-00:04:55-34.2822-25.5828-2.3</guid>
+      <description>Tarih: 2026.08.11 00:04:55 | Derinlik: 5.6 km | Konum: 34.2822, 25.5828</description>
+    </item>
+
     <item>
       <title>M2.1 - DINARBEY-YEDISU (BINGOL) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -340,20 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.10-05:39:38-39.8897-41.0840-1.1</guid>
       <description>Tarih: 2026.08.10 05:39:38 | Derinlik: 23.7 km | Konum: 39.8897, 41.0840</description>
-    </item>
-
-    <item>
-      <title>M1.4 - SENKOY-CINARCIK (YALOVA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.10-05:06:08-40.6647-28.9942-1.4</guid>
-      <description>Tarih: 2026.08.10 05:06:08 | Derinlik: 6.3 km | Konum: 40.6647, 28.9942</description>
-    </item>
-
-    <item>
-      <title>M2.5 - GIRIT ADASI ACIKLARI (AKDENIZ) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.10-05:04:15-34.6397-24.9700-2.5</guid>
-      <description>Tarih: 2026.08.10 05:04:15 | Derinlik: 7.8 km | Konum: 34.6397, 24.9700</description>
     </item>
 
 </channel>
