@@ -4,8 +4,22 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Mon, 10 Aug 2026 23:52:40 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 11 Aug 2026 01:27:07 +0000</lastBuildDate>
   
+    <item>
+      <title>M2.8 - EGE DENIZI İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.11-03:25:52-38.5978-25.1185-2.8</guid>
+      <description>Tarih: 2026.08.11 03:25:52 | Derinlik: 7.9 km | Konum: 38.5978, 25.1185</description>
+    </item>
+
+    <item>
+      <title>M1.7 - KUYUCAK-BEYPAZARI (ANKARA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.11-03:14:40-40.1647-31.7973-1.7</guid>
+      <description>Tarih: 2026.08.11 03:14:40 | Derinlik: 5.2 km | Konum: 40.1647, 31.7973</description>
+    </item>
+
     <item>
       <title>M1.3 - GOZPINAR-NIKSAR (TOKAT) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -340,20 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.10-09:04:51-38.3307-37.8483-1.9</guid>
       <description>Tarih: 2026.08.10 09:04:51 | Derinlik: 12.8 km | Konum: 38.3307, 37.8483</description>
-    </item>
-
-    <item>
-      <title>M1.9 - KARAGUR-SINDIRGI (BALIKESIR) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.10-08:50:35-39.2522-28.1163-1.9</guid>
-      <description>Tarih: 2026.08.10 08:50:35 | Derinlik: 4.3 km | Konum: 39.2522, 28.1163</description>
-    </item>
-
-    <item>
-      <title>M2.0 - PIRAHMETLER-(BOLU) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.10-08:39:48-40.7608-31.5485-2.0</guid>
-      <description>Tarih: 2026.08.10 08:39:48 | Derinlik: 3.3 km | Konum: 40.7608, 31.5485</description>
     </item>
 
 </channel>
