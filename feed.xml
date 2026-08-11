@@ -4,8 +4,29 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Tue, 11 Aug 2026 14:30:45 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 11 Aug 2026 15:32:02 +0000</lastBuildDate>
   
+    <item>
+      <title>M3.1 - KERTIL-SINDIRGI (BALIKESIR) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.11-17:42:13-39.1987-28.0880-3.1</guid>
+      <description>Tarih: 2026.08.11 17:42:13 | Derinlik: 8.9 km | Konum: 39.1987, 28.0880</description>
+    </item>
+
+    <item>
+      <title>M1.5 - KOCYOLU-BASKIL (ELAZIG) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.11-17:21:52-38.5770-38.7628-1.5</guid>
+      <description>Tarih: 2026.08.11 17:21:52 | Derinlik: 5.3 km | Konum: 38.5770, 38.7628</description>
+    </item>
+
+    <item>
+      <title>M1.6 - OMERALTI-MUSTAFAKEMALPASA (BURSA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.11-17:07:32-39.9908-28.8142-1.6</guid>
+      <description>Tarih: 2026.08.11 17:07:32 | Derinlik: 0.0 km | Konum: 39.9908, 28.8142</description>
+    </item>
+
     <item>
       <title>M1.3 - HACIBUDAK-(KAHRAMANMARAS) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -333,27 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.11-00:04:55-34.2822-25.5828-2.3</guid>
       <description>Tarih: 2026.08.11 00:04:55 | Derinlik: 5.6 km | Konum: 34.2822, 25.5828</description>
-    </item>
-
-    <item>
-      <title>M2.1 - DINARBEY-YEDISU (BINGOL) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.10-23:27:45-39.3685-40.6778-2.1</guid>
-      <description>Tarih: 2026.08.10 23:27:45 | Derinlik: 4.5 km | Konum: 39.3685, 40.6778</description>
-    </item>
-
-    <item>
-      <title>M2.8 - AYVACIK-SAIMBEYLI (ADANA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.10-23:03:28-37.7532-36.1185-2.8</guid>
-      <description>Tarih: 2026.08.10 23:03:28 | Derinlik: 5.0 km | Konum: 37.7532, 36.1185</description>
-    </item>
-
-    <item>
-      <title>M2.1 - PINARHUYUK-TURKOGLU (KAHRAMANMARAS) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.10-22:57:25-37.3790-36.9780-2.1</guid>
-      <description>Tarih: 2026.08.10 22:57:25 | Derinlik: 1.7 km | Konum: 37.3790, 36.9780</description>
     </item>
 
 </channel>
