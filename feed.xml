@@ -4,7 +4,7 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Tue, 11 Aug 2026 16:29:26 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 11 Aug 2026 17:33:01 +0000</lastBuildDate>
   
     <item>
       <title>M1.7 - OLUKLU-YESILYURT (MALATYA) İlksel</title>
@@ -42,6 +42,13 @@
     </item>
 
     <item>
+      <title>M2.1 - AKDENIZ İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.11-17:45:00-35.4377-31.9655-2.1</guid>
+      <description>Tarih: 2026.08.11 17:45:00 | Derinlik: 9.2 km | Konum: 35.4377, 31.9655</description>
+    </item>
+
+    <item>
       <title>M3.1 - KERTIL-SINDIRGI (BALIKESIR) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.11-17:42:13-39.1987-28.0880-3.1</guid>
@@ -53,6 +60,13 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.11-17:21:52-38.5770-38.7628-1.5</guid>
       <description>Tarih: 2026.08.11 17:21:52 | Derinlik: 5.3 km | Konum: 38.5770, 38.7628</description>
+    </item>
+
+    <item>
+      <title>M1.2 - YESILUZUMLU-FETHIYE (MUGLA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.11-17:19:06-36.7163-29.2698-1.2</guid>
+      <description>Tarih: 2026.08.11 17:19:06 | Derinlik: 18.1 km | Konum: 36.7163, 29.2698</description>
     </item>
 
     <item>
@@ -340,20 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.11-02:09:34-38.5313-31.7988-1.1</guid>
       <description>Tarih: 2026.08.11 02:09:34 | Derinlik: 24.5 km | Konum: 38.5313, 31.7988</description>
-    </item>
-
-    <item>
-      <title>M1.2 - CAVUSLU-DOGANSEHIR (MALATYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.11-02:00:57-38.1523-37.7633-1.2</guid>
-      <description>Tarih: 2026.08.11 02:00:57 | Derinlik: 15.3 km | Konum: 38.1523, 37.7633</description>
-    </item>
-
-    <item>
-      <title>M1.4 - KARAKUZU-ALIAGA (IZMIR) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.11-01:58:04-38.7470-27.1358-1.4</guid>
-      <description>Tarih: 2026.08.11 01:58:04 | Derinlik: 5.4 km | Konum: 38.7470, 27.1358</description>
     </item>
 
 </channel>
