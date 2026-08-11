@@ -4,8 +4,15 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Tue, 11 Aug 2026 11:04:58 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 11 Aug 2026 11:53:54 +0000</lastBuildDate>
   
+    <item>
+      <title>M2.1 - KARAOMER-GOKSUN (KAHRAMANMARAS) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.11-14:03:34-38.0933-36.6863-2.1</guid>
+      <description>Tarih: 2026.08.11 14:03:34 | Derinlik: 9.0 km | Konum: 38.0933, 36.6863</description>
+    </item>
+
     <item>
       <title>M0.8 - PIRINCCI-EYUP (ISTANBUL) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -347,13 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.10-22:35:23-36.5175-28.7408-3.5</guid>
       <description>Tarih: 2026.08.10 22:35:23 | Derinlik: 28.8 km | Konum: 36.5175, 28.7408</description>
-    </item>
-
-    <item>
-      <title>M1.2 - DUTLUCA-GORDES (MANISA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.10-22:22:13-39.0770-28.2722-1.2</guid>
-      <description>Tarih: 2026.08.10 22:22:13 | Derinlik: 14.0 km | Konum: 39.0770, 28.2722</description>
     </item>
 
 </channel>
