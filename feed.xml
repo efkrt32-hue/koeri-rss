@@ -4,8 +4,22 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Wed, 12 Aug 2026 17:42:50 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 12 Aug 2026 18:39:10 +0000</lastBuildDate>
   
+    <item>
+      <title>M3.5 - ICME-(ELAZIG) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.12-20:40:11-38.6137-39.5460-3.5</guid>
+      <description>Tarih: 2026.08.12 20:40:11 | Derinlik: 5.5 km | Konum: 38.6137, 39.5460</description>
+    </item>
+
+    <item>
+      <title>M1.6 - YAYLACIK-SINDIRGI (BALIKESIR) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.12-18:34:30-39.1953-28.1577-1.6</guid>
+      <description>Tarih: 2026.08.12 18:34:30 | Derinlik: 15.7 km | Konum: 39.1953, 28.1577</description>
+    </item>
+
     <item>
       <title>M2.3 - BABAKALE-AYVACIK (CANAKKALE) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -340,20 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.11-21:58:09-35.3737-27.2778-2.3</guid>
       <description>Tarih: 2026.08.11 21:58:09 | Derinlik: 7.3 km | Konum: 35.3737, 27.2778</description>
-    </item>
-
-    <item>
-      <title>M1.6 - DUMUKLU-AKCADAG (MALATYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.11-21:24:57-38.3330-37.8500-1.6</guid>
-      <description>Tarih: 2026.08.11 21:24:57 | Derinlik: 14.1 km | Konum: 38.3330, 37.8500</description>
-    </item>
-
-    <item>
-      <title>M1.1 - EGIRLER-SIMAV (KUTAHYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.11-21:04:09-39.2218-28.9990-1.1</guid>
-      <description>Tarih: 2026.08.11 21:04:09 | Derinlik: 2.6 km | Konum: 39.2218, 28.9990</description>
     </item>
 
 </channel>
