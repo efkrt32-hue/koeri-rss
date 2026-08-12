@@ -4,8 +4,29 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Wed, 12 Aug 2026 23:02:20 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 12 Aug 2026 23:54:23 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.4 - SINANDEDE-SINDIRGI (BALIKESIR) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.13-02:21:33-39.1705-28.1613-1.4</guid>
+      <description>Tarih: 2026.08.13 02:21:33 | Derinlik: 8.2 km | Konum: 39.1705, 28.1613</description>
+    </item>
+
+    <item>
+      <title>M1.4 - YAYLABAYIR-SINDIRGI (BALIKESIR) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.13-01:27:16-39.1455-28.4042-1.4</guid>
+      <description>Tarih: 2026.08.13 01:27:16 | Derinlik: 13.7 km | Konum: 39.1455, 28.4042</description>
+    </item>
+
+    <item>
+      <title>M1.9 - YUNANISTAN İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.13-01:25:37-38.9175-23.2425-1.9</guid>
+      <description>Tarih: 2026.08.13 01:25:37 | Derinlik: 12.3 km | Konum: 38.9175, 23.2425</description>
+    </item>
+
     <item>
       <title>M1.2 - KARAKOSE-SINCIK (ADIYAMAN) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -333,27 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.12-04:00:51-38.3147-27.8187-1.8</guid>
       <description>Tarih: 2026.08.12 04:00:51 | Derinlik: 5.1 km | Konum: 38.3147, 27.8187</description>
-    </item>
-
-    <item>
-      <title>M2.0 - SAPCI-SINDIRGI (BALIKESIR) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.12-04:00:09-39.1818-28.4300-2.0</guid>
-      <description>Tarih: 2026.08.12 04:00:09 | Derinlik: 10.6 km | Konum: 39.1818, 28.4300</description>
-    </item>
-
-    <item>
-      <title>M2.2 - SAPCI-SINDIRGI (BALIKESIR) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.12-03:58:28-39.1773-28.4160-2.2</guid>
-      <description>Tarih: 2026.08.12 03:58:28 | Derinlik: 10.7 km | Konum: 39.1773, 28.4160</description>
-    </item>
-
-    <item>
-      <title>M1.7 - DENIZLER-CAL (DENIZLI) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.12-03:30:38-37.9307-29.4580-1.7</guid>
-      <description>Tarih: 2026.08.12 03:30:38 | Derinlik: 16.0 km | Konum: 37.9307, 29.4580</description>
     </item>
 
 </channel>
