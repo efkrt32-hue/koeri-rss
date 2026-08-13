@@ -4,8 +4,29 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Thu, 13 Aug 2026 23:03:13 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 13 Aug 2026 23:54:14 +0000</lastBuildDate>
   
+    <item>
+      <title>M2.5 - YESILYURT-ALTINTAS (KUTAHYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.14-02:10:36-38.9660-29.9607-2.5</guid>
+      <description>Tarih: 2026.08.14 02:10:36 | Derinlik: 6.7 km | Konum: 38.9660, 29.9607</description>
+    </item>
+
+    <item>
+      <title>M3.9 - IRAK İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.14-01:28:02-35.5468-44.9130-3.9</guid>
+      <description>Tarih: 2026.08.14 01:28:02 | Derinlik: 26.8 km | Konum: 35.5468, 44.9130</description>
+    </item>
+
+    <item>
+      <title>M1.5 - HELVA-(BAYBURT) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.14-01:08:24-40.1403-40.4770-1.5</guid>
+      <description>Tarih: 2026.08.14 01:08:24 | Derinlik: 6.5 km | Konum: 40.1403, 40.4770</description>
+    </item>
+
     <item>
       <title>M2.1 - CALIS-ELBISTAN (KAHRAMANMARAS) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -333,27 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.13-06:06:56-39.0740-43.9088-1.7</guid>
       <description>Tarih: 2026.08.13 06:06:56 | Derinlik: 4.4 km | Konum: 39.0740, 43.9088</description>
-    </item>
-
-    <item>
-      <title>M1.4 - YAYLABAYIR-SINDIRGI (BALIKESIR) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.13-05:34:31-39.1255-28.3823-1.4</guid>
-      <description>Tarih: 2026.08.13 05:34:31 | Derinlik: 9.3 km | Konum: 39.1255, 28.3823</description>
-    </item>
-
-    <item>
-      <title>M4.7 - SURIYE İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.13-05:33:54-35.2677-39.9300-4.7</guid>
-      <description>Tarih: 2026.08.13 05:33:54 | Derinlik: 2.3 km | Konum: 35.2677, 39.9300</description>
-    </item>
-
-    <item>
-      <title>M2.2 - YEMISLI-SIMAV (KUTAHYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.13-05:30:16-39.2463-28.9748-2.2</guid>
-      <description>Tarih: 2026.08.13 05:30:16 | Derinlik: 7.2 km | Konum: 39.2463, 28.9748</description>
     </item>
 
 </channel>
