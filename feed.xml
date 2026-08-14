@@ -4,8 +4,29 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Fri, 14 Aug 2026 21:00:34 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 14 Aug 2026 21:34:47 +0000</lastBuildDate>
   
+    <item>
+      <title>M3.7 - EGE DENIZI İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.15-00:01:23-38.8010-25.6850-3.7</guid>
+      <description>Tarih: 2026.08.15 00:01:23 | Derinlik: 5.6 km | Konum: 38.8010, 25.6850</description>
+    </item>
+
+    <item>
+      <title>M1.5 - KERTIL-SINDIRGI (BALIKESIR) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.14-23:53:38-39.1760-28.0927-1.5</guid>
+      <description>Tarih: 2026.08.14 23:53:38 | Derinlik: 9.5 km | Konum: 39.1760, 28.0927</description>
+    </item>
+
+    <item>
+      <title>M1.6 - KAVACIK-DALAMAN (MUGLA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.14-23:06:26-36.8650-29.0130-1.6</guid>
+      <description>Tarih: 2026.08.14 23:06:26 | Derinlik: 9.3 km | Konum: 36.8650, 29.0130</description>
+    </item>
+
     <item>
       <title>M1.6 - POLAT-DOGANSEHIR (MALATYA) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -333,27 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.14-02:10:36-38.9660-29.9607-2.5</guid>
       <description>Tarih: 2026.08.14 02:10:36 | Derinlik: 6.7 km | Konum: 38.9660, 29.9607</description>
-    </item>
-
-    <item>
-      <title>M3.9 - IRAK İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.14-01:28:02-35.5468-44.9130-3.9</guid>
-      <description>Tarih: 2026.08.14 01:28:02 | Derinlik: 26.8 km | Konum: 35.5468, 44.9130</description>
-    </item>
-
-    <item>
-      <title>M1.5 - HELVA-(BAYBURT) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.14-01:08:24-40.1403-40.4770-1.5</guid>
-      <description>Tarih: 2026.08.14 01:08:24 | Derinlik: 6.5 km | Konum: 40.1403, 40.4770</description>
-    </item>
-
-    <item>
-      <title>M2.1 - CALIS-ELBISTAN (KAHRAMANMARAS) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.13-23:53:26-38.1120-37.0193-2.1</guid>
-      <description>Tarih: 2026.08.13 23:53:26 | Derinlik: 2.8 km | Konum: 38.1120, 37.0193</description>
     </item>
 
 </channel>
