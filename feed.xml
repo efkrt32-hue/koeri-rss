@@ -4,8 +4,29 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Fri, 14 Aug 2026 09:42:39 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 14 Aug 2026 10:42:24 +0000</lastBuildDate>
   
+    <item>
+      <title>M0.9 - SULTANUSAGI-BASKIL (ELAZIG) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.14-12:10:15-38.6000-38.9472-0.9</guid>
+      <description>Tarih: 2026.08.14 12:10:15 | Derinlik: 25.8 km | Konum: 38.6000, 38.9472</description>
+    </item>
+
+    <item>
+      <title>M1.5 - YUNANISTAN İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.14-11:48:27-40.2575-24.1123-1.5</guid>
+      <description>Tarih: 2026.08.14 11:48:27 | Derinlik: 3.8 km | Konum: 40.2575, 24.1123</description>
+    </item>
+
+    <item>
+      <title>M1.5 - UCUYUK-ALTINTAS (KUTAHYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.14-10:55:06-39.1242-30.0460-1.5</guid>
+      <description>Tarih: 2026.08.14 10:55:06 | Derinlik: 12.0 km | Konum: 39.1242, 30.0460</description>
+    </item>
+
     <item>
       <title>M1.8 - KUCUKYAPALAK-ELBISTAN (KAHRAMANMARAS) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -333,27 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.13-18:15:39-36.9800-30.4010-1.6</guid>
       <description>Tarih: 2026.08.13 18:15:39 | Derinlik: 11.6 km | Konum: 36.9800, 30.4010</description>
-    </item>
-
-    <item>
-      <title>M1.7 - GUZLE-KORKUTELI (ANTALYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.13-17:58:54-36.9390-30.3747-1.7</guid>
-      <description>Tarih: 2026.08.13 17:58:54 | Derinlik: 13.0 km | Konum: 36.9390, 30.3747</description>
-    </item>
-
-    <item>
-      <title>M1.8 - SOGUTCUK-KORKUTELI (ANTALYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.13-17:53:20-36.9640-30.3712-1.8</guid>
-      <description>Tarih: 2026.08.13 17:53:20 | Derinlik: 12.9 km | Konum: 36.9640, 30.3712</description>
-    </item>
-
-    <item>
-      <title>M1.8 - OVACIK-KIRAZ (IZMIR) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.13-17:44:43-38.3452-28.2145-1.8</guid>
-      <description>Tarih: 2026.08.13 17:44:43 | Derinlik: 4.8 km | Konum: 38.3452, 28.2145</description>
     </item>
 
 </channel>
