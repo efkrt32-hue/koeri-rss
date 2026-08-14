@@ -4,8 +4,29 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Fri, 14 Aug 2026 10:42:24 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 14 Aug 2026 11:31:48 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.2 - KAYRAK-GULNAR (MERSIN) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.14-13:26:31-36.3653-33.5392-1.2</guid>
+      <description>Tarih: 2026.08.14 13:26:31 | Derinlik: 0.0 km | Konum: 36.3653, 33.5392</description>
+    </item>
+
+    <item>
+      <title>M1.9 - KERTIL-SINDIRGI (BALIKESIR) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.14-13:21:18-39.1932-28.0952-1.9</guid>
+      <description>Tarih: 2026.08.14 13:21:18 | Derinlik: 12.1 km | Konum: 39.1932, 28.0952</description>
+    </item>
+
+    <item>
+      <title>M1.7 - YAYLACIK-SINDIRGI (BALIKESIR) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.14-12:50:30-39.2102-28.1622-1.7</guid>
+      <description>Tarih: 2026.08.14 12:50:30 | Derinlik: 9.2 km | Konum: 39.2102, 28.1622</description>
+    </item>
+
     <item>
       <title>M0.9 - SULTANUSAGI-BASKIL (ELAZIG) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -333,27 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.13-19:22:06-36.3968-34.8225-2.5</guid>
       <description>Tarih: 2026.08.13 19:22:06 | Derinlik: 12.5 km | Konum: 36.3968, 34.8225</description>
-    </item>
-
-    <item>
-      <title>M2.5 - GIRIT ADASI (AKDENIZ) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.13-18:39:10-35.1795-26.1548-2.5</guid>
-      <description>Tarih: 2026.08.13 18:39:10 | Derinlik: 6.7 km | Konum: 35.1795, 26.1548</description>
-    </item>
-
-    <item>
-      <title>M1.9 - TOPLAMALAR-NURDAGI (GAZIANTEP) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.13-18:29:40-37.0683-36.7800-1.9</guid>
-      <description>Tarih: 2026.08.13 18:29:40 | Derinlik: 5.4 km | Konum: 37.0683, 36.7800</description>
-    </item>
-
-    <item>
-      <title>M1.6 - SOGUTCUK-KORKUTELI (ANTALYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.13-18:15:39-36.9800-30.4010-1.6</guid>
-      <description>Tarih: 2026.08.13 18:15:39 | Derinlik: 11.6 km | Konum: 36.9800, 30.4010</description>
     </item>
 
 </channel>
