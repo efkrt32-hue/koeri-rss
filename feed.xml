@@ -4,8 +4,22 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Fri, 14 Aug 2026 08:37:08 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 14 Aug 2026 09:42:39 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.8 - KUCUKYAPALAK-ELBISTAN (KAHRAMANMARAS) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.14-10:42:07-38.3042-37.2067-1.8</guid>
+      <description>Tarih: 2026.08.14 10:42:07 | Derinlik: 3.8 km | Konum: 38.3042, 37.2067</description>
+    </item>
+
+    <item>
+      <title>M1.5 - KARAGI-AKSU (ISPARTA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.14-10:38:04-37.8292-31.1735-1.5</guid>
+      <description>Tarih: 2026.08.14 10:38:04 | Derinlik: 9.7 km | Konum: 37.8292, 31.1735</description>
+    </item>
+
     <item>
       <title>M1.9 - YOLKURU-DOGANSEHIR (MALATYA) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -340,20 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.13-17:44:43-38.3452-28.2145-1.8</guid>
       <description>Tarih: 2026.08.13 17:44:43 | Derinlik: 4.8 km | Konum: 38.3452, 28.2145</description>
-    </item>
-
-    <item>
-      <title>M1.5 - PINARKOY-MILAS (MUGLA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.13-17:27:24-37.0837-27.9825-1.5</guid>
-      <description>Tarih: 2026.08.13 17:27:24 | Derinlik: 0.0 km | Konum: 37.0837, 27.9825</description>
-    </item>
-
-    <item>
-      <title>M1.8 - HORZUMSAZDERE-ALASEHIR (MANISA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.13-16:08:07-38.3617-28.3620-1.8</guid>
-      <description>Tarih: 2026.08.13 16:08:07 | Derinlik: 5.2 km | Konum: 38.3617, 28.3620</description>
     </item>
 
 </channel>
