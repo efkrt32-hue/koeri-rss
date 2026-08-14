@@ -4,8 +4,29 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Fri, 14 Aug 2026 19:55:27 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 14 Aug 2026 20:35:16 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.6 - POLAT-DOGANSEHIR (MALATYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.14-21:45:07-38.1705-37.8637-1.6</guid>
+      <description>Tarih: 2026.08.14 21:45:07 | Derinlik: 13.3 km | Konum: 38.1705, 37.8637</description>
+    </item>
+
+    <item>
+      <title>M2.0 - BOZBEL-DALAMAN (MUGLA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.14-21:04:37-36.9152-28.9285-2.0</guid>
+      <description>Tarih: 2026.08.14 21:04:37 | Derinlik: 7.9 km | Konum: 36.9152, 28.9285</description>
+    </item>
+
+    <item>
+      <title>M1.6 - DOLMADEGIRMEN-AKHISAR (MANISA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.14-20:36:45-39.1143-27.9245-1.6</guid>
+      <description>Tarih: 2026.08.14 20:36:45 | Derinlik: 11.1 km | Konum: 39.1143, 27.9245</description>
+    </item>
+
     <item>
       <title>M1.6 - YENIKOY-AYVALIK (BALIKESIR) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -333,27 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.13-23:53:26-38.1120-37.0193-2.1</guid>
       <description>Tarih: 2026.08.13 23:53:26 | Derinlik: 2.8 km | Konum: 38.1120, 37.0193</description>
-    </item>
-
-    <item>
-      <title>M1.3 - UGURLU-SINCIK (ADIYAMAN) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.13-23:18:04-38.0877-38.4573-1.3</guid>
-      <description>Tarih: 2026.08.13 23:18:04 | Derinlik: 11.9 km | Konum: 38.0877, 38.4573</description>
-    </item>
-
-    <item>
-      <title>M1.6 - CANAKCI-KALE (MALATYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.13-23:09:48-38.3502-38.7768-1.6</guid>
-      <description>Tarih: 2026.08.13 23:09:48 | Derinlik: 8.6 km | Konum: 38.3502, 38.7768</description>
-    </item>
-
-    <item>
-      <title>M1.4 - SENKOY-CINARCIK (YALOVA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.13-23:07:38-40.6470-29.0055-1.4</guid>
-      <description>Tarih: 2026.08.13 23:07:38 | Derinlik: 13.2 km | Konum: 40.6470, 29.0055</description>
     </item>
 
 </channel>
