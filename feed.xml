@@ -4,8 +4,22 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sat, 15 Aug 2026 21:50:28 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 15 Aug 2026 22:11:55 +0000</lastBuildDate>
   
+    <item>
+      <title>M2.1 - VAN GOLU İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.16-00:39:13-38.6862-43.0248-2.1</guid>
+      <description>Tarih: 2026.08.16 00:39:13 | Derinlik: 1.6 km | Konum: 38.6862, 43.0248</description>
+    </item>
+
+    <item>
+      <title>M1.5 - SEYITUSAGI-YESILYURT (MALATYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.15-23:36:11-38.2803-38.1575-1.5</guid>
+      <description>Tarih: 2026.08.15 23:36:11 | Derinlik: 10.2 km | Konum: 38.2803, 38.1575</description>
+    </item>
+
     <item>
       <title>M2.1 - ORMANICI-SINDIRGI (BALIKESIR) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -340,20 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.15-01:36:38-39.1033-28.2165-2.2</guid>
       <description>Tarih: 2026.08.15 01:36:38 | Derinlik: 8.1 km | Konum: 39.1033, 28.2165</description>
-    </item>
-
-    <item>
-      <title>M2.4 - YEMISLI-SIMAV (KUTAHYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.15-01:14:08-39.2545-28.9752-2.4</guid>
-      <description>Tarih: 2026.08.15 01:14:08 | Derinlik: 5.3 km | Konum: 39.2545, 28.9752</description>
-    </item>
-
-    <item>
-      <title>M1.1 - KARAKOCA-SIMAV (KUTAHYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.15-01:07:44-39.2650-28.9592-1.1</guid>
-      <description>Tarih: 2026.08.15 01:07:44 | Derinlik: 13.5 km | Konum: 39.2650, 28.9592</description>
     </item>
 
 </channel>
