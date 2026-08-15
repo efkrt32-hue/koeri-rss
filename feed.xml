@@ -4,8 +4,15 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sat, 15 Aug 2026 09:35:48 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 15 Aug 2026 09:56:51 +0000</lastBuildDate>
   
+    <item>
+      <title>M2.2 - BOLALAN-TATVAN (BITLIS) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.15-12:22:45-38.4688-42.4628-2.2</guid>
+      <description>Tarih: 2026.08.15 12:22:45 | Derinlik: 5.0 km | Konum: 38.4688, 42.4628</description>
+    </item>
+
     <item>
       <title>M2.1 - AKYURT (ANKARA) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -347,13 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.14-14:14:06-40.8225-34.8578-2.0</guid>
       <description>Tarih: 2026.08.14 14:14:06 | Derinlik: 13.2 km | Konum: 40.8225, 34.8578</description>
-    </item>
-
-    <item>
-      <title>M1.8 - KILLIK-MUSTAFAKEMALPASA (BURSA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.14-14:05:37-40.0482-28.6360-1.8</guid>
-      <description>Tarih: 2026.08.14 14:05:37 | Derinlik: 5.0 km | Konum: 40.0482, 28.6360</description>
     </item>
 
 </channel>
