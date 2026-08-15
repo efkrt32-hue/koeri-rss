@@ -4,8 +4,29 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sat, 15 Aug 2026 11:18:36 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 15 Aug 2026 11:39:45 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.2 - BULGURLU-(MALATYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.15-14:24:30-38.3455-38.4438-1.2</guid>
+      <description>Tarih: 2026.08.15 14:24:30 | Derinlik: 20.5 km | Konum: 38.3455, 38.4438</description>
+    </item>
+
+    <item>
+      <title>M1.4 - KARAOMERLER-SELCUKLU (KONYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.15-13:46:15-38.0955-32.6887-1.4</guid>
+      <description>Tarih: 2026.08.15 13:46:15 | Derinlik: 7.8 km | Konum: 38.0955, 32.6887</description>
+    </item>
+
+    <item>
+      <title>M1.6 - ISIKKARA-(KUTAHYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.15-13:42:51-39.5895-30.0908-1.6</guid>
+      <description>Tarih: 2026.08.15 13:42:51 | Derinlik: 15.2 km | Konum: 39.5895, 30.0908</description>
+    </item>
+
     <item>
       <title>M2.2 - BOLALAN-TATVAN (BITLIS) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -333,27 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.14-16:42:23-39.2108-28.0707-3.1</guid>
       <description>Tarih: 2026.08.14 16:42:23 | Derinlik: 12.9 km | Konum: 39.2108, 28.0707</description>
-    </item>
-
-    <item>
-      <title>M1.8 - HACET-KIRKAGAC (MANISA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.14-15:42:54-39.2110-27.9505-1.8</guid>
-      <description>Tarih: 2026.08.14 15:42:54 | Derinlik: 8.3 km | Konum: 39.2110, 27.9505</description>
-    </item>
-
-    <item>
-      <title>M1.8 - BALCILAR-KOYCEGIZ (MUGLA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.14-14:23:33-37.0903-28.5917-1.8</guid>
-      <description>Tarih: 2026.08.14 14:23:33 | Derinlik: 8.1 km | Konum: 37.0903, 28.5917</description>
-    </item>
-
-    <item>
-      <title>M2.0 - GOKGOZLER-LACIN (CORUM) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.14-14:14:06-40.8225-34.8578-2.0</guid>
-      <description>Tarih: 2026.08.14 14:14:06 | Derinlik: 13.2 km | Konum: 40.8225, 34.8578</description>
     </item>
 
 </channel>
