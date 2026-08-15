@@ -4,8 +4,29 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sat, 15 Aug 2026 05:19:20 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 15 Aug 2026 05:47:07 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.7 - EGE DENIZI İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.15-08:26:21-39.6425-25.7327-1.7</guid>
+      <description>Tarih: 2026.08.15 08:26:21 | Derinlik: 13.6 km | Konum: 39.6425, 25.7327</description>
+    </item>
+
+    <item>
+      <title>M2.4 - EGE DENIZI İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.15-08:20:29-35.8660-27.5908-2.4</guid>
+      <description>Tarih: 2026.08.15 08:20:29 | Derinlik: 11.9 km | Konum: 35.8660, 27.5908</description>
+    </item>
+
+    <item>
+      <title>M3.5 - EGE DENIZI İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.15-08:14:03-35.8882-27.5888-3.5</guid>
+      <description>Tarih: 2026.08.15 08:14:03 | Derinlik: 9.9 km | Konum: 35.8882, 27.5888</description>
+    </item>
+
     <item>
       <title>M2.0 - MANAVGAT ACIKLARI-ANTALYA (AKDENIZ) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -333,27 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.14-12:50:30-39.2102-28.1622-1.7</guid>
       <description>Tarih: 2026.08.14 12:50:30 | Derinlik: 9.2 km | Konum: 39.2102, 28.1622</description>
-    </item>
-
-    <item>
-      <title>M2.4 - HIRKATEPE-BEYPAZARI (ANKARA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.14-12:29:52-40.1947-31.7453-2.4</guid>
-      <description>Tarih: 2026.08.14 12:29:52 | Derinlik: 10.4 km | Konum: 40.1947, 31.7453</description>
-    </item>
-
-    <item>
-      <title>M0.9 - SULTANUSAGI-BASKIL (ELAZIG) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.14-12:10:15-38.6000-38.9472-0.9</guid>
-      <description>Tarih: 2026.08.14 12:10:15 | Derinlik: 25.8 km | Konum: 38.6000, 38.9472</description>
-    </item>
-
-    <item>
-      <title>M1.5 - YUNANISTAN İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.14-11:48:27-40.2575-24.1123-1.5</guid>
-      <description>Tarih: 2026.08.14 11:48:27 | Derinlik: 3.8 km | Konum: 40.2575, 24.1123</description>
     </item>
 
 </channel>
