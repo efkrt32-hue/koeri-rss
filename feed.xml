@@ -4,8 +4,22 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sat, 15 Aug 2026 04:51:32 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 15 Aug 2026 05:19:20 +0000</lastBuildDate>
   
+    <item>
+      <title>M2.0 - MANAVGAT ACIKLARI-ANTALYA (AKDENIZ) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.15-07:53:08-36.6242-31.5040-2.0</guid>
+      <description>Tarih: 2026.08.15 07:53:08 | Derinlik: 114.2 km | Konum: 36.6242, 31.5040</description>
+    </item>
+
+    <item>
+      <title>M1.8 - BAYIR-MARMARIS (MUGLA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.15-07:52:28-36.7098-28.1657-1.8</guid>
+      <description>Tarih: 2026.08.15 07:52:28 | Derinlik: 61.1 km | Konum: 36.7098, 28.1657</description>
+    </item>
+
     <item>
       <title>M1.6 - KARAAGAC-SINDIRGI (BALIKESIR) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -340,20 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.14-11:48:27-40.2575-24.1123-1.5</guid>
       <description>Tarih: 2026.08.14 11:48:27 | Derinlik: 3.8 km | Konum: 40.2575, 24.1123</description>
-    </item>
-
-    <item>
-      <title>M1.5 - UCUYUK-ALTINTAS (KUTAHYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.14-10:55:06-39.1242-30.0460-1.5</guid>
-      <description>Tarih: 2026.08.14 10:55:06 | Derinlik: 12.0 km | Konum: 39.1242, 30.0460</description>
-    </item>
-
-    <item>
-      <title>M1.8 - KUCUKYAPALAK-ELBISTAN (KAHRAMANMARAS) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.14-10:42:07-38.3042-37.2067-1.8</guid>
-      <description>Tarih: 2026.08.14 10:42:07 | Derinlik: 3.8 km | Konum: 38.3042, 37.2067</description>
     </item>
 
 </channel>
