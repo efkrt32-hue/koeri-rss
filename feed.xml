@@ -4,8 +4,15 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sat, 15 Aug 2026 14:21:00 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 15 Aug 2026 14:45:43 +0000</lastBuildDate>
   
+    <item>
+      <title>M2.9 - YUNANISTAN İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.15-17:06:03-40.3247-24.0962-2.9</guid>
+      <description>Tarih: 2026.08.15 17:06:03 | Derinlik: 8.9 km | Konum: 40.3247, 24.0962</description>
+    </item>
+
     <item>
       <title>M1.8 - KOCAKORU-MUSTAFAKEMALPASA (BURSA) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -347,13 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.14-21:45:07-38.1705-37.8637-1.6</guid>
       <description>Tarih: 2026.08.14 21:45:07 | Derinlik: 13.3 km | Konum: 38.1705, 37.8637</description>
-    </item>
-
-    <item>
-      <title>M2.0 - BOZBEL-DALAMAN (MUGLA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.14-21:04:37-36.9152-28.9285-2.0</guid>
-      <description>Tarih: 2026.08.14 21:04:37 | Derinlik: 7.9 km | Konum: 36.9152, 28.9285</description>
     </item>
 
 </channel>
