@@ -4,8 +4,22 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sat, 15 Aug 2026 06:14:08 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 15 Aug 2026 07:01:14 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.5 - POLATDERESI-DOGANSEHIR (MALATYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.15-09:18:53-38.1442-37.9538-1.5</guid>
+      <description>Tarih: 2026.08.15 09:18:53 | Derinlik: 0.0 km | Konum: 38.1442, 37.9538</description>
+    </item>
+
+    <item>
+      <title>M2.5 - HIRKATEPE-BEYPAZARI (ANKARA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.15-09:10:57-40.1638-31.7570-2.5</guid>
+      <description>Tarih: 2026.08.15 09:10:57 | Derinlik: 5.0 km | Konum: 40.1638, 31.7570</description>
+    </item>
+
     <item>
       <title>M2.3 - EGE DENIZI İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -340,20 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.14-13:49:55-37.2710-28.5108-2.4</guid>
       <description>Tarih: 2026.08.14 13:49:55 | Derinlik: 13.2 km | Konum: 37.2710, 28.5108</description>
-    </item>
-
-    <item>
-      <title>M1.2 - KAYRAK-GULNAR (MERSIN) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.14-13:26:31-36.3653-33.5392-1.2</guid>
-      <description>Tarih: 2026.08.14 13:26:31 | Derinlik: 0.0 km | Konum: 36.3653, 33.5392</description>
-    </item>
-
-    <item>
-      <title>M1.9 - KERTIL-SINDIRGI (BALIKESIR) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.14-13:21:18-39.1932-28.0952-1.9</guid>
-      <description>Tarih: 2026.08.14 13:21:18 | Derinlik: 12.1 km | Konum: 39.1932, 28.0952</description>
     </item>
 
 </channel>
