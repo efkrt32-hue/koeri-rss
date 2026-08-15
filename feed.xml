@@ -4,8 +4,29 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sat, 15 Aug 2026 03:48:06 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 15 Aug 2026 04:15:58 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.6 - KARAAGAC-SINDIRGI (BALIKESIR) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.15-06:53:50-39.2982-28.1123-1.6</guid>
+      <description>Tarih: 2026.08.15 06:53:50 | Derinlik: 5.6 km | Konum: 39.2982, 28.1123</description>
+    </item>
+
+    <item>
+      <title>M3.5 - KOCAKORU-MUSTAFAKEMALPASA (BURSA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.15-06:42:14-40.0403-28.6850-3.5</guid>
+      <description>Tarih: 2026.08.15 06:42:14 | Derinlik: 7.0 km | Konum: 40.0403, 28.6850</description>
+    </item>
+
+    <item>
+      <title>M2.7 - KARATERZI-DOGANSEHIR (MALATYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.15-06:38:58-38.1940-37.8720-2.7</guid>
+      <description>Tarih: 2026.08.15 06:38:58 | Derinlik: 2.4 km | Konum: 38.1940, 37.8720</description>
+    </item>
+
     <item>
       <title>M3.0 - DUZLEN-(MANISA) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -333,27 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.14-10:42:07-38.3042-37.2067-1.8</guid>
       <description>Tarih: 2026.08.14 10:42:07 | Derinlik: 3.8 km | Konum: 38.3042, 37.2067</description>
-    </item>
-
-    <item>
-      <title>M1.5 - KARAGI-AKSU (ISPARTA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.14-10:38:04-37.8292-31.1735-1.5</guid>
-      <description>Tarih: 2026.08.14 10:38:04 | Derinlik: 9.7 km | Konum: 37.8292, 31.1735</description>
-    </item>
-
-    <item>
-      <title>M1.9 - YOLKURU-DOGANSEHIR (MALATYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.14-10:12:43-38.1398-37.9005-1.9</guid>
-      <description>Tarih: 2026.08.14 10:12:43 | Derinlik: 8.4 km | Konum: 38.1398, 37.9005</description>
-    </item>
-
-    <item>
-      <title>M2.0 - TEKEDERESI-PUTURGE (MALATYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.14-10:10:07-38.1575-38.6040-2.0</guid>
-      <description>Tarih: 2026.08.14 10:10:07 | Derinlik: 21.7 km | Konum: 38.1575, 38.6040</description>
     </item>
 
 </channel>
