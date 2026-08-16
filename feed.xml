@@ -4,7 +4,7 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sun, 16 Aug 2026 11:49:14 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 16 Aug 2026 12:15:06 +0000</lastBuildDate>
   
     <item>
       <title>M1.8 - CIFTEVI-ORTAKOY (AKSARAY) İlksel</title>
@@ -67,6 +67,13 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.16-13:01:54-39.2350-28.1025-2.5</guid>
       <description>Tarih: 2026.08.16 13:01:54 | Derinlik: 9.7 km | Konum: 39.2350, 28.1025</description>
+    </item>
+
+    <item>
+      <title>M1.3 - MANDIRA-SINDIRGI (BALIKESIR) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.16-12:41:13-39.2218-28.1563-1.3</guid>
+      <description>Tarih: 2026.08.16 12:41:13 | Derinlik: 5.3 km | Konum: 39.2218, 28.1563</description>
     </item>
 
     <item>
@@ -347,13 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.15-14:19:28-40.5502-35.5468-1.5</guid>
       <description>Tarih: 2026.08.15 14:19:28 | Derinlik: 5.2 km | Konum: 40.5502, 35.5468</description>
-    </item>
-
-    <item>
-      <title>M1.4 - KARAOMERLER-SELCUKLU (KONYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.15-13:46:15-38.0955-32.6887-1.4</guid>
-      <description>Tarih: 2026.08.15 13:46:15 | Derinlik: 7.8 km | Konum: 38.0955, 32.6887</description>
     </item>
 
 </channel>
