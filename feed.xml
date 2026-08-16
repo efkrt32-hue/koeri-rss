@@ -4,8 +4,22 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sun, 16 Aug 2026 04:47:06 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 16 Aug 2026 05:14:59 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.1 - COMAKLI-CAN (CANAKKALE) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.16-07:44:32-40.0457-27.1635-1.1</guid>
+      <description>Tarih: 2026.08.16 07:44:32 | Derinlik: 16.3 km | Konum: 40.0457, 27.1635</description>
+    </item>
+
+    <item>
+      <title>M1.4 - KAHYALI-AKCADAG (MALATYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.16-07:29:06-38.3325-37.7950-1.4</guid>
+      <description>Tarih: 2026.08.16 07:29:06 | Derinlik: 8.1 km | Konum: 38.3325, 37.7950</description>
+    </item>
+
     <item>
       <title>M2.0 - SEYHLER-GOYNUCEK (AMASYA) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -340,20 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.15-06:38:58-38.1940-37.8720-2.7</guid>
       <description>Tarih: 2026.08.15 06:38:58 | Derinlik: 2.4 km | Konum: 38.1940, 37.8720</description>
-    </item>
-
-    <item>
-      <title>M3.0 - DUZLEN-(MANISA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.15-06:33:21-38.7590-27.1403-3.0</guid>
-      <description>Tarih: 2026.08.15 06:33:21 | Derinlik: 14.4 km | Konum: 38.7590, 27.1403</description>
-    </item>
-
-    <item>
-      <title>M1.1 - TATLAR-NURHAK (KAHRAMANMARAS) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.15-06:23:18-38.0472-37.4963-1.1</guid>
-      <description>Tarih: 2026.08.15 06:23:18 | Derinlik: 21.0 km | Konum: 38.0472, 37.4963</description>
     </item>
 
 </channel>
