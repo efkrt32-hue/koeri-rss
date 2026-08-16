@@ -4,8 +4,36 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sun, 16 Aug 2026 16:17:37 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 16 Aug 2026 16:45:28 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.7 - GUZELKOY-ISKENDERUN (HATAY) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.16-19:15:18-36.6018-36.2977-1.7</guid>
+      <description>Tarih: 2026.08.16 19:15:18 | Derinlik: 5.0 km | Konum: 36.6018, 36.2977</description>
+    </item>
+
+    <item>
+      <title>M1.6 - ELBISTANHUYUGU-ISLAHIYE (GAZIANTEP) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.16-18:56:04-37.0988-36.7287-1.6</guid>
+      <description>Tarih: 2026.08.16 18:56:04 | Derinlik: 10.9 km | Konum: 37.0988, 36.7287</description>
+    </item>
+
+    <item>
+      <title>M1.5 - KIZILAGIL-(BOLU) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.16-18:47:31-40.7652-31.5293-1.5</guid>
+      <description>Tarih: 2026.08.16 18:47:31 | Derinlik: 12.7 km | Konum: 40.7652, 31.5293</description>
+    </item>
+
+    <item>
+      <title>M1.7 - SAHINKAYA-SINDIRGI (BALIKESIR) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.16-18:39:55-39.2042-28.0212-1.7</guid>
+      <description>Tarih: 2026.08.16 18:39:55 | Derinlik: 11.3 km | Konum: 39.2042, 28.0212</description>
+    </item>
+
     <item>
       <title>M2.5 - KOCAKORU-MUSTAFAKEMALPASA (BURSA) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -326,34 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.15-18:45:33-35.8730-27.6073-3.1</guid>
       <description>Tarih: 2026.08.15 18:45:33 | Derinlik: 8.0 km | Konum: 35.8730, 27.6073</description>
-    </item>
-
-    <item>
-      <title>M1.9 - OSMANIYE-MUSTAFAKEMALPASA (BURSA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.15-17:34:37-39.9552-28.6765-1.9</guid>
-      <description>Tarih: 2026.08.15 17:34:37 | Derinlik: 1.2 km | Konum: 39.9552, 28.6765</description>
-    </item>
-
-    <item>
-      <title>M2.9 - YUNANISTAN İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.15-17:06:03-40.3247-24.0962-2.9</guid>
-      <description>Tarih: 2026.08.15 17:06:03 | Derinlik: 8.9 km | Konum: 40.3247, 24.0962</description>
-    </item>
-
-    <item>
-      <title>M1.8 - KOCAKORU-MUSTAFAKEMALPASA (BURSA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.15-16:32:00-40.0417-28.6603-1.8</guid>
-      <description>Tarih: 2026.08.15 16:32:00 | Derinlik: 7.3 km | Konum: 40.0417, 28.6603</description>
-    </item>
-
-    <item>
-      <title>M3.3 - KOCAKORU-MUSTAFAKEMALPASA (BURSA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.15-16:19:25-40.0428-28.6707-3.3</guid>
-      <description>Tarih: 2026.08.15 16:19:25 | Derinlik: 7.6 km | Konum: 40.0428, 28.6707</description>
     </item>
 
 </channel>
