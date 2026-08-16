@@ -4,8 +4,22 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sun, 16 Aug 2026 09:11:37 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 16 Aug 2026 09:44:31 +0000</lastBuildDate>
   
+    <item>
+      <title>M2.4 - GORGU-YESILYURT (MALATYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.16-10:06:06-38.2318-38.1225-2.4</guid>
+      <description>Tarih: 2026.08.16 10:06:06 | Derinlik: 10.3 km | Konum: 38.2318, 38.1225</description>
+    </item>
+
+    <item>
+      <title>M1.5 - KEKIKLI-OLUR (ERZURUM) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.16-09:07:07-40.9833-41.9973-1.5</guid>
+      <description>Tarih: 2026.08.16 09:07:07 | Derinlik: 17.3 km | Konum: 40.9833, 41.9973</description>
+    </item>
+
     <item>
       <title>M1.1 - COMAKLI-CAN (CANAKKALE) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -340,20 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.15-06:53:50-39.2982-28.1123-1.6</guid>
       <description>Tarih: 2026.08.15 06:53:50 | Derinlik: 5.6 km | Konum: 39.2982, 28.1123</description>
-    </item>
-
-    <item>
-      <title>M3.5 - KOCAKORU-MUSTAFAKEMALPASA (BURSA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.15-06:42:14-40.0403-28.6850-3.5</guid>
-      <description>Tarih: 2026.08.15 06:42:14 | Derinlik: 7.0 km | Konum: 40.0403, 28.6850</description>
-    </item>
-
-    <item>
-      <title>M2.7 - KARATERZI-DOGANSEHIR (MALATYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.15-06:38:58-38.1940-37.8720-2.7</guid>
-      <description>Tarih: 2026.08.15 06:38:58 | Derinlik: 2.4 km | Konum: 38.1940, 37.8720</description>
     </item>
 
 </channel>
