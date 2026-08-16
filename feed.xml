@@ -4,8 +4,29 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sun, 16 Aug 2026 02:10:11 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 16 Aug 2026 03:13:22 +0000</lastBuildDate>
   
+    <item>
+      <title>M2.7 - AKDENIZ İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.16-06:05:43-35.9233-31.4520-2.7</guid>
+      <description>Tarih: 2026.08.16 06:05:43 | Derinlik: 22.2 km | Konum: 35.9233, 31.4520</description>
+    </item>
+
+    <item>
+      <title>M3.3 - GUZGULU-YEDISU (BINGOL) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.16-05:44:46-39.3818-40.4350-3.3</guid>
+      <description>Tarih: 2026.08.16 05:44:46 | Derinlik: 5.0 km | Konum: 39.3818, 40.4350</description>
+    </item>
+
+    <item>
+      <title>M1.3 - ALACA-KOPRUKOY (ERZURUM) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.16-05:43:09-39.8317-41.8852-1.3</guid>
+      <description>Tarih: 2026.08.16 05:43:09 | Derinlik: 22.7 km | Konum: 39.8317, 41.8852</description>
+    </item>
+
     <item>
       <title>M2.1 - TORATLI-CEMISGEZEK (TUNCELI) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -333,27 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.15-05:29:25-39.1108-28.2238-2.4</guid>
       <description>Tarih: 2026.08.15 05:29:25 | Derinlik: 7.3 km | Konum: 39.1108, 28.2238</description>
-    </item>
-
-    <item>
-      <title>M1.7 - YUVADAMI-AHLAT (BITLIS) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.15-05:27:21-38.8210-42.4837-1.7</guid>
-      <description>Tarih: 2026.08.15 05:27:21 | Derinlik: 24.0 km | Konum: 38.8210, 42.4837</description>
-    </item>
-
-    <item>
-      <title>M1.7 - KUMBETLI-NIKSAR (TOKAT) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.15-05:26:29-40.6410-36.7597-1.7</guid>
-      <description>Tarih: 2026.08.15 05:26:29 | Derinlik: 27.1 km | Konum: 40.6410, 36.7597</description>
-    </item>
-
-    <item>
-      <title>M1.4 - YEMISLI-SIMAV (KUTAHYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.15-05:07:02-39.2507-29.0008-1.4</guid>
-      <description>Tarih: 2026.08.15 05:07:02 | Derinlik: 11.5 km | Konum: 39.2507, 29.0008</description>
     </item>
 
 </channel>
