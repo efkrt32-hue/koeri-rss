@@ -4,8 +4,29 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sun, 16 Aug 2026 18:23:22 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 16 Aug 2026 18:55:40 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.5 - KIYRA-ULA (MUGLA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.16-21:30:37-37.1038-28.5295-1.5</guid>
+      <description>Tarih: 2026.08.16 21:30:37 | Derinlik: 12.8 km | Konum: 37.1038, 28.5295</description>
+    </item>
+
+    <item>
+      <title>M1.2 - MIDILLI ADASI (EGE DENIZI) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.16-21:18:19-39.2947-26.0867-1.2</guid>
+      <description>Tarih: 2026.08.16 21:18:19 | Derinlik: 11.0 km | Konum: 39.2947, 26.0867</description>
+    </item>
+
+    <item>
+      <title>M1.5 - KARCI-GENC (BINGOL) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.16-20:46:20-38.6740-40.4733-1.5</guid>
+      <description>Tarih: 2026.08.16 20:46:20 | Derinlik: 5.1 km | Konum: 38.6740, 40.4733</description>
+    </item>
+
     <item>
       <title>M2.9 - KOCAKORU-MUSTAFAKEMALPASA (BURSA) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -333,27 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.15-22:15:07-39.1845-28.1363-2.1</guid>
       <description>Tarih: 2026.08.15 22:15:07 | Derinlik: 12.4 km | Konum: 39.1845, 28.1363</description>
-    </item>
-
-    <item>
-      <title>M1.9 - MIDILLI ADASI (EGE DENIZI) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.15-22:03:30-39.1415-25.9355-1.9</guid>
-      <description>Tarih: 2026.08.15 22:03:30 | Derinlik: 10.9 km | Konum: 39.1415, 25.9355</description>
-    </item>
-
-    <item>
-      <title>M1.8 - GUNEY-CAMLIDERE (ANKARA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.15-21:28:23-40.4482-32.1877-1.8</guid>
-      <description>Tarih: 2026.08.15 21:28:23 | Derinlik: 10.8 km | Konum: 40.4482, 32.1877</description>
-    </item>
-
-    <item>
-      <title>M2.1 - GUCUKSU-GOKSUN (KAHRAMANMARAS) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.15-21:04:47-38.0595-36.6262-2.1</guid>
-      <description>Tarih: 2026.08.15 21:04:47 | Derinlik: 3.3 km | Konum: 38.0595, 36.6262</description>
     </item>
 
 </channel>
