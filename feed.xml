@@ -4,8 +4,15 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sun, 16 Aug 2026 17:32:49 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 16 Aug 2026 17:52:51 +0000</lastBuildDate>
   
+    <item>
+      <title>M2.9 - KOCAKORU-MUSTAFAKEMALPASA (BURSA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.16-20:40:10-40.0487-28.6717-2.9</guid>
+      <description>Tarih: 2026.08.16 20:40:10 | Derinlik: 7.5 km | Konum: 40.0487, 28.6717</description>
+    </item>
+
     <item>
       <title>M1.5 - ILICA-SINDIRGI (BALIKESIR) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -347,13 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.15-21:04:47-38.0595-36.6262-2.1</guid>
       <description>Tarih: 2026.08.15 21:04:47 | Derinlik: 3.3 km | Konum: 38.0595, 36.6262</description>
-    </item>
-
-    <item>
-      <title>M1.9 - KEVENLI-(VAN) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.15-20:42:43-38.4720-43.4370-1.9</guid>
-      <description>Tarih: 2026.08.15 20:42:43 | Derinlik: 9.8 km | Konum: 38.4720, 43.4370</description>
     </item>
 
 </channel>
