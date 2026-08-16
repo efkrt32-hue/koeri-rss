@@ -4,7 +4,7 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sun, 16 Aug 2026 19:59:45 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 16 Aug 2026 20:33:28 +0000</lastBuildDate>
   
     <item>
       <title>M1.1 - CICEKLI-ULA (MUGLA) İlksel</title>
@@ -25,6 +25,13 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.16-22:21:30-36.6282-25.9165-2.0</guid>
       <description>Tarih: 2026.08.16 22:21:30 | Derinlik: 6.5 km | Konum: 36.6282, 25.9165</description>
+    </item>
+
+    <item>
+      <title>M1.9 - BEYARSLAN-SARAY (VAN) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.16-22:11:30-38.5842-44.2965-1.9</guid>
+      <description>Tarih: 2026.08.16 22:11:30 | Derinlik: 5.0 km | Konum: 38.5842, 44.2965</description>
     </item>
 
     <item>
@@ -347,13 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.16-02:33:50-38.3782-38.5365-1.9</guid>
       <description>Tarih: 2026.08.16 02:33:50 | Derinlik: 8.7 km | Konum: 38.3782, 38.5365</description>
-    </item>
-
-    <item>
-      <title>M1.5 - GULUMUSAGI-(MALATYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.16-02:32:03-38.2287-38.5327-1.5</guid>
-      <description>Tarih: 2026.08.16 02:32:03 | Derinlik: 5.3 km | Konum: 38.2287, 38.5327</description>
     </item>
 
 </channel>
