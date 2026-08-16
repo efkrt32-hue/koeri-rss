@@ -4,8 +4,15 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sun, 16 Aug 2026 20:33:28 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 16 Aug 2026 20:54:31 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.5 - AKTAS-KEMAH (ERZINCAN) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.16-23:17:49-39.8147-39.1197-1.5</guid>
+      <description>Tarih: 2026.08.16 23:17:49 | Derinlik: 10.0 km | Konum: 39.8147, 39.1197</description>
+    </item>
+
     <item>
       <title>M1.1 - CICEKLI-ULA (MUGLA) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -347,13 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.16-02:34:18-38.2830-38.5535-1.5</guid>
       <description>Tarih: 2026.08.16 02:34:18 | Derinlik: 3.7 km | Konum: 38.2830, 38.5535</description>
-    </item>
-
-    <item>
-      <title>M1.9 - SEVILDAG-(MALATYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.16-02:33:50-38.3782-38.5365-1.9</guid>
-      <description>Tarih: 2026.08.16 02:33:50 | Derinlik: 8.7 km | Konum: 38.3782, 38.5365</description>
     </item>
 
 </channel>
