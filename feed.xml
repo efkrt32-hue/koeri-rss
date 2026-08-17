@@ -4,8 +4,22 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Mon, 17 Aug 2026 18:12:50 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 17 Aug 2026 19:00:36 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.2 - EGIRLER-SIMAV (KUTAHYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.17-21:26:09-39.2178-29.0138-1.2</guid>
+      <description>Tarih: 2026.08.17 21:26:09 | Derinlik: 12.8 km | Konum: 39.2178, 29.0138</description>
+    </item>
+
+    <item>
+      <title>M1.5 - ORTABURUN-CINARCIK (YALOVA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.17-21:02:43-40.6132-29.1217-1.5</guid>
+      <description>Tarih: 2026.08.17 21:02:43 | Derinlik: 12.6 km | Konum: 40.6132, 29.1217</description>
+    </item>
+
     <item>
       <title>M2.2 - MURATCA-INHISAR (BILECIK) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -340,20 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.17-01:59:11-39.5565-25.9490-1.7</guid>
       <description>Tarih: 2026.08.17 01:59:11 | Derinlik: 1.9 km | Konum: 39.5565, 25.9490</description>
-    </item>
-
-    <item>
-      <title>M1.8 - KARACAOREN-SIMAV (KUTAHYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.17-01:56:06-39.1952-29.0247-1.8</guid>
-      <description>Tarih: 2026.08.17 01:56:06 | Derinlik: 5.8 km | Konum: 39.1952, 29.0247</description>
-    </item>
-
-    <item>
-      <title>M1.8 - TETIRLIK-PAZARCIK (KAHRAMANMARAS) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.17-00:57:41-37.5367-37.2893-1.8</guid>
-      <description>Tarih: 2026.08.17 00:57:41 | Derinlik: 7.0 km | Konum: 37.5367, 37.2893</description>
     </item>
 
 </channel>
