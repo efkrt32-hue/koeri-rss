@@ -4,13 +4,20 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Mon, 17 Aug 2026 11:35:49 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 17 Aug 2026 11:57:38 +0000</lastBuildDate>
   
     <item>
-      <title>M2.9 - AKKOY-INHISAR (BILECIK) İlksel</title>
+      <title>M2.1 - SAHINKAYA-SINDIRGI (BALIKESIR) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.17-14:23:23-40.0920-30.4597-2.9</guid>
-      <description>Tarih: 2026.08.17 14:23:23 | Derinlik: 5.2 km | Konum: 40.0920, 30.4597</description>
+      <guid>2026.08.17-14:40:06-39.1927-28.0413-2.1</guid>
+      <description>Tarih: 2026.08.17 14:40:06 | Derinlik: 9.7 km | Konum: 39.1927, 28.0413</description>
+    </item>
+
+    <item>
+      <title>M3.0 - AKKOY-INHISAR (BILECIK) REVIZE01 (2026.08.17 14:23:23)</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.17-14:23:23-40.0915-30.4595-3.0</guid>
+      <description>Tarih: 2026.08.17 14:23:23 | Derinlik: 5.4 km | Konum: 40.0915, 30.4595</description>
     </item>
 
     <item>
@@ -347,13 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.16-21:30:37-37.1038-28.5295-1.5</guid>
       <description>Tarih: 2026.08.16 21:30:37 | Derinlik: 12.8 km | Konum: 37.1038, 28.5295</description>
-    </item>
-
-    <item>
-      <title>M1.2 - MIDILLI ADASI (EGE DENIZI) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.16-21:18:19-39.2947-26.0867-1.2</guid>
-      <description>Tarih: 2026.08.16 21:18:19 | Derinlik: 11.0 km | Konum: 39.2947, 26.0867</description>
     </item>
 
 </channel>
