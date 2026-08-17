@@ -4,8 +4,22 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Mon, 17 Aug 2026 17:05:13 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 17 Aug 2026 17:41:01 +0000</lastBuildDate>
   
+    <item>
+      <title>M2.2 - MURATCA-INHISAR (BILECIK) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.17-20:30:38-40.1270-30.4550-2.2</guid>
+      <description>Tarih: 2026.08.17 20:30:38 | Derinlik: 8.6 km | Konum: 40.1270, 30.4550</description>
+    </item>
+
+    <item>
+      <title>M1.7 - BABAKALE-AYVACIK (CANAKKALE) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.17-20:21:07-39.4880-26.0712-1.7</guid>
+      <description>Tarih: 2026.08.17 20:21:07 | Derinlik: 15.1 km | Konum: 39.4880, 26.0712</description>
+    </item>
+
     <item>
       <title>M2.4 - CANTIRLI-BEYPAZARI (ANKARA) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -340,20 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.17-00:43:17-39.2200-28.0405-1.4</guid>
       <description>Tarih: 2026.08.17 00:43:17 | Derinlik: 7.9 km | Konum: 39.2200, 28.0405</description>
-    </item>
-
-    <item>
-      <title>M1.8 - CANTIRLI-BEYPAZARI (ANKARA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.16-23:30:14-40.1290-31.7732-1.8</guid>
-      <description>Tarih: 2026.08.16 23:30:14 | Derinlik: 5.0 km | Konum: 40.1290, 31.7732</description>
-    </item>
-
-    <item>
-      <title>M1.5 - AKTAS-KEMAH (ERZINCAN) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.16-23:17:49-39.8147-39.1197-1.5</guid>
-      <description>Tarih: 2026.08.16 23:17:49 | Derinlik: 10.0 km | Konum: 39.8147, 39.1197</description>
     </item>
 
 </channel>
