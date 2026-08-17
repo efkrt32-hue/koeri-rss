@@ -4,8 +4,22 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Mon, 17 Aug 2026 09:09:16 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 17 Aug 2026 09:57:42 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.2 - AKDERE-SILIFKE (MERSIN) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.17-12:12:03-36.2727-33.7232-1.2</guid>
+      <description>Tarih: 2026.08.17 12:12:03 | Derinlik: 0.0 km | Konum: 36.2727, 33.7232</description>
+    </item>
+
+    <item>
+      <title>M2.2 - EGE DENIZI REVIZE01 (2026.08.17 11:53:56)</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.17-11:53:56-36.6248-25.5750-2.2</guid>
+      <description>Tarih: 2026.08.17 11:53:56 | Derinlik: 7.1 km | Konum: 36.6248, 25.5750</description>
+    </item>
+
     <item>
       <title>M2.2 - SAHINKAYA-SINDIRGI (BALIKESIR) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -340,20 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.16-18:56:04-37.0988-36.7287-1.6</guid>
       <description>Tarih: 2026.08.16 18:56:04 | Derinlik: 10.9 km | Konum: 37.0988, 36.7287</description>
-    </item>
-
-    <item>
-      <title>M1.5 - KIZILAGIL-(BOLU) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.16-18:47:31-40.7652-31.5293-1.5</guid>
-      <description>Tarih: 2026.08.16 18:47:31 | Derinlik: 12.7 km | Konum: 40.7652, 31.5293</description>
-    </item>
-
-    <item>
-      <title>M1.7 - SAHINKAYA-SINDIRGI (BALIKESIR) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.16-18:39:55-39.2042-28.0212-1.7</guid>
-      <description>Tarih: 2026.08.16 18:39:55 | Derinlik: 11.3 km | Konum: 39.2042, 28.0212</description>
     </item>
 
 </channel>
