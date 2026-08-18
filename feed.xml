@@ -4,8 +4,29 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Tue, 18 Aug 2026 09:17:44 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 18 Aug 2026 09:53:29 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.0 - ISIKLI-SILIFKE (MERSIN) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.18-12:12:23-36.2472-33.7072-1.0</guid>
+      <description>Tarih: 2026.08.18 12:12:23 | Derinlik: 0.0 km | Konum: 36.2472, 33.7072</description>
+    </item>
+
+    <item>
+      <title>M1.0 - AKDERE-SILIFKE (MERSIN) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.18-12:11:47-36.2250-33.7452-1.0</guid>
+      <description>Tarih: 2026.08.18 12:11:47 | Derinlik: 0.0 km | Konum: 36.2250, 33.7452</description>
+    </item>
+
+    <item>
+      <title>M1.6 - BAYRAKLI-SINDIRGI (BALIKESIR) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.18-12:10:19-39.1653-28.2340-1.6</guid>
+      <description>Tarih: 2026.08.18 12:10:19 | Derinlik: 10.4 km | Konum: 39.1653, 28.2340</description>
+    </item>
+
     <item>
       <title>M0.8 - ADALAR (ISTANBUL) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -333,27 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.17-22:09:28-39.2448-29.0100-1.8</guid>
       <description>Tarih: 2026.08.17 22:09:28 | Derinlik: 11.5 km | Konum: 39.2448, 29.0100</description>
-    </item>
-
-    <item>
-      <title>M2.0 - BAYRAKLI-SINDIRGI (BALIKESIR) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.17-22:08:18-39.1707-28.2452-2.0</guid>
-      <description>Tarih: 2026.08.17 22:08:18 | Derinlik: 11.3 km | Konum: 39.1707, 28.2452</description>
-    </item>
-
-    <item>
-      <title>M1.9 - BELENLI-KELKIT (GUMUSHANE) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.17-22:01:29-39.9250-39.5097-1.9</guid>
-      <description>Tarih: 2026.08.17 22:01:29 | Derinlik: 11.5 km | Konum: 39.9250, 39.5097</description>
-    </item>
-
-    <item>
-      <title>M1.2 - EGIRLER-SIMAV (KUTAHYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.17-21:26:09-39.2178-29.0138-1.2</guid>
-      <description>Tarih: 2026.08.17 21:26:09 | Derinlik: 12.8 km | Konum: 39.2178, 29.0138</description>
     </item>
 
 </channel>
