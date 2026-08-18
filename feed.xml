@@ -4,8 +4,22 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Tue, 18 Aug 2026 19:57:10 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 18 Aug 2026 20:32:33 +0000</lastBuildDate>
   
+    <item>
+      <title>M0.8 - KUMBURUN-EZINE (CANAKKALE) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.18-22:49:26-39.8637-26.1657-0.8</guid>
+      <description>Tarih: 2026.08.18 22:49:26 | Derinlik: 14.0 km | Konum: 39.8637, 26.1657</description>
+    </item>
+
+    <item>
+      <title>M1.5 - BAYRAKLI-SINDIRGI (BALIKESIR) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.18-22:44:30-39.1785-28.2343-1.5</guid>
+      <description>Tarih: 2026.08.18 22:44:30 | Derinlik: 12.9 km | Konum: 39.1785, 28.2343</description>
+    </item>
+
     <item>
       <title>M1.6 - YANALERIK-KOZAN (ADANA) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -340,20 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.18-09:06:42-38.1180-36.6498-1.8</guid>
       <description>Tarih: 2026.08.18 09:06:42 | Derinlik: 7.0 km | Konum: 38.1180, 36.6498</description>
-    </item>
-
-    <item>
-      <title>M1.4 - CINARCIK ACIKLARI-YALOVA (MARMARA DENIZI) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.18-09:03:44-40.7662-29.0952-1.4</guid>
-      <description>Tarih: 2026.08.18 09:03:44 | Derinlik: 12.8 km | Konum: 40.7662, 29.0952</description>
-    </item>
-
-    <item>
-      <title>M1.8 - ADALAR (ISTANBUL) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.18-09:00:26-40.7828-29.1293-1.8</guid>
-      <description>Tarih: 2026.08.18 09:00:26 | Derinlik: 11.2 km | Konum: 40.7828, 29.1293</description>
     </item>
 
 </channel>
