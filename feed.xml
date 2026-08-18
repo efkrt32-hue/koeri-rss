@@ -4,8 +4,29 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Tue, 18 Aug 2026 21:29:55 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 18 Aug 2026 21:52:17 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.7 - KOBAKLAR-GORDES (MANISA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.19-00:40:28-39.1095-28.3408-1.7</guid>
+      <description>Tarih: 2026.08.19 00:40:28 | Derinlik: 8.5 km | Konum: 39.1095, 28.3408</description>
+    </item>
+
+    <item>
+      <title>M1.8 - ALACAATLI-SINDIRGI (BALIKESIR) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.19-00:27:49-39.2470-28.0770-1.8</guid>
+      <description>Tarih: 2026.08.19 00:27:49 | Derinlik: 8.9 km | Konum: 39.2470, 28.0770</description>
+    </item>
+
+    <item>
+      <title>M1.2 - KUCUKBUKU-SINDIRGI (BALIKESIR) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.19-00:23:45-39.2600-28.0897-1.2</guid>
+      <description>Tarih: 2026.08.19 00:23:45 | Derinlik: 7.6 km | Konum: 39.2600, 28.0897</description>
+    </item>
+
     <item>
       <title>M1.4 - KESECIK-(HATAY) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -333,27 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.18-10:39:20-38.0720-37.6808-2.1</guid>
       <description>Tarih: 2026.08.18 10:39:20 | Derinlik: 3.4 km | Konum: 38.0720, 37.6808</description>
-    </item>
-
-    <item>
-      <title>M1.4 - MIDILLI ADASI GUNEYI (EGE DENIZI) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.18-10:33:52-38.9782-26.0083-1.4</guid>
-      <description>Tarih: 2026.08.18 10:33:52 | Derinlik: 17.7 km | Konum: 38.9782, 26.0083</description>
-    </item>
-
-    <item>
-      <title>M1.5 - BABAKALE-AYVACIK (CANAKKALE) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.18-09:58:29-39.4798-26.0328-1.5</guid>
-      <description>Tarih: 2026.08.18 09:58:29 | Derinlik: 5.4 km | Konum: 39.4798, 26.0328</description>
-    </item>
-
-    <item>
-      <title>M1.7 - YESILKENT-SARIZ (KAYSERI) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.18-09:51:59-38.2817-36.5110-1.7</guid>
-      <description>Tarih: 2026.08.18 09:51:59 | Derinlik: 21.6 km | Konum: 38.2817, 36.5110</description>
     </item>
 
 </channel>
