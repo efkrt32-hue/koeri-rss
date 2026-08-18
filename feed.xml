@@ -4,8 +4,15 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Tue, 18 Aug 2026 14:26:21 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 18 Aug 2026 15:02:58 +0000</lastBuildDate>
   
+    <item>
+      <title>M2.8 - YUNANISTAN İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.18-17:29:51-38.3573-23.3150-2.8</guid>
+      <description>Tarih: 2026.08.18 17:29:51 | Derinlik: 16.8 km | Konum: 38.3573, 23.3150</description>
+    </item>
+
     <item>
       <title>M1.4 - EDREMIT KORFEZI (EGE DENIZI) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -347,13 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.18-04:47:27-36.8070-31.2468-1.8</guid>
       <description>Tarih: 2026.08.18 04:47:27 | Derinlik: 95.7 km | Konum: 36.8070, 31.2468</description>
-    </item>
-
-    <item>
-      <title>M1.4 - MARMARA DENIZI İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.18-04:31:09-40.8118-27.7690-1.4</guid>
-      <description>Tarih: 2026.08.18 04:31:09 | Derinlik: 2.2 km | Konum: 40.8118, 27.7690</description>
     </item>
 
 </channel>
