@@ -4,8 +4,15 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Tue, 18 Aug 2026 21:52:17 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 18 Aug 2026 22:18:50 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.5 - ATLIDERE-FETHIYE (MUGLA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.19-00:51:16-36.6732-29.3490-1.5</guid>
+      <description>Tarih: 2026.08.19 00:51:16 | Derinlik: 4.7 km | Konum: 36.6732, 29.3490</description>
+    </item>
+
     <item>
       <title>M1.7 - KOBAKLAR-GORDES (MANISA) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -347,13 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.18-10:40:03-40.7718-29.1268-1.0</guid>
       <description>Tarih: 2026.08.18 10:40:03 | Derinlik: 20.6 km | Konum: 40.7718, 29.1268</description>
-    </item>
-
-    <item>
-      <title>M2.1 - BEGRE-DOGANSEHIR (MALATYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.18-10:39:20-38.0720-37.6808-2.1</guid>
-      <description>Tarih: 2026.08.18 10:39:20 | Derinlik: 3.4 km | Konum: 38.0720, 37.6808</description>
     </item>
 
 </channel>
