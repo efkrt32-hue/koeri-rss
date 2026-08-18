@@ -4,8 +4,36 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Tue, 18 Aug 2026 15:02:58 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 18 Aug 2026 15:42:43 +0000</lastBuildDate>
   
+    <item>
+      <title>M2.9 - CULLUUSAGI-KOZAN (ADANA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.18-18:23:35-37.6592-35.8615-2.9</guid>
+      <description>Tarih: 2026.08.18 18:23:35 | Derinlik: 5.0 km | Konum: 37.6592, 35.8615</description>
+    </item>
+
+    <item>
+      <title>M1.7 - CAMDERE-KOZAN (ADANA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.18-17:57:50-37.6607-35.8278-1.7</guid>
+      <description>Tarih: 2026.08.18 17:57:50 | Derinlik: 2.1 km | Konum: 37.6607, 35.8278</description>
+    </item>
+
+    <item>
+      <title>M1.5 - KABAKTEPE-KOZAN (ADANA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.18-17:52:07-37.6080-35.7987-1.5</guid>
+      <description>Tarih: 2026.08.18 17:52:07 | Derinlik: 4.4 km | Konum: 37.6080, 35.7987</description>
+    </item>
+
+    <item>
+      <title>M2.1 - CAMDERE-KOZAN (ADANA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.18-17:48:30-37.6632-35.8077-2.1</guid>
+      <description>Tarih: 2026.08.18 17:48:30 | Derinlik: 5.9 km | Konum: 37.6632, 35.8077</description>
+    </item>
+
     <item>
       <title>M2.8 - YUNANISTAN İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -326,34 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.18-06:22:14-40.7678-29.0617-1.6</guid>
       <description>Tarih: 2026.08.18 06:22:14 | Derinlik: 6.2 km | Konum: 40.7678, 29.0617</description>
-    </item>
-
-    <item>
-      <title>M1.9 - KAS ACIKLARI-ANTALYA (AKDENIZ) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.18-05:15:08-36.0205-29.6515-1.9</guid>
-      <description>Tarih: 2026.08.18 05:15:08 | Derinlik: 5.6 km | Konum: 36.0205, 29.6515</description>
-    </item>
-
-    <item>
-      <title>M1.2 - ABDURRAHMANLAR-GERMENCIK (AYDIN) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.18-05:11:39-37.9395-27.5420-1.2</guid>
-      <description>Tarih: 2026.08.18 05:11:39 | Derinlik: 3.0 km | Konum: 37.9395, 27.5420</description>
-    </item>
-
-    <item>
-      <title>M1.5 - KAZANDERE-GOKSUN (KAHRAMANMARAS) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.18-04:49:15-37.9617-36.3213-1.5</guid>
-      <description>Tarih: 2026.08.18 04:49:15 | Derinlik: 6.9 km | Konum: 37.9617, 36.3213</description>
-    </item>
-
-    <item>
-      <title>M1.8 - PERAKENDE-MANAVGAT (ANTALYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.18-04:47:27-36.8070-31.2468-1.8</guid>
-      <description>Tarih: 2026.08.18 04:47:27 | Derinlik: 95.7 km | Konum: 36.8070, 31.2468</description>
     </item>
 
 </channel>
