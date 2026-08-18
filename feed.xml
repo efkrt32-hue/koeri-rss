@@ -4,8 +4,22 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Tue, 18 Aug 2026 20:32:33 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 18 Aug 2026 20:56:06 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.8 - ERMENISTAN İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.18-23:36:03-41.1965-44.1068-1.8</guid>
+      <description>Tarih: 2026.08.18 23:36:03 | Derinlik: 1.4 km | Konum: 41.1965, 44.1068</description>
+    </item>
+
+    <item>
+      <title>M1.7 - OKCULAR-BIGADIC (BALIKESIR) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.18-23:26:49-39.3952-28.3005-1.7</guid>
+      <description>Tarih: 2026.08.18 23:26:49 | Derinlik: 5.7 km | Konum: 39.3952, 28.3005</description>
+    </item>
+
     <item>
       <title>M0.8 - KUMBURUN-EZINE (CANAKKALE) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -340,20 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.18-09:51:15-40.7843-29.0418-1.1</guid>
       <description>Tarih: 2026.08.18 09:51:15 | Derinlik: 5.4 km | Konum: 40.7843, 29.0418</description>
-    </item>
-
-    <item>
-      <title>M1.6 - SUSUZ-PATNOS (AGRI) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.18-09:25:30-39.2520-42.7665-1.6</guid>
-      <description>Tarih: 2026.08.18 09:25:30 | Derinlik: 21.3 km | Konum: 39.2520, 42.7665</description>
-    </item>
-
-    <item>
-      <title>M1.8 - KANLIKAVAK-GOKSUN (KAHRAMANMARAS) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.18-09:06:42-38.1180-36.6498-1.8</guid>
-      <description>Tarih: 2026.08.18 09:06:42 | Derinlik: 7.0 km | Konum: 38.1180, 36.6498</description>
     </item>
 
 </channel>
