@@ -4,8 +4,15 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Wed, 19 Aug 2026 05:38:52 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 19 Aug 2026 06:02:43 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.7 - SARICOKEK-KAYNASLI (DUZCE) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.19-08:19:11-40.8107-31.3380-1.7</guid>
+      <description>Tarih: 2026.08.19 08:19:11 | Derinlik: 11.1 km | Konum: 40.8107, 31.3380</description>
+    </item>
+
     <item>
       <title>M2.4 - COBANISA-KUYUCAK (AYDIN) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -347,13 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.18-14:50:53-38.8592-41.6180-1.9</guid>
       <description>Tarih: 2026.08.18 14:50:53 | Derinlik: 5.7 km | Konum: 38.8592, 41.6180</description>
-    </item>
-
-    <item>
-      <title>M2.9 - GIRIT ADASI ACIKLARI (AKDENIZ) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.18-14:50:51-34.6887-26.0290-2.9</guid>
-      <description>Tarih: 2026.08.18 14:50:51 | Derinlik: 12.3 km | Konum: 34.6887, 26.0290</description>
     </item>
 
 </channel>
