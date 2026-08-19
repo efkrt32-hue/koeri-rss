@@ -4,8 +4,29 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Wed, 19 Aug 2026 15:50:36 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 19 Aug 2026 16:21:14 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.5 - ADALAR (ISTANBUL) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.19-19:11:40-40.7687-29.1137-1.5</guid>
+      <description>Tarih: 2026.08.19 19:11:40 | Derinlik: 9.2 km | Konum: 40.7687, 29.1137</description>
+    </item>
+
+    <item>
+      <title>M2.0 - GEMLIK KORFEZI (MARMARA DENIZI) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.19-18:56:07-40.4255-28.8468-2.0</guid>
+      <description>Tarih: 2026.08.19 18:56:07 | Derinlik: 11.0 km | Konum: 40.4255, 28.8468</description>
+    </item>
+
+    <item>
+      <title>M1.6 - ADALAR (ISTANBUL) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.19-18:42:56-40.7752-29.0992-1.6</guid>
+      <description>Tarih: 2026.08.19 18:42:56 | Derinlik: 10.1 km | Konum: 40.7752, 29.0992</description>
+    </item>
+
     <item>
       <title>M1.4 - CINARCIK ACIKLARI-YALOVA (MARMARA DENIZI) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -333,27 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.18-23:36:03-41.1965-44.1068-1.8</guid>
       <description>Tarih: 2026.08.18 23:36:03 | Derinlik: 1.4 km | Konum: 41.1965, 44.1068</description>
-    </item>
-
-    <item>
-      <title>M1.7 - OKCULAR-BIGADIC (BALIKESIR) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.18-23:26:49-39.3952-28.3005-1.7</guid>
-      <description>Tarih: 2026.08.18 23:26:49 | Derinlik: 5.7 km | Konum: 39.3952, 28.3005</description>
-    </item>
-
-    <item>
-      <title>M0.8 - KUMBURUN-EZINE (CANAKKALE) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.18-22:49:26-39.8637-26.1657-0.8</guid>
-      <description>Tarih: 2026.08.18 22:49:26 | Derinlik: 14.0 km | Konum: 39.8637, 26.1657</description>
-    </item>
-
-    <item>
-      <title>M1.5 - BAYRAKLI-SINDIRGI (BALIKESIR) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.18-22:44:30-39.1785-28.2343-1.5</guid>
-      <description>Tarih: 2026.08.18 22:44:30 | Derinlik: 12.9 km | Konum: 39.1785, 28.2343</description>
     </item>
 
 </channel>
