@@ -4,8 +4,29 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Wed, 19 Aug 2026 19:05:28 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 19 Aug 2026 19:35:51 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.2 - ADALAR (ISTANBUL) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.19-22:14:38-40.7870-29.1043-1.2</guid>
+      <description>Tarih: 2026.08.19 22:14:38 | Derinlik: 12.4 km | Konum: 40.7870, 29.1043</description>
+    </item>
+
+    <item>
+      <title>M1.7 - TURGUT-ULA (MUGLA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.19-21:59:08-37.1553-28.7262-1.7</guid>
+      <description>Tarih: 2026.08.19 21:59:08 | Derinlik: 4.4 km | Konum: 37.1553, 28.7262</description>
+    </item>
+
+    <item>
+      <title>M2.0 - ADALAR (ISTANBUL) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.19-21:36:04-40.7747-29.0915-2.0</guid>
+      <description>Tarih: 2026.08.19 21:36:04 | Derinlik: 9.3 km | Konum: 40.7747, 29.0915</description>
+    </item>
+
     <item>
       <title>M1.8 - KOVUKCINAR-FEKE (ADANA) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -333,27 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.19-06:10:13-36.6438-34.1082-1.7</guid>
       <description>Tarih: 2026.08.19 06:10:13 | Derinlik: 8.4 km | Konum: 36.6438, 34.1082</description>
-    </item>
-
-    <item>
-      <title>M2.0 - YELTEN-KORKUTELI (ANTALYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.19-05:38:37-37.1845-30.2265-2.0</guid>
-      <description>Tarih: 2026.08.19 05:38:37 | Derinlik: 61.9 km | Konum: 37.1845, 30.2265</description>
-    </item>
-
-    <item>
-      <title>M1.5 - KAZANDERE-GOKSUN (KAHRAMANMARAS) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.19-05:33:33-37.9530-36.2970-1.5</guid>
-      <description>Tarih: 2026.08.19 05:33:33 | Derinlik: 16.1 km | Konum: 37.9530, 36.2970</description>
-    </item>
-
-    <item>
-      <title>M1.9 - CUMHURIYETCI-MADEN (ELAZIG) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.19-05:28:57-38.5298-39.6248-1.9</guid>
-      <description>Tarih: 2026.08.19 05:28:57 | Derinlik: 7.3 km | Konum: 38.5298, 39.6248</description>
     </item>
 
 </channel>
