@@ -4,8 +4,22 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Thu, 20 Aug 2026 15:44:24 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 20 Aug 2026 16:16:06 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.4 - TUZLA (ISTANBUL) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.20-18:55:09-40.7798-29.2175-1.4</guid>
+      <description>Tarih: 2026.08.20 18:55:09 | Derinlik: 11.2 km | Konum: 40.7798, 29.2175</description>
+    </item>
+
+    <item>
+      <title>M1.1 - EGIRLER-SIMAV (KUTAHYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.20-18:39:53-39.2258-29.0328-1.1</guid>
+      <description>Tarih: 2026.08.20 18:39:53 | Derinlik: 11.2 km | Konum: 39.2258, 29.0328</description>
+    </item>
+
     <item>
       <title>M1.2 - KINIK-SINDIRGI (BALIKESIR) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -340,20 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.20-10:46:22-40.7847-29.0942-1.2</guid>
       <description>Tarih: 2026.08.20 10:46:22 | Derinlik: 11.5 km | Konum: 40.7847, 29.0942</description>
-    </item>
-
-    <item>
-      <title>M1.6 - CINARCIK ACIKLARI-YALOVA (MARMARA DENIZI) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.20-10:41:17-40.7797-29.0708-1.6</guid>
-      <description>Tarih: 2026.08.20 10:41:17 | Derinlik: 12.9 km | Konum: 40.7797, 29.0708</description>
-    </item>
-
-    <item>
-      <title>M2.2 - ADALAR (ISTANBUL) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.20-10:40:37-40.7767-29.1038-2.2</guid>
-      <description>Tarih: 2026.08.20 10:40:37 | Derinlik: 9.3 km | Konum: 40.7767, 29.1038</description>
     </item>
 
 </channel>
