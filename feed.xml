@@ -4,8 +4,50 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Thu, 20 Aug 2026 02:30:29 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 20 Aug 2026 03:26:25 +0000</lastBuildDate>
   
+    <item>
+      <title>M2.0 - BALIKESIR (BALIKESIR) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.20-06:13:07-39.6523-27.8947-2.0</guid>
+      <description>Tarih: 2026.08.20 06:13:07 | Derinlik: 4.3 km | Konum: 39.6523, 27.8947</description>
+    </item>
+
+    <item>
+      <title>M1.1 - CINARCIK ACIKLARI-YALOVA (MARMARA DENIZI) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.20-05:56:54-40.7717-29.0878-1.1</guid>
+      <description>Tarih: 2026.08.20 05:56:54 | Derinlik: 8.9 km | Konum: 40.7717, 29.0878</description>
+    </item>
+
+    <item>
+      <title>M1.1 - ADALAR (ISTANBUL) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.20-05:55:21-40.7875-29.1083-1.1</guid>
+      <description>Tarih: 2026.08.20 05:55:21 | Derinlik: 10.3 km | Konum: 40.7875, 29.1083</description>
+    </item>
+
+    <item>
+      <title>M1.5 - ADALAR (ISTANBUL) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.20-05:50:28-40.7807-29.0972-1.5</guid>
+      <description>Tarih: 2026.08.20 05:50:28 | Derinlik: 9.6 km | Konum: 40.7807, 29.0972</description>
+    </item>
+
+    <item>
+      <title>M1.7 - ADALAR (ISTANBUL) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.20-05:45:14-40.7850-29.1072-1.7</guid>
+      <description>Tarih: 2026.08.20 05:45:14 | Derinlik: 9.5 km | Konum: 40.7850, 29.1072</description>
+    </item>
+
+    <item>
+      <title>M2.9 - ADALAR (ISTANBUL) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.20-05:40:34-40.7795-29.1053-2.9</guid>
+      <description>Tarih: 2026.08.20 05:40:34 | Derinlik: 11.5 km | Konum: 40.7795, 29.1053</description>
+    </item>
+
     <item>
       <title>M1.2 - BAYIRLI-SINDIRGI (BALIKESIR) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -21,10 +63,24 @@
     </item>
 
     <item>
+      <title>M1.2 - ADALAR (ISTANBUL) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.20-04:54:35-40.7738-29.1173-1.2</guid>
+      <description>Tarih: 2026.08.20 04:54:35 | Derinlik: 10.4 km | Konum: 40.7738, 29.1173</description>
+    </item>
+
+    <item>
       <title>M1.6 - ADALAR (ISTANBUL) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.20-04:43:55-40.7732-29.1128-1.6</guid>
       <description>Tarih: 2026.08.20 04:43:55 | Derinlik: 8.3 km | Konum: 40.7732, 29.1128</description>
+    </item>
+
+    <item>
+      <title>M1.7 - ADALAR (ISTANBUL) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.20-04:43:17-40.8082-29.1750-1.7</guid>
+      <description>Tarih: 2026.08.20 04:43:17 | Derinlik: 5.0 km | Konum: 40.8082, 29.1750</description>
     </item>
 
     <item>
@@ -298,62 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.20-00:43:45-40.7767-29.1027-1.8</guid>
       <description>Tarih: 2026.08.20 00:43:45 | Derinlik: 10.1 km | Konum: 40.7767, 29.1027</description>
-    </item>
-
-    <item>
-      <title>M2.9 - ADALAR (ISTANBUL) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.20-00:41:45-40.7758-29.0888-2.9</guid>
-      <description>Tarih: 2026.08.20 00:41:45 | Derinlik: 12.2 km | Konum: 40.7758, 29.0888</description>
-    </item>
-
-    <item>
-      <title>M1.8 - MARMARA DENIZI İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.20-00:35:10-40.7872-27.9152-1.8</guid>
-      <description>Tarih: 2026.08.20 00:35:10 | Derinlik: 8.6 km | Konum: 40.7872, 27.9152</description>
-    </item>
-
-    <item>
-      <title>M1.7 - KOZLU-(BOLU) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.20-00:11:08-40.7860-31.5820-1.7</guid>
-      <description>Tarih: 2026.08.20 00:11:08 | Derinlik: 5.2 km | Konum: 40.7860, 31.5820</description>
-    </item>
-
-    <item>
-      <title>M1.2 - ADALAR (ISTANBUL) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.19-23:45:15-40.7792-29.0863-1.2</guid>
-      <description>Tarih: 2026.08.19 23:45:15 | Derinlik: 8.0 km | Konum: 40.7792, 29.0863</description>
-    </item>
-
-    <item>
-      <title>M1.5 - ADALAR (ISTANBUL) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.19-23:42:11-40.7708-29.1112-1.5</guid>
-      <description>Tarih: 2026.08.19 23:42:11 | Derinlik: 7.6 km | Konum: 40.7708, 29.1112</description>
-    </item>
-
-    <item>
-      <title>M0.9 - ADALAR (ISTANBUL) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.19-23:39:11-40.7817-29.0818-0.9</guid>
-      <description>Tarih: 2026.08.19 23:39:11 | Derinlik: 9.0 km | Konum: 40.7817, 29.0818</description>
-    </item>
-
-    <item>
-      <title>M2.7 - AKDENIZ İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.19-23:23:02-35.9015-31.1300-2.7</guid>
-      <description>Tarih: 2026.08.19 23:23:02 | Derinlik: 14.2 km | Konum: 35.9015, 31.1300</description>
-    </item>
-
-    <item>
-      <title>M2.8 - AKDENIZ İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.19-23:20:22-35.9230-28.0542-2.8</guid>
-      <description>Tarih: 2026.08.19 23:20:22 | Derinlik: 1.6 km | Konum: 35.9230, 28.0542</description>
     </item>
 
 </channel>
