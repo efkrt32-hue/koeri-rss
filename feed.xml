@@ -4,8 +4,29 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Thu, 20 Aug 2026 14:18:47 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 20 Aug 2026 15:00:31 +0000</lastBuildDate>
   
+    <item>
+      <title>M2.1 - HACILAR-KARLIOVA (BINGOL) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.20-17:13:27-39.1052-40.8018-2.1</guid>
+      <description>Tarih: 2026.08.20 17:13:27 | Derinlik: 3.4 km | Konum: 39.1052, 40.8018</description>
+    </item>
+
+    <item>
+      <title>M2.5 - KARAPINAR-HORASAN (ERZURUM) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.20-16:28:07-39.9917-42.4850-2.5</guid>
+      <description>Tarih: 2026.08.20 16:28:07 | Derinlik: 12.0 km | Konum: 39.9917, 42.4850</description>
+    </item>
+
+    <item>
+      <title>M1.5 - CINARCIK ACIKLARI-YALOVA (MARMARA DENIZI) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.20-16:09:55-40.7960-29.0185-1.5</guid>
+      <description>Tarih: 2026.08.20 16:09:55 | Derinlik: 14.6 km | Konum: 40.7960, 29.0185</description>
+    </item>
+
     <item>
       <title>M1.3 - YALOVA ACIKLARI (MARMARA DENIZI) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -333,27 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.20-09:47:44-36.6333-25.7775-2.3</guid>
       <description>Tarih: 2026.08.20 09:47:44 | Derinlik: 4.6 km | Konum: 36.6333, 25.7775</description>
-    </item>
-
-    <item>
-      <title>M1.9 - CINARCIK ACIKLARI-YALOVA (MARMARA DENIZI) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.20-09:45:28-40.7735-29.0833-1.9</guid>
-      <description>Tarih: 2026.08.20 09:45:28 | Derinlik: 8.3 km | Konum: 40.7735, 29.0833</description>
-    </item>
-
-    <item>
-      <title>M2.6 - MIDILLI ADASI GUNEYI (EGE DENIZI) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.20-09:20:26-38.9160-26.0698-2.6</guid>
-      <description>Tarih: 2026.08.20 09:20:26 | Derinlik: 5.0 km | Konum: 38.9160, 26.0698</description>
-    </item>
-
-    <item>
-      <title>M1.4 - CINARCIK ACIKLARI-YALOVA (MARMARA DENIZI) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.20-08:57:34-40.7678-29.0867-1.4</guid>
-      <description>Tarih: 2026.08.20 08:57:34 | Derinlik: 4.9 km | Konum: 40.7678, 29.0867</description>
     </item>
 
 </channel>
