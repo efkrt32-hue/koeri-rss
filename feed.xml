@@ -4,8 +4,29 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Fri, 21 Aug 2026 03:53:41 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 21 Aug 2026 04:37:32 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.4 - ESENCE-AFSIN (KAHRAMANMARAS) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.21-07:16:54-38.1537-36.8710-1.4</guid>
+      <description>Tarih: 2026.08.21 07:16:54 | Derinlik: 10.6 km | Konum: 38.1537, 36.8710</description>
+    </item>
+
+    <item>
+      <title>M2.9 - EGE DENIZI İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.21-06:51:57-38.5062-25.4852-2.9</guid>
+      <description>Tarih: 2026.08.21 06:51:57 | Derinlik: 5.9 km | Konum: 38.5062, 25.4852</description>
+    </item>
+
+    <item>
+      <title>M1.4 - ALHANUSAGI-(MALATYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.21-06:42:08-38.3105-38.6287-1.4</guid>
+      <description>Tarih: 2026.08.21 06:42:08 | Derinlik: 20.6 km | Konum: 38.3105, 38.6287</description>
+    </item>
+
     <item>
       <title>M1.1 - KIZILBEL-FETHIYE (MUGLA) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -333,27 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.21-00:40:27-38.5895-40.4767-2.0</guid>
       <description>Tarih: 2026.08.21 00:40:27 | Derinlik: 7.5 km | Konum: 38.5895, 40.4767</description>
-    </item>
-
-    <item>
-      <title>M1.3 - KASKOY-(ADIYAMAN) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.21-00:13:24-37.9313-38.4510-1.3</guid>
-      <description>Tarih: 2026.08.21 00:13:24 | Derinlik: 5.0 km | Konum: 37.9313, 38.4510</description>
-    </item>
-
-    <item>
-      <title>M1.0 - YETIMLI-ALADAG (ADANA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.20-23:50:35-37.6425-35.3270-1.0</guid>
-      <description>Tarih: 2026.08.20 23:50:35 | Derinlik: 5.0 km | Konum: 37.6425, 35.3270</description>
-    </item>
-
-    <item>
-      <title>M1.6 - AKPINAR-EKINOZU (KAHRAMANMARAS) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.20-23:49:07-38.0898-37.2367-1.6</guid>
-      <description>Tarih: 2026.08.20 23:49:07 | Derinlik: 4.7 km | Konum: 38.0898, 37.2367</description>
     </item>
 
 </channel>
