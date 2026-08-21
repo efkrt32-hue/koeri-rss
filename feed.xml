@@ -4,8 +4,15 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Fri, 21 Aug 2026 14:52:35 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 21 Aug 2026 15:29:29 +0000</lastBuildDate>
   
+    <item>
+      <title>M2.4 - CENNETPINARI-PAZARCIK (KAHRAMANMARAS) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.21-17:56:49-37.3185-37.0277-2.4</guid>
+      <description>Tarih: 2026.08.21 17:56:49 | Derinlik: 6.8 km | Konum: 37.3185, 37.0277</description>
+    </item>
+
     <item>
       <title>M1.4 - ORTACA-SIMAV (KUTAHYA) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -347,13 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.21-03:56:01-40.7770-29.0852-1.0</guid>
       <description>Tarih: 2026.08.21 03:56:01 | Derinlik: 11.5 km | Konum: 40.7770, 29.0852</description>
-    </item>
-
-    <item>
-      <title>M0.5 - YEMISLI-SIMAV (KUTAHYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.21-03:48:06-39.2343-28.9592-0.5</guid>
-      <description>Tarih: 2026.08.21 03:48:06 | Derinlik: 5.0 km | Konum: 39.2343, 28.9592</description>
     </item>
 
 </channel>
