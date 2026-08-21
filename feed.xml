@@ -4,8 +4,29 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Thu, 20 Aug 2026 23:58:09 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 21 Aug 2026 01:50:39 +0000</lastBuildDate>
   
+    <item>
+      <title>M2.2 - ELMALI-YEDISU (BINGOL) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.21-03:42:13-39.4052-40.6415-2.2</guid>
+      <description>Tarih: 2026.08.21 03:42:13 | Derinlik: 5.1 km | Konum: 39.4052, 40.6415</description>
+    </item>
+
+    <item>
+      <title>M3.3 - KARAKOCA-SIMAV (KUTAHYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.21-03:04:16-39.2673-28.9647-3.3</guid>
+      <description>Tarih: 2026.08.21 03:04:16 | Derinlik: 9.7 km | Konum: 39.2673, 28.9647</description>
+    </item>
+
+    <item>
+      <title>M1.5 - KOZLU-SINDIRGI (BALIKESIR) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.21-02:56:45-39.2380-28.0903-1.5</guid>
+      <description>Tarih: 2026.08.21 02:56:45 | Derinlik: 10.2 km | Konum: 39.2380, 28.0903</description>
+    </item>
+
     <item>
       <title>M2.1 - YEMISLI-SIMAV (KUTAHYA) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -333,27 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.20-18:09:13-39.1815-28.1258-1.6</guid>
       <description>Tarih: 2026.08.20 18:09:13 | Derinlik: 15.3 km | Konum: 39.1815, 28.1258</description>
-    </item>
-
-    <item>
-      <title>M1.7 - CINARCIK ACIKLARI-YALOVA (MARMARA DENIZI) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.20-18:07:19-40.7572-29.0953-1.7</guid>
-      <description>Tarih: 2026.08.20 18:07:19 | Derinlik: 8.0 km | Konum: 40.7572, 29.0953</description>
-    </item>
-
-    <item>
-      <title>M2.1 - HACILAR-KARLIOVA (BINGOL) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.20-17:13:27-39.1052-40.8018-2.1</guid>
-      <description>Tarih: 2026.08.20 17:13:27 | Derinlik: 3.4 km | Konum: 39.1052, 40.8018</description>
-    </item>
-
-    <item>
-      <title>M2.5 - KARAPINAR-HORASAN (ERZURUM) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.20-16:28:07-39.9917-42.4850-2.5</guid>
-      <description>Tarih: 2026.08.20 16:28:07 | Derinlik: 12.0 km | Konum: 39.9917, 42.4850</description>
     </item>
 
 </channel>
