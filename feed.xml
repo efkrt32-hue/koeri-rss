@@ -4,8 +4,22 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Fri, 21 Aug 2026 08:58:15 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 21 Aug 2026 09:46:32 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.9 - GAZIPASA ACIKLARI-ANTALYA (AKDENIZ) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.21-12:32:36-36.2362-32.0958-1.9</guid>
+      <description>Tarih: 2026.08.21 12:32:36 | Derinlik: 56.7 km | Konum: 36.2362, 32.0958</description>
+    </item>
+
+    <item>
+      <title>M0.8 - ADALAR (ISTANBUL) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.21-10:32:31-40.8153-29.1500-0.8</guid>
+      <description>Tarih: 2026.08.21 10:32:31 | Derinlik: 13.4 km | Konum: 40.8153, 29.1500</description>
+    </item>
+
     <item>
       <title>M1.4 - CINARCIK ACIKLARI-YALOVA (MARMARA DENIZI) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -340,20 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.21-01:59:07-39.2348-29.0168-1.7</guid>
       <description>Tarih: 2026.08.21 01:59:07 | Derinlik: 5.8 km | Konum: 39.2348, 29.0168</description>
-    </item>
-
-    <item>
-      <title>M2.2 - KATRANDAGI-EMET (KUTAHYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.21-01:36:08-39.2337-29.0433-2.2</guid>
-      <description>Tarih: 2026.08.21 01:36:08 | Derinlik: 7.4 km | Konum: 39.2337, 29.0433</description>
-    </item>
-
-    <item>
-      <title>M1.8 - YEMISLI-SIMAV (KUTAHYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.21-01:30:09-39.2362-28.9790-1.8</guid>
-      <description>Tarih: 2026.08.21 01:30:09 | Derinlik: 7.0 km | Konum: 39.2362, 28.9790</description>
     </item>
 
 </channel>
