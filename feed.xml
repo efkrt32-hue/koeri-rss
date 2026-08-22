@@ -4,8 +4,15 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sat, 22 Aug 2026 20:13:20 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 22 Aug 2026 20:42:38 +0000</lastBuildDate>
   
+    <item>
+      <title>M2.5 - KIZILOREN-CUBUK (ANKARA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.22-23:16:16-40.4645-32.9730-2.5</guid>
+      <description>Tarih: 2026.08.22 23:16:16 | Derinlik: 7.2 km | Konum: 40.4645, 32.9730</description>
+    </item>
+
     <item>
       <title>M1.4 - KIZILAGIL-(BOLU) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -347,13 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.22-04:23:05-38.0955-37.1872-1.0</guid>
       <description>Tarih: 2026.08.22 04:23:05 | Derinlik: 8.5 km | Konum: 38.0955, 37.1872</description>
-    </item>
-
-    <item>
-      <title>M1.2 - AVCILAR-TAVSANLI (KUTAHYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.22-03:54:56-39.4527-29.0670-1.2</guid>
-      <description>Tarih: 2026.08.22 03:54:56 | Derinlik: 13.4 km | Konum: 39.4527, 29.0670</description>
     </item>
 
 </channel>
