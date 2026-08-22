@@ -4,8 +4,15 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sat, 22 Aug 2026 18:26:24 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 22 Aug 2026 18:59:13 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.6 - ESKIBALTA-YEDISU (BINGOL) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.22-21:23:41-39.4453-40.4607-1.6</guid>
+      <description>Tarih: 2026.08.22 21:23:41 | Derinlik: 3.5 km | Konum: 39.4453, 40.4607</description>
+    </item>
+
     <item>
       <title>M1.7 - ELMALAR-(KAHRAMANMARAS) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -347,13 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.22-01:01:12-39.4653-28.0260-1.1</guid>
       <description>Tarih: 2026.08.22 01:01:12 | Derinlik: 8.6 km | Konum: 39.4653, 28.0260</description>
-    </item>
-
-    <item>
-      <title>M1.7 - UZUNGAZI-SARIKAMIS (KARS) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.22-00:55:50-40.1552-42.5668-1.7</guid>
-      <description>Tarih: 2026.08.22 00:55:50 | Derinlik: 13.6 km | Konum: 40.1552, 42.5668</description>
     </item>
 
 </channel>
