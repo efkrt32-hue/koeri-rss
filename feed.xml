@@ -4,8 +4,15 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sat, 22 Aug 2026 08:02:47 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 22 Aug 2026 08:44:03 +0000</lastBuildDate>
   
+    <item>
+      <title>M2.2 - OGUZELI (GAZIANTEP) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.22-10:41:23-36.9623-37.4392-2.2</guid>
+      <description>Tarih: 2026.08.22 10:41:23 | Derinlik: 5.0 km | Konum: 36.9623, 37.4392</description>
+    </item>
+
     <item>
       <title>M1.3 - CANKAYA (ANKARA) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -347,13 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.21-17:10:07-39.2625-28.9442-1.4</guid>
       <description>Tarih: 2026.08.21 17:10:07 | Derinlik: 5.0 km | Konum: 39.2625, 28.9442</description>
-    </item>
-
-    <item>
-      <title>M1.3 - CAY (AFYONKARAHISAR) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.21-16:59:03-38.6343-31.0242-1.3</guid>
-      <description>Tarih: 2026.08.21 16:59:03 | Derinlik: 5.0 km | Konum: 38.6343, 31.0242</description>
     </item>
 
 </channel>
