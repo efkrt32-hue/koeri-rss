@@ -4,8 +4,15 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sat, 22 Aug 2026 04:08:02 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 22 Aug 2026 04:48:26 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.8 - DUZLEN-(MANISA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.22-07:20:24-38.7687-27.1393-1.8</guid>
+      <description>Tarih: 2026.08.22 07:20:24 | Derinlik: 12.3 km | Konum: 38.7687, 27.1393</description>
+    </item>
+
     <item>
       <title>M1.6 - CEVIRME-AKCADAG (MALATYA) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -347,13 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.21-13:34:10-40.8230-29.1050-1.1</guid>
       <description>Tarih: 2026.08.21 13:34:10 | Derinlik: 22.9 km | Konum: 40.8230, 29.1050</description>
-    </item>
-
-    <item>
-      <title>M1.6 - ERICEK-OSMANELI (BILECIK) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.21-13:28:20-40.4295-30.0048-1.6</guid>
-      <description>Tarih: 2026.08.21 13:28:20 | Derinlik: 16.1 km | Konum: 40.4295, 30.0048</description>
     </item>
 
 </channel>
