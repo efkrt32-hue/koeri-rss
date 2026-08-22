@@ -4,8 +4,22 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sat, 22 Aug 2026 22:45:11 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 22 Aug 2026 23:01:34 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.0 - ORDEKKOY-AFSIN (KAHRAMANMARAS) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.23-01:43:18-38.1885-36.8878-1.0</guid>
+      <description>Tarih: 2026.08.23 01:43:18 | Derinlik: 13.4 km | Konum: 38.1885, 36.8878</description>
+    </item>
+
+    <item>
+      <title>M1.2 - GURLEYIK-KELKIT (GUMUSHANE) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.23-01:36:03-39.9665-39.1857-1.2</guid>
+      <description>Tarih: 2026.08.23 01:36:03 | Derinlik: 5.0 km | Konum: 39.9665, 39.1857</description>
+    </item>
+
     <item>
       <title>M2.2 - GURLEYIK-KELKIT (GUMUSHANE) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -18,6 +32,13 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.23-01:29:45-37.1703-29.8133-1.6</guid>
       <description>Tarih: 2026.08.23 01:29:45 | Derinlik: 15.5 km | Konum: 37.1703, 29.8133</description>
+    </item>
+
+    <item>
+      <title>M0.9 - KOBAKLAR-GORDES (MANISA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.23-01:28:21-39.0773-28.3488-0.9</guid>
+      <description>Tarih: 2026.08.23 01:28:21 | Derinlik: 15.5 km | Konum: 39.0773, 28.3488</description>
     </item>
 
     <item>
@@ -333,27 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.22-11:53:56-38.8070-42.7282-2.1</guid>
       <description>Tarih: 2026.08.22 11:53:56 | Derinlik: 21.8 km | Konum: 38.8070, 42.7282</description>
-    </item>
-
-    <item>
-      <title>M2.0 - CANDARLI KORFEZI (EGE DENIZI) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.22-11:35:50-38.8290-26.7470-2.0</guid>
-      <description>Tarih: 2026.08.22 11:35:50 | Derinlik: 2.2 km | Konum: 38.8290, 26.7470</description>
-    </item>
-
-    <item>
-      <title>M1.7 - CAMLICA-(KAHRAMANMARAS) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.22-11:12:59-37.9565-36.7032-1.7</guid>
-      <description>Tarih: 2026.08.22 11:12:59 | Derinlik: 6.3 km | Konum: 37.9565, 36.7032</description>
-    </item>
-
-    <item>
-      <title>M1.5 - KABAKOZ-GORDES (MANISA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.22-11:06:32-39.0060-28.2273-1.5</guid>
-      <description>Tarih: 2026.08.22 11:06:32 | Derinlik: 3.7 km | Konum: 39.0060, 28.2273</description>
     </item>
 
 </channel>
