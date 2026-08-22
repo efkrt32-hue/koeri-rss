@@ -4,8 +4,15 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sat, 22 Aug 2026 23:01:34 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 22 Aug 2026 23:31:00 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.5 - GOKSEKI-REFAHIYE (ERZINCAN) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.23-02:11:16-40.0172-38.8610-1.5</guid>
+      <description>Tarih: 2026.08.23 02:11:16 | Derinlik: 6.1 km | Konum: 40.0172, 38.8610</description>
+    </item>
+
     <item>
       <title>M1.0 - ORDEKKOY-AFSIN (KAHRAMANMARAS) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -347,13 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.22-12:00:54-37.1118-27.8873-1.5</guid>
       <description>Tarih: 2026.08.22 12:00:54 | Derinlik: 5.0 km | Konum: 37.1118, 27.8873</description>
-    </item>
-
-    <item>
-      <title>M2.1 - ADILCEVAZ (BITLIS) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.22-11:53:56-38.8070-42.7282-2.1</guid>
-      <description>Tarih: 2026.08.22 11:53:56 | Derinlik: 21.8 km | Konum: 38.8070, 42.7282</description>
     </item>
 
 </channel>
