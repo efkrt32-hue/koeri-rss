@@ -4,8 +4,29 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sat, 22 Aug 2026 10:36:31 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 22 Aug 2026 10:58:16 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.5 - BAYIRKOY-MILAS (MUGLA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.22-12:00:54-37.1118-27.8873-1.5</guid>
+      <description>Tarih: 2026.08.22 12:00:54 | Derinlik: 5.0 km | Konum: 37.1118, 27.8873</description>
+    </item>
+
+    <item>
+      <title>M2.1 - ADILCEVAZ (BITLIS) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.22-11:53:56-38.8070-42.7282-2.1</guid>
+      <description>Tarih: 2026.08.22 11:53:56 | Derinlik: 21.8 km | Konum: 38.8070, 42.7282</description>
+    </item>
+
+    <item>
+      <title>M2.0 - CANDARLI KORFEZI (EGE DENIZI) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.22-11:35:50-38.8290-26.7470-2.0</guid>
+      <description>Tarih: 2026.08.22 11:35:50 | Derinlik: 2.2 km | Konum: 38.8290, 26.7470</description>
+    </item>
+
     <item>
       <title>M1.7 - CAMLICA-(KAHRAMANMARAS) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -333,27 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.21-18:35:35-39.0802-37.7908-2.0</guid>
       <description>Tarih: 2026.08.21 18:35:35 | Derinlik: 5.0 km | Konum: 39.0802, 37.7908</description>
-    </item>
-
-    <item>
-      <title>M2.4 - CENNETPINARI-PAZARCIK (KAHRAMANMARAS) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.21-17:56:49-37.3185-37.0277-2.4</guid>
-      <description>Tarih: 2026.08.21 17:56:49 | Derinlik: 6.8 km | Konum: 37.3185, 37.0277</description>
-    </item>
-
-    <item>
-      <title>M1.4 - ORTACA-SIMAV (KUTAHYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.21-17:35:04-39.3107-28.9322-1.4</guid>
-      <description>Tarih: 2026.08.21 17:35:04 | Derinlik: 5.0 km | Konum: 39.3107, 28.9322</description>
-    </item>
-
-    <item>
-      <title>M1.4 - KATRANDAGI-EMET (KUTAHYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.21-17:32:52-39.2460-29.0297-1.4</guid>
-      <description>Tarih: 2026.08.21 17:32:52 | Derinlik: 12.5 km | Konum: 39.2460, 29.0297</description>
     </item>
 
 </channel>
