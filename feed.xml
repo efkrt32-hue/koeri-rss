@@ -4,8 +4,22 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sun, 23 Aug 2026 16:27:32 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 23 Aug 2026 16:54:23 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.1 - YESILOVACIK-SILIFKE (MERSIN) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.23-19:37:34-36.2047-33.6752-1.1</guid>
+      <description>Tarih: 2026.08.23 19:37:34 | Derinlik: 0.0 km | Konum: 36.2047, 33.6752</description>
+    </item>
+
+    <item>
+      <title>M2.6 - KOS ADASI (EGE DENIZI) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.23-19:18:14-36.6717-26.8210-2.6</guid>
+      <description>Tarih: 2026.08.23 19:18:14 | Derinlik: 114.3 km | Konum: 36.6717, 26.8210</description>
+    </item>
+
     <item>
       <title>M1.4 - OLUKKOYAGI-TARSUS (MERSIN) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -340,20 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.23-03:25:10-39.3138-25.8437-1.6</guid>
       <description>Tarih: 2026.08.23 03:25:10 | Derinlik: 12.2 km | Konum: 39.3138, 25.8437</description>
-    </item>
-
-    <item>
-      <title>M2.7 - AKDENIZ İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.23-02:41:57-34.4717-33.0265-2.7</guid>
-      <description>Tarih: 2026.08.23 02:41:57 | Derinlik: 5.0 km | Konum: 34.4717, 33.0265</description>
-    </item>
-
-    <item>
-      <title>M3.5 - ONIKI ADALAR (EGE DENIZI) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.23-02:39:28-36.2307-27.4065-3.5</guid>
-      <description>Tarih: 2026.08.23 02:39:28 | Derinlik: 15.8 km | Konum: 36.2307, 27.4065</description>
     </item>
 
 </channel>
