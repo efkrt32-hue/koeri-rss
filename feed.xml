@@ -4,8 +4,15 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sun, 23 Aug 2026 05:37:57 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 23 Aug 2026 06:01:19 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.6 - AKKAYA-GEDIZ (KUTAHYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.23-08:24:09-39.1122-29.4128-1.6</guid>
+      <description>Tarih: 2026.08.23 08:24:09 | Derinlik: 5.0 km | Konum: 39.1122, 29.4128</description>
+    </item>
+
     <item>
       <title>M1.1 - GOKOVA KORFEZI (EGE DENIZI) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -347,13 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.22-22:33:11-39.2687-28.9075-2.3</guid>
       <description>Tarih: 2026.08.22 22:33:11 | Derinlik: 5.8 km | Konum: 39.2687, 28.9075</description>
-    </item>
-
-    <item>
-      <title>M1.0 - EGIRLER-SIMAV (KUTAHYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.22-22:31:34-39.2095-28.9870-1.0</guid>
-      <description>Tarih: 2026.08.22 22:31:34 | Derinlik: 13.3 km | Konum: 39.2095, 28.9870</description>
     </item>
 
 </channel>
