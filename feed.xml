@@ -4,8 +4,15 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sun, 23 Aug 2026 15:54:14 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 23 Aug 2026 16:27:32 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.4 - OLUKKOYAGI-TARSUS (MERSIN) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.23-19:06:47-37.2485-34.5913-1.4</guid>
+      <description>Tarih: 2026.08.23 19:06:47 | Derinlik: 18.6 km | Konum: 37.2485, 34.5913</description>
+    </item>
+
     <item>
       <title>M1.2 - KAVAKCALI-ULA (MUGLA) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -347,13 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.23-02:39:28-36.2307-27.4065-3.5</guid>
       <description>Tarih: 2026.08.23 02:39:28 | Derinlik: 15.8 km | Konum: 36.2307, 27.4065</description>
-    </item>
-
-    <item>
-      <title>M1.5 - GOKSEKI-REFAHIYE (ERZINCAN) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.23-02:11:16-40.0172-38.8610-1.5</guid>
-      <description>Tarih: 2026.08.23 02:11:16 | Derinlik: 6.1 km | Konum: 40.0172, 38.8610</description>
     </item>
 
 </channel>
