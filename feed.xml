@@ -4,8 +4,15 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sun, 23 Aug 2026 13:11:31 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 23 Aug 2026 13:47:11 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.6 - GECITLI-SEREFLIKOCHISAR (ANKARA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.23-16:25:21-39.1268-33.6378-1.6</guid>
+      <description>Tarih: 2026.08.23 16:25:21 | Derinlik: 5.4 km | Konum: 39.1268, 33.6378</description>
+    </item>
+
     <item>
       <title>M1.7 - YAHSIBEY-DIKILI (IZMIR) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -347,13 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.23-01:43:18-38.1885-36.8878-1.0</guid>
       <description>Tarih: 2026.08.23 01:43:18 | Derinlik: 13.4 km | Konum: 38.1885, 36.8878</description>
-    </item>
-
-    <item>
-      <title>M1.2 - GURLEYIK-KELKIT (GUMUSHANE) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.23-01:36:03-39.9665-39.1857-1.2</guid>
-      <description>Tarih: 2026.08.23 01:36:03 | Derinlik: 5.0 km | Konum: 39.9665, 39.1857</description>
     </item>
 
 </channel>
