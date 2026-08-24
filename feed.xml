@@ -4,7 +4,7 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Mon, 24 Aug 2026 19:35:14 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 24 Aug 2026 20:00:24 +0000</lastBuildDate>
   
     <item>
       <title>M1.5 - PUSATLAR-CAVDARHISAR (KUTAHYA) İlksel</title>
@@ -35,6 +35,13 @@
     </item>
 
     <item>
+      <title>M2.5 - MUHTARDUZU-NIKSAR (TOKAT) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.24-21:02:16-40.4743-37.0157-2.5</guid>
+      <description>Tarih: 2026.08.24 21:02:16 | Derinlik: 2.7 km | Konum: 40.4743, 37.0157</description>
+    </item>
+
+    <item>
       <title>M1.4 - IZMIR KORFEZI (EGE DENIZI) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.24-20:05:16-38.5665-26.8088-1.4</guid>
@@ -60,6 +67,13 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.24-18:34:25-35.7345-25.8847-2.4</guid>
       <description>Tarih: 2026.08.24 18:34:25 | Derinlik: 26.9 km | Konum: 35.7345, 25.8847</description>
+    </item>
+
+    <item>
+      <title>M1.9 - NALLIGOLCUK-NALLIHAN (ANKARA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.24-18:06:52-40.2592-31.5933-1.9</guid>
+      <description>Tarih: 2026.08.24 18:06:52 | Derinlik: 5.0 km | Konum: 40.2592, 31.5933</description>
     </item>
 
     <item>
@@ -340,20 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.24-02:00:57-39.3812-25.5883-1.9</guid>
       <description>Tarih: 2026.08.24 02:00:57 | Derinlik: 9.1 km | Konum: 39.3812, 25.5883</description>
-    </item>
-
-    <item>
-      <title>M1.6 - MARMARA DENIZI İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.24-01:54:20-40.5185-27.1803-1.6</guid>
-      <description>Tarih: 2026.08.24 01:54:20 | Derinlik: 11.5 km | Konum: 40.5185, 27.1803</description>
-    </item>
-
-    <item>
-      <title>M1.9 - HARMANLI-KARAPURCEK (SAKARYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.24-01:51:47-40.6708-30.5837-1.9</guid>
-      <description>Tarih: 2026.08.24 01:51:47 | Derinlik: 7.7 km | Konum: 40.6708, 30.5837</description>
     </item>
 
 </channel>
