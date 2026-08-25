@@ -4,13 +4,27 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Tue, 25 Aug 2026 06:18:16 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 25 Aug 2026 07:14:43 +0000</lastBuildDate>
   
     <item>
       <title>M1.7 - SAHINKAYA-SINDIRGI (BALIKESIR) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.25-08:44:01-39.2215-28.0207-1.7</guid>
       <description>Tarih: 2026.08.25 08:44:01 | Derinlik: 15.6 km | Konum: 39.2215, 28.0207</description>
+    </item>
+
+    <item>
+      <title>M1.5 - YENIDAMLAR-KALE (MALATYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.25-08:38:10-38.3858-38.8567-1.5</guid>
+      <description>Tarih: 2026.08.25 08:38:10 | Derinlik: 14.6 km | Konum: 38.3858, 38.8567</description>
+    </item>
+
+    <item>
+      <title>M1.6 - GERENKOVA-INCIRLIOVA (AYDIN) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.25-08:27:58-37.8523-27.7475-1.6</guid>
+      <description>Tarih: 2026.08.25 08:27:58 | Derinlik: 17.6 km | Konum: 37.8523, 27.7475</description>
     </item>
 
     <item>
@@ -340,20 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.24-16:06:36-39.6223-27.8938-3.3</guid>
       <description>Tarih: 2026.08.24 16:06:36 | Derinlik: 3.2 km | Konum: 39.6223, 27.8938</description>
-    </item>
-
-    <item>
-      <title>M1.7 - AKDENIZ İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.24-15:23:21-36.4503-28.7530-1.7</guid>
-      <description>Tarih: 2026.08.24 15:23:21 | Derinlik: 18.0 km | Konum: 36.4503, 28.7530</description>
-    </item>
-
-    <item>
-      <title>M1.9 - SEKLI-BEYPAZARI (ANKARA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.24-15:09:10-40.1973-31.6888-1.9</guid>
-      <description>Tarih: 2026.08.24 15:09:10 | Derinlik: 5.0 km | Konum: 40.1973, 31.6888</description>
     </item>
 
 </channel>
