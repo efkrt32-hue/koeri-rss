@@ -4,8 +4,29 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Tue, 25 Aug 2026 08:55:18 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 25 Aug 2026 09:39:45 +0000</lastBuildDate>
   
+    <item>
+      <title>M2.2 - EGE DENIZI İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.25-11:53:28-36.4693-27.5390-2.2</guid>
+      <description>Tarih: 2026.08.25 11:53:28 | Derinlik: 12.5 km | Konum: 36.4693, 27.5390</description>
+    </item>
+
+    <item>
+      <title>M2.1 - KOCKALE-(ELAZIG) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.25-11:43:34-38.5715-39.4443-2.1</guid>
+      <description>Tarih: 2026.08.25 11:43:34 | Derinlik: 20.7 km | Konum: 38.5715, 39.4443</description>
+    </item>
+
+    <item>
+      <title>M1.4 - BEYLERLI-CARDAK (DENIZLI) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.25-08:52:01-37.7252-29.6562-1.4</guid>
+      <description>Tarih: 2026.08.25 08:52:01 | Derinlik: 2.4 km | Konum: 37.7252, 29.6562</description>
+    </item>
+
     <item>
       <title>M1.7 - SAHINKAYA-SINDIRGI (BALIKESIR) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -333,27 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.24-17:04:04-41.4577-44.0387-2.5</guid>
       <description>Tarih: 2026.08.24 17:04:04 | Derinlik: 8.1 km | Konum: 41.4577, 44.0387</description>
-    </item>
-
-    <item>
-      <title>M1.7 - CUMAALANI-CAMELI (DENIZLI) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.24-16:38:26-37.1535-29.4110-1.7</guid>
-      <description>Tarih: 2026.08.24 16:38:26 | Derinlik: 21.0 km | Konum: 37.1535, 29.4110</description>
-    </item>
-
-    <item>
-      <title>M1.4 - GULUMUSAGI-(MALATYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.24-16:29:46-38.2492-38.4773-1.4</guid>
-      <description>Tarih: 2026.08.24 16:29:46 | Derinlik: 21.6 km | Konum: 38.2492, 38.4773</description>
-    </item>
-
-    <item>
-      <title>M3.3 - CAYIRHISAR-(BALIKESIR) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.24-16:06:36-39.6223-27.8938-3.3</guid>
-      <description>Tarih: 2026.08.24 16:06:36 | Derinlik: 3.2 km | Konum: 39.6223, 27.8938</description>
     </item>
 
 </channel>
