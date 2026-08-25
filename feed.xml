@@ -4,8 +4,15 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Tue, 25 Aug 2026 22:38:26 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 25 Aug 2026 23:03:01 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.6 - KARAGOL-CELIKHAN (ADIYAMAN) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.26-01:39:01-38.1090-38.4515-1.6</guid>
+      <description>Tarih: 2026.08.26 01:39:01 | Derinlik: 9.3 km | Konum: 38.1090, 38.4515</description>
+    </item>
+
     <item>
       <title>M1.3 - AYDOGMUS-KECIBORLU (ISPARTA) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -347,13 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.25-00:17:08-37.8057-27.8067-1.4</guid>
       <description>Tarih: 2026.08.25 00:17:08 | Derinlik: 10.0 km | Konum: 37.8057, 27.8067</description>
-    </item>
-
-    <item>
-      <title>M1.5 - SARICOKEK-KAYNASLI (DUZCE) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.24-23:07:27-40.7863-31.3135-1.5</guid>
-      <description>Tarih: 2026.08.24 23:07:27 | Derinlik: 16.3 km | Konum: 40.7863, 31.3135</description>
     </item>
 
 </channel>
