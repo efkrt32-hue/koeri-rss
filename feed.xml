@@ -4,8 +4,15 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Wed, 26 Aug 2026 07:55:05 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 26 Aug 2026 08:49:22 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.8 - GUMUSDOVEN-ELBISTAN (KAHRAMANMARAS) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.26-11:08:41-38.0735-37.2558-1.8</guid>
+      <description>Tarih: 2026.08.26 11:08:41 | Derinlik: 5.4 km | Konum: 38.0735, 37.2558</description>
+    </item>
+
     <item>
       <title>M2.1 - KAVAKKOY-SIVRICE (ELAZIG) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -347,13 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.25-21:43:51-38.1277-38.3670-4.1</guid>
       <description>Tarih: 2026.08.25 21:43:51 | Derinlik: 5.0 km | Konum: 38.1277, 38.3670</description>
-    </item>
-
-    <item>
-      <title>M3.6 - SALKONAK-YESILYURT (MALATYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.25-21:40:33-38.1215-38.4017-3.6</guid>
-      <description>Tarih: 2026.08.25 21:40:33 | Derinlik: 5.0 km | Konum: 38.1215, 38.4017</description>
     </item>
 
 </channel>
