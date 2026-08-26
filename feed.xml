@@ -4,8 +4,29 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Wed, 26 Aug 2026 01:50:09 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 26 Aug 2026 02:56:33 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.3 - BAYIRLI-SINDIRGI (BALIKESIR) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.26-05:17:28-39.2195-28.1280-1.3</guid>
+      <description>Tarih: 2026.08.26 05:17:28 | Derinlik: 12.4 km | Konum: 39.2195, 28.1280</description>
+    </item>
+
+    <item>
+      <title>M1.4 - KARAGOL-CELIKHAN (ADIYAMAN) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.26-04:58:20-38.1178-38.4422-1.4</guid>
+      <description>Tarih: 2026.08.26 04:58:20 | Derinlik: 10.3 km | Konum: 38.1178, 38.4422</description>
+    </item>
+
+    <item>
+      <title>M1.7 - SEKLI-BEYPAZARI (ANKARA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.26-04:56:38-40.2108-31.7148-1.7</guid>
+      <description>Tarih: 2026.08.26 04:56:38 | Derinlik: 15.8 km | Konum: 40.2108, 31.7148</description>
+    </item>
+
     <item>
       <title>M1.1 - GOLKOY-SIMAV (KUTAHYA) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -18,6 +39,20 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.26-04:22:19-39.2650-28.9103-1.3</guid>
       <description>Tarih: 2026.08.26 04:22:19 | Derinlik: 8.8 km | Konum: 39.2650, 28.9103</description>
+    </item>
+
+    <item>
+      <title>M1.2 - ELMADAG (ANKARA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.26-04:21:41-40.0045-33.1742-1.2</guid>
+      <description>Tarih: 2026.08.26 04:21:41 | Derinlik: 10.0 km | Konum: 40.0045, 33.1742</description>
+    </item>
+
+    <item>
+      <title>M1.0 - GULEK-TARSUS (MERSIN) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.26-04:19:12-37.2702-34.7392-1.0</guid>
+      <description>Tarih: 2026.08.26 04:19:12 | Derinlik: 11.6 km | Konum: 37.2702, 34.7392</description>
     </item>
 
     <item>
@@ -319,41 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.25-08:52:01-37.7252-29.6562-1.4</guid>
       <description>Tarih: 2026.08.25 08:52:01 | Derinlik: 2.4 km | Konum: 37.7252, 29.6562</description>
-    </item>
-
-    <item>
-      <title>M1.7 - SAHINKAYA-SINDIRGI (BALIKESIR) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.25-08:44:01-39.2215-28.0207-1.7</guid>
-      <description>Tarih: 2026.08.25 08:44:01 | Derinlik: 15.6 km | Konum: 39.2215, 28.0207</description>
-    </item>
-
-    <item>
-      <title>M1.5 - YENIDAMLAR-KALE (MALATYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.25-08:38:10-38.3858-38.8567-1.5</guid>
-      <description>Tarih: 2026.08.25 08:38:10 | Derinlik: 14.6 km | Konum: 38.3858, 38.8567</description>
-    </item>
-
-    <item>
-      <title>M1.6 - GERENKOVA-INCIRLIOVA (AYDIN) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.25-08:27:58-37.8523-27.7475-1.6</guid>
-      <description>Tarih: 2026.08.25 08:27:58 | Derinlik: 17.6 km | Konum: 37.8523, 27.7475</description>
-    </item>
-
-    <item>
-      <title>M2.6 - HIDIRBEYLI-GERMENCIK (AYDIN) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.25-08:21:49-37.8888-27.5780-2.6</guid>
-      <description>Tarih: 2026.08.25 08:21:49 | Derinlik: 4.1 km | Konum: 37.8888, 27.5780</description>
-    </item>
-
-    <item>
-      <title>M2.2 - EGE DENIZI İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.25-08:00:41-39.3048-25.4802-2.2</guid>
-      <description>Tarih: 2026.08.25 08:00:41 | Derinlik: 6.4 km | Konum: 39.3048, 25.4802</description>
     </item>
 
 </channel>
