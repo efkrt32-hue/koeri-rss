@@ -4,8 +4,15 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Wed, 26 Aug 2026 03:57:56 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 26 Aug 2026 04:49:26 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.9 - SERINGOZE-KEMAH (ERZINCAN) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.08.26-07:13:13-39.6508-38.7763-1.9</guid>
+      <description>Tarih: 2026.08.26 07:13:13 | Derinlik: 6.1 km | Konum: 39.6508, 38.7763</description>
+    </item>
+
     <item>
       <title>M1.3 - GECITLI-SINCIK (ADIYAMAN) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -347,13 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.08.25-11:53:28-36.4693-27.5390-2.2</guid>
       <description>Tarih: 2026.08.25 11:53:28 | Derinlik: 12.5 km | Konum: 36.4693, 27.5390</description>
-    </item>
-
-    <item>
-      <title>M2.1 - KOCKALE-(ELAZIG) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.08.25-11:43:34-38.5715-39.4443-2.1</guid>
-      <description>Tarih: 2026.08.25 11:43:34 | Derinlik: 20.7 km | Konum: 38.5715, 39.4443</description>
     </item>
 
 </channel>
