@@ -4,13 +4,34 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sat, 05 Sep 2026 13:29:41 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 05 Sep 2026 16:12:53 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.8 - KARAPINAR-SAVASTEPE (BALIKESIR) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.09.05-16:28:20-39.5092-27.6303-1.8</guid>
+      <description>Tarih: 2026.09.05 16:28:20 | Derinlik: 7.3 km | Konum: 39.5092, 27.6303</description>
+    </item>
+
     <item>
       <title>M2.4 - AKDENIZ İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.09.05-15:58:16-35.8110-31.6760-2.4</guid>
       <description>Tarih: 2026.09.05 15:58:16 | Derinlik: 7.0 km | Konum: 35.8110, 31.6760</description>
+    </item>
+
+    <item>
+      <title>M2.2 - ONIKI ADALAR (EGE DENIZI) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.09.05-15:46:38-36.5372-27.1865-2.2</guid>
+      <description>Tarih: 2026.09.05 15:46:38 | Derinlik: 1.0 km | Konum: 36.5372, 27.1865</description>
+    </item>
+
+    <item>
+      <title>M1.7 - BEYRELI-HADIM (KONYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.09.05-15:25:20-36.8285-32.3438-1.7</guid>
+      <description>Tarih: 2026.09.05 15:25:20 | Derinlik: 9.6 km | Konum: 36.8285, 32.3438</description>
     </item>
 
     <item>
@@ -333,27 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.09.04-22:41:08-37.7122-29.2165-2.8</guid>
       <description>Tarih: 2026.09.04 22:41:08 | Derinlik: 11.3 km | Konum: 37.7122, 29.2165</description>
-    </item>
-
-    <item>
-      <title>M2.9 - KARATAS-(DENIZLI) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.09.04-22:09:45-37.7117-29.2130-2.9</guid>
-      <description>Tarih: 2026.09.04 22:09:45 | Derinlik: 10.4 km | Konum: 37.7117, 29.2130</description>
-    </item>
-
-    <item>
-      <title>M3.6 - AKDENIZ İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.09.04-21:51:08-35.7498-31.0975-3.6</guid>
-      <description>Tarih: 2026.09.04 21:51:08 | Derinlik: 25.0 km | Konum: 35.7498, 31.0975</description>
-    </item>
-
-    <item>
-      <title>M2.1 - BALIKLIDERE-SUSURLUK (BALIKESIR) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.09.04-21:49:51-39.9572-28.1458-2.1</guid>
-      <description>Tarih: 2026.09.04 21:49:51 | Derinlik: 10.2 km | Konum: 39.9572, 28.1458</description>
     </item>
 
 </channel>
