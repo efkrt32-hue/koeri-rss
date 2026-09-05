@@ -4,8 +4,22 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sat, 05 Sep 2026 22:15:20 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 05 Sep 2026 23:59:12 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.5 - SUNNETKOY-ELBISTAN (KAHRAMANMARAS) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.09.06-01:28:58-38.1350-37.4533-1.5</guid>
+      <description>Tarih: 2026.09.06 01:28:58 | Derinlik: 5.1 km | Konum: 38.1350, 37.4533</description>
+    </item>
+
+    <item>
+      <title>M1.6 - BURGUDERE-PALU (ELAZIG) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.09.06-01:06:41-38.7333-40.2115-1.6</guid>
+      <description>Tarih: 2026.09.06 01:06:41 | Derinlik: 7.4 km | Konum: 38.7333, 40.2115</description>
+    </item>
+
     <item>
       <title>M1.0 - BOREZ-GORDES (MANISA) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -340,20 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.09.05-01:53:57-38.6448-26.7130-1.9</guid>
       <description>Tarih: 2026.09.05 01:53:57 | Derinlik: 16.0 km | Konum: 38.6448, 26.7130</description>
-    </item>
-
-    <item>
-      <title>M1.9 - MIDILLI ADASI GUNEYI (EGE DENIZI) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.09.05-01:30:38-38.9405-26.1138-1.9</guid>
-      <description>Tarih: 2026.09.05 01:30:38 | Derinlik: 5.4 km | Konum: 38.9405, 26.1138</description>
-    </item>
-
-    <item>
-      <title>M2.2 - KARATEKE-HONAZ (DENIZLI) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.09.05-01:13:11-37.7150-29.2238-2.2</guid>
-      <description>Tarih: 2026.09.05 01:13:11 | Derinlik: 13.4 km | Konum: 37.7150, 29.2238</description>
     </item>
 
 </channel>
