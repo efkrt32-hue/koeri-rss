@@ -4,8 +4,29 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sun, 06 Sep 2026 19:34:12 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 06 Sep 2026 21:42:02 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.2 - KAVAKLI-(BALIKESIR) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.09.07-00:15:58-39.7058-27.8627-1.2</guid>
+      <description>Tarih: 2026.09.07 00:15:58 | Derinlik: 3.6 km | Konum: 39.7058, 27.8627</description>
+    </item>
+
+    <item>
+      <title>M1.7 - YALINTAS-ELBISTAN (KAHRAMANMARAS) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.09.06-23:33:42-38.3645-37.4300-1.7</guid>
+      <description>Tarih: 2026.09.06 23:33:42 | Derinlik: 6.5 km | Konum: 38.3645, 37.4300</description>
+    </item>
+
+    <item>
+      <title>M1.7 - CENGELLI-PUTURGE (MALATYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.09.06-22:55:48-38.2667-38.8682-1.7</guid>
+      <description>Tarih: 2026.09.06 22:55:48 | Derinlik: 1.6 km | Konum: 38.2667, 38.8682</description>
+    </item>
+
     <item>
       <title>M1.6 - AKTAS-SINDIRGI (BALIKESIR) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -333,27 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.09.06-04:06:44-39.3737-39.1132-1.4</guid>
       <description>Tarih: 2026.09.06 04:06:44 | Derinlik: 4.9 km | Konum: 39.3737, 39.1132</description>
-    </item>
-
-    <item>
-      <title>M1.5 - ADAKOY-OVACIK (TUNCELI) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.09.06-03:55:06-39.3710-39.0877-1.5</guid>
-      <description>Tarih: 2026.09.06 03:55:06 | Derinlik: 5.4 km | Konum: 39.3710, 39.0877</description>
-    </item>
-
-    <item>
-      <title>M1.5 - CELTIKDERESI-SEBEN (BOLU) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.09.06-03:32:50-40.3168-31.7193-1.5</guid>
-      <description>Tarih: 2026.09.06 03:32:50 | Derinlik: 16.7 km | Konum: 40.3168, 31.7193</description>
-    </item>
-
-    <item>
-      <title>M1.1 - ALAKIR-SINDIRGI (BALIKESIR) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.09.06-03:29:43-39.2203-28.0397-1.1</guid>
-      <description>Tarih: 2026.09.06 03:29:43 | Derinlik: 8.9 km | Konum: 39.2203, 28.0397</description>
     </item>
 
 </channel>
