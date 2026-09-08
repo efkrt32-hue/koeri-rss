@@ -4,8 +4,22 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Tue, 08 Sep 2026 06:01:15 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 08 Sep 2026 11:10:27 +0000</lastBuildDate>
   
+    <item>
+      <title>M2.3 - KUSADASI KORFEZI (EGE DENIZI) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.09.08-08:52:42-37.9147-26.9333-2.3</guid>
+      <description>Tarih: 2026.09.08 08:52:42 | Derinlik: 2.1 km | Konum: 37.9147, 26.9333</description>
+    </item>
+
+    <item>
+      <title>M2.9 - CAMDERE-GOKSUN (KAHRAMANMARAS) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.09.08-08:48:58-38.1233-36.5835-2.9</guid>
+      <description>Tarih: 2026.09.08 08:48:58 | Derinlik: 5.0 km | Konum: 38.1233, 36.5835</description>
+    </item>
+
     <item>
       <title>M2.5 - GURCISTAN İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -340,20 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.09.07-08:47:58-40.8838-31.6435-1.6</guid>
       <description>Tarih: 2026.09.07 08:47:58 | Derinlik: 8.4 km | Konum: 40.8838, 31.6435</description>
-    </item>
-
-    <item>
-      <title>M1.9 - HARUNUSAGI-AKCADAG (MALATYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.09.07-07:50:04-38.2370-37.6992-1.9</guid>
-      <description>Tarih: 2026.09.07 07:50:04 | Derinlik: 13.5 km | Konum: 38.2370, 37.6992</description>
-    </item>
-
-    <item>
-      <title>M1.8 - POLAT-DOGANSEHIR (MALATYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.09.07-07:23:59-38.1642-37.8933-1.8</guid>
-      <description>Tarih: 2026.09.07 07:23:59 | Derinlik: 11.8 km | Konum: 38.1642, 37.8933</description>
     </item>
 
 </channel>
