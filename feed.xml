@@ -4,8 +4,36 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Mon, 07 Sep 2026 23:16:26 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 08 Sep 2026 01:14:37 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.2 - EGIRLER-SIMAV (KUTAHYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.09.08-03:24:32-39.2132-29.0222-1.2</guid>
+      <description>Tarih: 2026.09.08 03:24:32 | Derinlik: 10.4 km | Konum: 39.2132, 29.0222</description>
+    </item>
+
+    <item>
+      <title>M1.8 - EGE DENIZI İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.09.08-03:08:55-36.0120-27.3297-1.8</guid>
+      <description>Tarih: 2026.09.08 03:08:55 | Derinlik: 7.5 km | Konum: 36.0120, 27.3297</description>
+    </item>
+
+    <item>
+      <title>M1.5 - YAYLACIK-SINDIRGI (BALIKESIR) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.09.08-02:51:17-39.1993-28.1692-1.5</guid>
+      <description>Tarih: 2026.09.08 02:51:17 | Derinlik: 14.6 km | Konum: 39.1993, 28.1692</description>
+    </item>
+
+    <item>
+      <title>M1.5 - ADAKOY-OVACIK (TUNCELI) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.09.08-02:23:07-39.3627-39.0943-1.5</guid>
+      <description>Tarih: 2026.09.08 02:23:07 | Derinlik: 12.0 km | Konum: 39.3627, 39.0943</description>
+    </item>
+
     <item>
       <title>M1.6 - KOS ADASI (EGE DENIZI) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -326,34 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.09.07-01:18:43-39.2377-28.0727-1.2</guid>
       <description>Tarih: 2026.09.07 01:18:43 | Derinlik: 14.1 km | Konum: 39.2377, 28.0727</description>
-    </item>
-
-    <item>
-      <title>M0.9 - KAZANDERE-GOKSUN (KAHRAMANMARAS) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.09.07-01:11:36-37.9725-36.2697-0.9</guid>
-      <description>Tarih: 2026.09.07 01:11:36 | Derinlik: 5.4 km | Konum: 37.9725, 36.2697</description>
-    </item>
-
-    <item>
-      <title>M1.8 - EGE DENIZI İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.09.07-01:09:01-36.6298-25.5865-1.8</guid>
-      <description>Tarih: 2026.09.07 01:09:01 | Derinlik: 7.0 km | Konum: 36.6298, 25.5865</description>
-    </item>
-
-    <item>
-      <title>M1.1 - IKIZCE-YESILYURT (MALATYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.09.07-01:02:26-38.2842-38.2185-1.1</guid>
-      <description>Tarih: 2026.09.07 01:02:26 | Derinlik: 5.4 km | Konum: 38.2842, 38.2185</description>
-    </item>
-
-    <item>
-      <title>M1.1 - ESKIYASSIPINAR-PINARBASI (KAYSERI) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.09.07-01:01:39-38.7812-36.5860-1.1</guid>
-      <description>Tarih: 2026.09.07 01:01:39 | Derinlik: 11.5 km | Konum: 38.7812, 36.5860</description>
     </item>
 
 </channel>
