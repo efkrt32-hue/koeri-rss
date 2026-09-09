@@ -4,8 +4,15 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Wed, 09 Sep 2026 21:38:27 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 09 Sep 2026 23:30:15 +0000</lastBuildDate>
   
+    <item>
+      <title>M2.5 - YUKARIBURANDERE-PINARBASI (KAYSERI) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.09.10-01:23:21-38.7540-36.5592-2.5</guid>
+      <description>Tarih: 2026.09.10 01:23:21 | Derinlik: 5.0 km | Konum: 38.7540, 36.5592</description>
+    </item>
+
     <item>
       <title>M2.9 - GIRIT ADASI (AKDENIZ) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -347,13 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.09.09-09:59:50-38.3108-26.2917-1.9</guid>
       <description>Tarih: 2026.09.09 09:59:50 | Derinlik: 9.0 km | Konum: 38.3108, 26.2917</description>
-    </item>
-
-    <item>
-      <title>M0.9 - GOLOVA-MENDERES (IZMIR) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.09.09-09:57:50-38.0595-27.2872-0.9</guid>
-      <description>Tarih: 2026.09.09 09:57:50 | Derinlik: 7.4 km | Konum: 38.0595, 27.2872</description>
     </item>
 
 </channel>
