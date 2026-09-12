@@ -4,8 +4,29 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sat, 12 Sep 2026 16:30:54 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 12 Sep 2026 18:42:07 +0000</lastBuildDate>
   
+    <item>
+      <title>M3.2 - GIRIT ADASI (AKDENIZ) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.09.12-20:43:43-35.1003-24.2995-3.2</guid>
+      <description>Tarih: 2026.09.12 20:43:43 | Derinlik: 18.1 km | Konum: 35.1003, 24.2995</description>
+    </item>
+
+    <item>
+      <title>M1.5 - KOLUKLER-DARENDE (MALATYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.09.12-20:07:53-38.5905-37.7835-1.5</guid>
+      <description>Tarih: 2026.09.12 20:07:53 | Derinlik: 10.2 km | Konum: 38.5905, 37.7835</description>
+    </item>
+
+    <item>
+      <title>M2.2 - CANDARLI KORFEZI (EGE DENIZI) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.09.12-19:44:34-38.8700-26.9488-2.2</guid>
+      <description>Tarih: 2026.09.12 19:44:34 | Derinlik: 8.5 km | Konum: 38.8700, 26.9488</description>
+    </item>
+
     <item>
       <title>M2.1 - UNSELI-MURADIYE (VAN) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -333,27 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.09.12-03:31:08-38.8007-27.8363-1.5</guid>
       <description>Tarih: 2026.09.12 03:31:08 | Derinlik: 11.6 km | Konum: 38.8007, 27.8363</description>
-    </item>
-
-    <item>
-      <title>M2.5 - GIRIT ADASI (AKDENIZ) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.09.12-03:10:16-35.2137-24.4108-2.5</guid>
-      <description>Tarih: 2026.09.12 03:10:16 | Derinlik: 24.2 km | Konum: 35.2137, 24.4108</description>
-    </item>
-
-    <item>
-      <title>M1.8 - KARSIYAKA-PUTURGE (MALATYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.09.12-03:02:20-38.2927-38.7815-1.8</guid>
-      <description>Tarih: 2026.09.12 03:02:20 | Derinlik: 5.0 km | Konum: 38.2927, 38.7815</description>
-    </item>
-
-    <item>
-      <title>M0.9 - YOKUSBASI-HONAZ (DENIZLI) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.09.12-02:47:26-37.8647-29.4082-0.9</guid>
-      <description>Tarih: 2026.09.12 02:47:26 | Derinlik: 9.7 km | Konum: 37.8647, 29.4082</description>
     </item>
 
 </channel>
