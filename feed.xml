@@ -4,8 +4,22 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Fri, 18 Sep 2026 21:55:11 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 18 Sep 2026 23:59:14 +0000</lastBuildDate>
   
+    <item>
+      <title>M3.9 - YUNANISTAN İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.09.19-01:11:56-38.9793-23.3597-3.9</guid>
+      <description>Tarih: 2026.09.19 01:11:56 | Derinlik: 21.8 km | Konum: 38.9793, 23.3597</description>
+    </item>
+
+    <item>
+      <title>M1.8 - AKDENIZ İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.09.19-00:48:02-36.2177-28.1522-1.8</guid>
+      <description>Tarih: 2026.09.19 00:48:02 | Derinlik: 5.1 km | Konum: 36.2177, 28.1522</description>
+    </item>
+
     <item>
       <title>M2.0 - VAN GOLU İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -340,20 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.09.18-08:21:58-38.6650-36.4343-1.4</guid>
       <description>Tarih: 2026.09.18 08:21:58 | Derinlik: 0.0 km | Konum: 38.6650, 36.4343</description>
-    </item>
-
-    <item>
-      <title>M2.2 - YUREGIL-SINDIRGI (BALIKESIR) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.09.18-08:05:39-39.1382-28.3113-2.2</guid>
-      <description>Tarih: 2026.09.18 08:05:39 | Derinlik: 7.3 km | Konum: 39.1382, 28.3113</description>
-    </item>
-
-    <item>
-      <title>M1.8 - CUKUROREN-GEDIZ (KUTAHYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.09.18-07:37:51-39.0302-29.6978-1.8</guid>
-      <description>Tarih: 2026.09.18 07:37:51 | Derinlik: 8.5 km | Konum: 39.0302, 29.6978</description>
     </item>
 
 </channel>
