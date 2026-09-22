@@ -4,8 +4,57 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Mon, 21 Sep 2026 23:34:00 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 22 Sep 2026 01:50:30 +0000</lastBuildDate>
   
+    <item>
+      <title>M2.2 - YESILOVA-(HATAY) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.09.22-03:41:44-36.2643-36.2653-2.2</guid>
+      <description>Tarih: 2026.09.22 03:41:44 | Derinlik: 2.3 km | Konum: 36.2643, 36.2653</description>
+    </item>
+
+    <item>
+      <title>M1.2 - CANDARLI KORFEZI (EGE DENIZI) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.09.22-03:32:59-38.7787-26.8548-1.2</guid>
+      <description>Tarih: 2026.09.22 03:32:59 | Derinlik: 5.6 km | Konum: 38.7787, 26.8548</description>
+    </item>
+
+    <item>
+      <title>M1.9 - CANDARLI KORFEZI (EGE DENIZI) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.09.22-03:14:06-38.7865-26.8627-1.9</guid>
+      <description>Tarih: 2026.09.22 03:14:06 | Derinlik: 5.5 km | Konum: 38.7865, 26.8627</description>
+    </item>
+
+    <item>
+      <title>M2.0 - CANDARLI KORFEZI (EGE DENIZI) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.09.22-03:11:40-38.7912-26.8558-2.0</guid>
+      <description>Tarih: 2026.09.22 03:11:40 | Derinlik: 6.8 km | Konum: 38.7912, 26.8558</description>
+    </item>
+
+    <item>
+      <title>M1.8 - CANDARLI KORFEZI (EGE DENIZI) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.09.22-03:08:27-38.7782-26.8577-1.8</guid>
+      <description>Tarih: 2026.09.22 03:08:27 | Derinlik: 11.6 km | Konum: 38.7782, 26.8577</description>
+    </item>
+
+    <item>
+      <title>M1.3 - CANDARLI KORFEZI (EGE DENIZI) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.09.22-02:40:51-38.8008-26.8735-1.3</guid>
+      <description>Tarih: 2026.09.22 02:40:51 | Derinlik: 5.0 km | Konum: 38.8008, 26.8735</description>
+    </item>
+
+    <item>
+      <title>M3.2 - CANDARLI KORFEZI (EGE DENIZI) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.09.22-02:36:45-38.7947-26.8308-3.2</guid>
+      <description>Tarih: 2026.09.22 02:36:45 | Derinlik: 12.6 km | Konum: 38.7947, 26.8308</description>
+    </item>
+
     <item>
       <title>M1.5 - KASONU-TUTAK (AGRI) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -305,55 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.09.21-15:32:41-39.2573-28.1600-1.7</guid>
       <description>Tarih: 2026.09.21 15:32:41 | Derinlik: 5.5 km | Konum: 39.2573, 28.1600</description>
-    </item>
-
-    <item>
-      <title>M2.3 - DEGIRMENCIUSAGI-SAIMBEYLI (ADANA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.09.21-15:05:18-37.8348-36.1538-2.3</guid>
-      <description>Tarih: 2026.09.21 15:05:18 | Derinlik: 7.6 km | Konum: 37.8348, 36.1538</description>
-    </item>
-
-    <item>
-      <title>M2.3 - DEGIRMENCIUSAGI-SAIMBEYLI (ADANA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.09.21-15:03:42-37.8505-36.1357-2.3</guid>
-      <description>Tarih: 2026.09.21 15:03:42 | Derinlik: 1.6 km | Konum: 37.8505, 36.1357</description>
-    </item>
-
-    <item>
-      <title>M2.4 - YUNANISTAN İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.09.21-14:21:27-38.9285-23.1652-2.4</guid>
-      <description>Tarih: 2026.09.21 14:21:27 | Derinlik: 25.2 km | Konum: 38.9285, 23.1652</description>
-    </item>
-
-    <item>
-      <title>M1.7 - YETIMLI-ALADAG (ADANA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.09.21-13:47:52-37.6353-35.3718-1.7</guid>
-      <description>Tarih: 2026.09.21 13:47:52 | Derinlik: 5.7 km | Konum: 37.6353, 35.3718</description>
-    </item>
-
-    <item>
-      <title>M1.9 - KAPAKLIKUYU-SAIMBEYLI (ADANA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.09.21-13:40:53-37.8148-36.2247-1.9</guid>
-      <description>Tarih: 2026.09.21 13:40:53 | Derinlik: 5.2 km | Konum: 37.8148, 36.2247</description>
-    </item>
-
-    <item>
-      <title>M1.9 - BAHCEKARADALAK-BALA (ANKARA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.09.21-12:43:52-39.4915-33.2140-1.9</guid>
-      <description>Tarih: 2026.09.21 12:43:52 | Derinlik: 1.9 km | Konum: 39.4915, 33.2140</description>
-    </item>
-
-    <item>
-      <title>M1.4 - KOBAKLAR-GORDES (MANISA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.09.21-12:23:49-39.0957-28.3487-1.4</guid>
-      <description>Tarih: 2026.09.21 12:23:49 | Derinlik: 10.1 km | Konum: 39.0957, 28.3487</description>
     </item>
 
 </channel>
