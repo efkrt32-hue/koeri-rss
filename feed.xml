@@ -4,8 +4,22 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Thu, 24 Sep 2026 20:23:35 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 24 Sep 2026 23:17:54 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.2 - YEMISLI-SIMAV (KUTAHYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.09.25-01:18:51-39.2375-29.0205-1.2</guid>
+      <description>Tarih: 2026.09.25 01:18:51 | Derinlik: 6.6 km | Konum: 39.2375, 29.0205</description>
+    </item>
+
+    <item>
+      <title>M1.2 - HACIMIRZA-GOKSUN (KAHRAMANMARAS) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.09.25-00:46:44-38.0530-36.5052-1.2</guid>
+      <description>Tarih: 2026.09.25 00:46:44 | Derinlik: 12.4 km | Konum: 38.0530, 36.5052</description>
+    </item>
+
     <item>
       <title>M1.7 - SAGLAMTAS-(VAN) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -340,20 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.09.24-03:46:56-39.2635-28.9923-1.6</guid>
       <description>Tarih: 2026.09.24 03:46:56 | Derinlik: 9.7 km | Konum: 39.2635, 28.9923</description>
-    </item>
-
-    <item>
-      <title>M0.7 - SALKIMOZU-PULUMUR (TUNCELI) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.09.24-02:59:14-39.5942-39.8000-0.7</guid>
-      <description>Tarih: 2026.09.24 02:59:14 | Derinlik: 5.0 km | Konum: 39.5942, 39.8000</description>
-    </item>
-
-    <item>
-      <title>M1.4 - KAZANDERE-GOKSUN (KAHRAMANMARAS) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.09.24-02:45:55-38.0005-36.2752-1.4</guid>
-      <description>Tarih: 2026.09.24 02:45:55 | Derinlik: 2.1 km | Konum: 38.0005, 36.2752</description>
     </item>
 
 </channel>
