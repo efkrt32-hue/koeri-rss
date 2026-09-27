@@ -4,8 +4,22 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Sat, 26 Sep 2026 22:02:37 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 27 Sep 2026 00:30:35 +0000</lastBuildDate>
   
+    <item>
+      <title>M2.9 - BAGLICAY-GURUN (SIVAS) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.09.27-03:00:13-38.8403-37.4778-2.9</guid>
+      <description>Tarih: 2026.09.27 03:00:13 | Derinlik: 5.0 km | Konum: 38.8403, 37.4778</description>
+    </item>
+
+    <item>
+      <title>M1.4 - EGIRLER-SIMAV (KUTAHYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.09.27-01:09:06-39.2213-29.0395-1.4</guid>
+      <description>Tarih: 2026.09.27 01:09:06 | Derinlik: 10.3 km | Konum: 39.2213, 29.0395</description>
+    </item>
+
     <item>
       <title>M2.4 - KARATEPE-KADIRLI (OSMANIYE) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -340,20 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.09.26-05:06:25-40.1508-31.7637-2.1</guid>
       <description>Tarih: 2026.09.26 05:06:25 | Derinlik: 5.0 km | Konum: 40.1508, 31.7637</description>
-    </item>
-
-    <item>
-      <title>M1.1 - AGCASAR-NURHAK (KAHRAMANMARAS) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.09.26-04:29:36-38.0717-37.4032-1.1</guid>
-      <description>Tarih: 2026.09.26 04:29:36 | Derinlik: 5.4 km | Konum: 38.0717, 37.4032</description>
-    </item>
-
-    <item>
-      <title>M1.5 - ELMALI-(BINGOL) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.09.26-04:14:35-39.0250-40.7752-1.5</guid>
-      <description>Tarih: 2026.09.26 04:14:35 | Derinlik: 6.1 km | Konum: 39.0250, 40.7752</description>
     </item>
 
 </channel>
