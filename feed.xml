@@ -4,8 +4,22 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Mon, 28 Sep 2026 13:46:27 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 28 Sep 2026 20:16:22 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.5 - HARUNUSAGI-AKCADAG (MALATYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.09.28-17:26:22-38.2328-37.7268-1.5</guid>
+      <description>Tarih: 2026.09.28 17:26:22 | Derinlik: 14.6 km | Konum: 38.2328, 37.7268</description>
+    </item>
+
+    <item>
+      <title>M1.7 - CALTI-GELENDOST (ISPARTA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.09.28-16:58:18-38.2163-31.0463-1.7</guid>
+      <description>Tarih: 2026.09.28 16:58:18 | Derinlik: 15.0 km | Konum: 38.2163, 31.0463</description>
+    </item>
+
     <item>
       <title>M2.0 - GUZELKOY ACIKLARI-TEKIRDAG (MARMARA DENIZI) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -340,20 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.09.28-02:16:40-39.2478-28.1950-1.0</guid>
       <description>Tarih: 2026.09.28 02:16:40 | Derinlik: 14.3 km | Konum: 39.2478, 28.1950</description>
-    </item>
-
-    <item>
-      <title>M1.8 - BAHARLAR-SARIGOL (MANISA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.09.28-01:53:15-38.2055-28.7850-1.8</guid>
-      <description>Tarih: 2026.09.28 01:53:15 | Derinlik: 7.2 km | Konum: 38.2055, 28.7850</description>
-    </item>
-
-    <item>
-      <title>M1.6 - INKOY-GEVAS (VAN) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.09.28-01:45:23-38.5297-42.7978-1.6</guid>
-      <description>Tarih: 2026.09.28 01:45:23 | Derinlik: 6.8 km | Konum: 38.5297, 42.7978</description>
     </item>
 
 </channel>
