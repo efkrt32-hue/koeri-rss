@@ -4,8 +4,57 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Fri, 02 Oct 2026 21:03:12 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 03 Oct 2026 00:26:07 +0000</lastBuildDate>
   
+    <item>
+      <title>M1.9 - TORTULU-FEKE (ADANA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.10.03-02:01:19-37.8005-35.8277-1.9</guid>
+      <description>Tarih: 2026.10.03 02:01:19 | Derinlik: 9.9 km | Konum: 37.8005, 35.8277</description>
+    </item>
+
+    <item>
+      <title>M2.3 - AKBUDAK-KEMAH (ERZINCAN) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.10.03-01:48:41-39.8125-39.0828-2.3</guid>
+      <description>Tarih: 2026.10.03 01:48:41 | Derinlik: 6.5 km | Konum: 39.8125, 39.0828</description>
+    </item>
+
+    <item>
+      <title>M2.8 - KAVAK-ISKILIP (CORUM) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.10.03-01:42:40-40.7770-34.4433-2.8</guid>
+      <description>Tarih: 2026.10.03 01:42:40 | Derinlik: 5.5 km | Konum: 40.7770, 34.4433</description>
+    </item>
+
+    <item>
+      <title>M2.1 - BOSTANBASI-YESILYURT (MALATYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.10.03-01:36:37-38.3143-38.2513-2.1</guid>
+      <description>Tarih: 2026.10.03 01:36:37 | Derinlik: 5.1 km | Konum: 38.3143, 38.2513</description>
+    </item>
+
+    <item>
+      <title>M1.4 - YAYLACIK-SINDIRGI (BALIKESIR) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.10.03-01:32:47-39.2092-28.1512-1.4</guid>
+      <description>Tarih: 2026.10.03 01:32:47 | Derinlik: 14.3 km | Konum: 39.2092, 28.1512</description>
+    </item>
+
+    <item>
+      <title>M1.3 - KUYULU-YESILYURT (MALATYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.10.03-00:04:05-38.3182-38.1285-1.3</guid>
+      <description>Tarih: 2026.10.03 00:04:05 | Derinlik: 7.5 km | Konum: 38.3182, 38.1285</description>
+    </item>
+
+    <item>
+      <title>M1.4 - KARACAM-KOYCEGIZ (MUGLA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.10.02-23:53:31-37.0545-28.9825-1.4</guid>
+      <description>Tarih: 2026.10.02 23:53:31 | Derinlik: 4.6 km | Konum: 37.0545, 28.9825</description>
+    </item>
+
     <item>
       <title>M1.6 - KUCUKUNGUT-CAGLAYANCERIT (KAHRAMANMARAS) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -60,6 +109,13 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.10.02-21:55:07-37.4482-31.4772-1.5</guid>
       <description>Tarih: 2026.10.02 21:55:07 | Derinlik: 7.2 km | Konum: 37.4482, 31.4772</description>
+    </item>
+
+    <item>
+      <title>M1.9 - AKDENIZ İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.10.02-21:18:31-35.9835-31.7557-1.9</guid>
+      <description>Tarih: 2026.10.02 21:18:31 | Derinlik: 29.9 km | Konum: 35.9835, 31.7557</description>
     </item>
 
     <item>
@@ -298,62 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.10.02-10:40:40-38.2737-30.7837-2.3</guid>
       <description>Tarih: 2026.10.02 10:40:40 | Derinlik: 14.7 km | Konum: 38.2737, 30.7837</description>
-    </item>
-
-    <item>
-      <title>M1.1 - SARICALAR-SELCUKLU (KONYA) REVIZE01 (2026.10.02 09:40:19)</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.10.02-09:40:19-38.1080-32.6077-1.1</guid>
-      <description>Tarih: 2026.10.02 09:40:19 | Derinlik: 0.0 km | Konum: 38.1080, 32.6077</description>
-    </item>
-
-    <item>
-      <title>M1.4 - GULUMUSAGI-(MALATYA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.10.02-08:58:57-38.2227-38.5520-1.4</guid>
-      <description>Tarih: 2026.10.02 08:58:57 | Derinlik: 19.3 km | Konum: 38.2227, 38.5520</description>
-    </item>
-
-    <item>
-      <title>M1.6 - GEMLIK KORFEZI (MARMARA DENIZI) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.10.02-08:43:51-40.4147-28.8788-1.6</guid>
-      <description>Tarih: 2026.10.02 08:43:51 | Derinlik: 3.7 km | Konum: 40.4147, 28.8788</description>
-    </item>
-
-    <item>
-      <title>M1.1 - KAVAKLIDERE-AZIZIYE (ERZURUM) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.10.02-08:27:37-40.1247-41.1677-1.1</guid>
-      <description>Tarih: 2026.10.02 08:27:37 | Derinlik: 15.8 km | Konum: 40.1247, 41.1677</description>
-    </item>
-
-    <item>
-      <title>M2.2 - YUNANISTAN İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.10.02-07:06:55-40.2067-23.9180-2.2</guid>
-      <description>Tarih: 2026.10.02 07:06:55 | Derinlik: 9.7 km | Konum: 40.2067, 23.9180</description>
-    </item>
-
-    <item>
-      <title>M1.7 - KIZILKAYA-DALAMAN (MUGLA) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.10.02-07:01:24-36.8978-28.8923-1.7</guid>
-      <description>Tarih: 2026.10.02 07:01:24 | Derinlik: 5.0 km | Konum: 36.8978, 28.8923</description>
-    </item>
-
-    <item>
-      <title>M2.0 - KALE-ARSUZ (HATAY) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.10.02-06:56:29-36.2037-35.8260-2.0</guid>
-      <description>Tarih: 2026.10.02 06:56:29 | Derinlik: 12.1 km | Konum: 36.2037, 35.8260</description>
-    </item>
-
-    <item>
-      <title>M1.3 - PURSUNLER-SINDIRGI (BALIKESIR) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.10.02-06:55:42-39.2253-28.1907-1.3</guid>
-      <description>Tarih: 2026.10.02 06:55:42 | Derinlik: 8.6 km | Konum: 39.2253, 28.1907</description>
     </item>
 
 </channel>
