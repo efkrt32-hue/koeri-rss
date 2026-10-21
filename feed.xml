@@ -4,8 +4,22 @@
   <title>Kandilli Son Depremler</title>
   <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
   <description>Kandilli Rasathanesi son depremler RSS feed</description>
-  <lastBuildDate>Wed, 21 Oct 2026 13:11:24 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 21 Oct 2026 18:05:33 +0000</lastBuildDate>
   
+    <item>
+      <title>M3.0 - KOMURCULER-DOSEMEALTI (ANTALYA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.10.21-17:32:40-37.0773-30.5897-3.0</guid>
+      <description>Tarih: 2026.10.21 17:32:40 | Derinlik: 2.9 km | Konum: 37.0773, 30.5897</description>
+    </item>
+
+    <item>
+      <title>M1.6 - AKSAAGAC-SAIMBEYLI (ADANA) İlksel</title>
+      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
+      <guid>2026.10.21-15:28:20-37.8957-36.1913-1.6</guid>
+      <description>Tarih: 2026.10.21 15:28:20 | Derinlik: 18.4 km | Konum: 37.8957, 36.1913</description>
+    </item>
+
     <item>
       <title>M1.7 - KERTIL-SINDIRGI (BALIKESIR) İlksel</title>
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
@@ -340,20 +354,6 @@
       <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
       <guid>2026.10.20-16:37:23-37.7095-36.0868-2.2</guid>
       <description>Tarih: 2026.10.20 16:37:23 | Derinlik: 5.5 km | Konum: 37.7095, 36.0868</description>
-    </item>
-
-    <item>
-      <title>M2.0 - AKYAKA-DEMIROZU (BAYBURT) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.10.20-16:32:40-40.0250-39.8828-2.0</guid>
-      <description>Tarih: 2026.10.20 16:32:40 | Derinlik: 13.4 km | Konum: 40.0250, 39.8828</description>
-    </item>
-
-    <item>
-      <title>M1.9 - GOKOVA KORFEZI (EGE DENIZI) İlksel</title>
-      <link>http://www.koeri.boun.edu.tr/scripts/lst8.asp</link>
-      <guid>2026.10.20-16:12:57-36.9608-27.5605-1.9</guid>
-      <description>Tarih: 2026.10.20 16:12:57 | Derinlik: 5.9 km | Konum: 36.9608, 27.5605</description>
     </item>
 
 </channel>
